@@ -1,0 +1,307 @@
+Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
+12-09-2020,sc Heerenveen,Willem II,2,0,Gewonnen
+12-09-2020,PEC Zwolle,Feyenoord,0,2,Verloren
+12-09-2020,FC Twente,Fortuna Sittard,2,0,Gewonnen
+13-09-2020,FC Emmen,VVV-Venlo,3,5,Verloren
+13-09-2020,Sparta Rotterdam,Ajax,0,1,Verloren
+13-09-2020,Heracles Almelo,ADO Den Haag,2,0,Gewonnen
+13-09-2020,FC Groningen,PSV,1,3,Verloren
+13-09-2020,RKC Waalwijk,Vitesse,0,1,Verloren
+18-09-2020,VVV-Venlo,FC Utrecht,1,1,Gelijk
+19-09-2020,AZ,PEC Zwolle,1,1,Gelijk
+19-09-2020,Vitesse,Sparta Rotterdam,2,0,Gewonnen
+19-09-2020,PSV,FC Emmen,2,1,Gewonnen
+19-09-2020,Fortuna Sittard,sc Heerenveen,1,3,Verloren
+20-09-2020,ADO Den Haag,FC Groningen,0,1,Verloren
+20-09-2020,Feyenoord,FC Twente,1,1,Gelijk
+20-09-2020,Willem II,Heracles Almelo,4,0,Gewonnen
+20-09-2020,Ajax,RKC Waalwijk,3,0,Gewonnen
+25-09-2020,FC Twente,FC Groningen,3,1,Gewonnen
+26-09-2020,PEC Zwolle,Sparta Rotterdam,4,0,Gewonnen
+26-09-2020,Fortuna Sittard,AZ,3,3,Gelijk
+26-09-2020,sc Heerenveen,VVV-Venlo,1,0,Gewonnen
+26-09-2020,Ajax,Vitesse,2,1,Gewonnen
+27-09-2020,Feyenoord,ADO Den Haag,4,2,Gewonnen
+27-09-2020,FC Utrecht,RKC Waalwijk,3,1,Gewonnen
+27-09-2020,Heracles Almelo,PSV,1,1,Gelijk
+27-09-2020,FC Emmen,Willem II,1,1,Gelijk
+02-10-2020,FC Utrecht,sc Heerenveen,1,1,Gelijk
+03-10-2020,Vitesse,Heracles Almelo,3,0,Gewonnen
+03-10-2020,VVV-Venlo,ADO Den Haag,1,2,Verloren
+03-10-2020,FC Twente,FC Emmen,1,1,Gelijk
+04-10-2020,FC Groningen,Ajax,1,0,Gewonnen
+04-10-2020,Sparta Rotterdam,AZ,4,4,Gelijk
+04-10-2020,Willem II,Feyenoord,1,4,Verloren
+04-10-2020,PSV,Fortuna Sittard,2,0,Gewonnen
+17-10-2020,Heracles Almelo,RKC Waalwijk,0,1,Verloren
+17-10-2020,AZ,VVV-Venlo,2,2,Gelijk
+17-10-2020,Willem II,FC Twente,0,3,Verloren
+18-10-2020,Feyenoord,Sparta Rotterdam,1,1,Gelijk
+18-10-2020,Ajax,sc Heerenveen,5,1,Gewonnen
+18-10-2020,ADO Den Haag,Vitesse,0,2,Verloren
+18-10-2020,FC Groningen,FC Utrecht,0,0,Gelijk
+18-10-2020,PEC Zwolle,PSV,0,3,Verloren
+18-10-2020,FC Emmen,Fortuna Sittard,2,2,Gelijk
+21-10-2020,RKC Waalwijk,PEC Zwolle,1,1,Gelijk
+24-10-2020,VVV-Venlo,Ajax,0,13,Verloren
+24-10-2020,FC Utrecht,FC Twente,2,1,Gewonnen
+24-10-2020,PEC Zwolle,Willem II,0,0,Gelijk
+24-10-2020,sc Heerenveen,FC Emmen,4,0,Gewonnen
+25-10-2020,Fortuna Sittard,FC Groningen,1,3,Verloren
+25-10-2020,Sparta Rotterdam,Heracles Almelo,1,1,Gelijk
+25-10-2020,Vitesse,PSV,2,1,Gewonnen
+25-10-2020,RKC Waalwijk,Feyenoord,2,2,Gelijk
+25-10-2020,ADO Den Haag,AZ,2,2,Gelijk
+31-10-2020,FC Twente,PEC Zwolle,5,1,Gewonnen
+31-10-2020,Ajax,Fortuna Sittard,5,2,Gewonnen
+31-10-2020,FC Groningen,VVV-Venlo,2,1,Gewonnen
+31-10-2020,Willem II,Vitesse,1,3,Verloren
+01-11-2020,Heracles Almelo,FC Utrecht,4,1,Gewonnen
+01-11-2020,Sparta Rotterdam,sc Heerenveen,1,4,Verloren
+01-11-2020,FC Emmen,Feyenoord,2,3,Verloren
+01-11-2020,PSV,ADO Den Haag,4,0,Gewonnen
+01-11-2020,AZ,RKC Waalwijk,3,0,Gewonnen
+06-11-2020,Fortuna Sittard,PEC Zwolle,2,2,Gelijk
+07-11-2020,ADO Den Haag,FC Twente,2,4,Verloren
+07-11-2020,VVV-Venlo,Heracles Almelo,3,2,Gewonnen
+07-11-2020,RKC Waalwijk,Sparta Rotterdam,0,2,Verloren
+08-11-2020,FC Utrecht,Ajax,0,3,Verloren
+08-11-2020,Feyenoord,FC Groningen,2,0,Gewonnen
+08-11-2020,Vitesse,FC Emmen,3,1,Gewonnen
+08-11-2020,sc Heerenveen,AZ,0,3,Verloren
+08-11-2020,PSV,Willem II,3,0,Gewonnen
+21-11-2020,Willem II,VVV-Venlo,2,1,Gewonnen
+21-11-2020,FC Groningen,Vitesse,1,1,Gelijk
+21-11-2020,PEC Zwolle,FC Utrecht,1,1,Gelijk
+22-11-2020,Ajax,Heracles Almelo,5,0,Gewonnen
+22-11-2020,Fortuna Sittard,Feyenoord,1,3,Verloren
+22-11-2020,Sparta Rotterdam,ADO Den Haag,6,0,Gewonnen
+22-11-2020,RKC Waalwijk,sc Heerenveen,1,1,Gelijk
+22-11-2020,FC Twente,PSV,1,1,Gelijk
+22-11-2020,AZ,FC Emmen,1,0,Gewonnen
+27-11-2020,FC Twente,RKC Waalwijk,0,2,Verloren
+28-11-2020,FC Emmen,Ajax,0,5,Verloren
+28-11-2020,ADO Den Haag,sc Heerenveen,1,1,Gelijk
+28-11-2020,VVV-Venlo,PEC Zwolle,2,2,Gelijk
+29-11-2020,Vitesse,Fortuna Sittard,2,0,Gewonnen
+29-11-2020,FC Groningen,Willem II,1,0,Gewonnen
+29-11-2020,Feyenoord,FC Utrecht,1,1,Gelijk
+29-11-2020,Heracles Almelo,AZ,1,2,Verloren
+29-11-2020,PSV,Sparta Rotterdam,1,0,Gewonnen
+04-12-2020,Sparta Rotterdam,FC Emmen,2,1,Gewonnen
+05-12-2020,RKC Waalwijk,VVV-Venlo,3,2,Gewonnen
+05-12-2020,Fortuna Sittard,Willem II,3,2,Gewonnen
+05-12-2020,Ajax,FC Twente,1,2,Verloren
+05-12-2020,PEC Zwolle,Vitesse,2,1,Gewonnen
+06-12-2020,Feyenoord,Heracles Almelo,0,0,Gelijk
+06-12-2020,AZ,FC Groningen,1,2,Verloren
+06-12-2020,FC Utrecht,ADO Den Haag,1,1,Gelijk
+06-12-2020,sc Heerenveen,PSV,2,2,Gelijk
+11-12-2020,Heracles Almelo,Fortuna Sittard,1,2,Verloren
+12-12-2020,FC Groningen,RKC Waalwijk,2,0,Gewonnen
+12-12-2020,FC Emmen,ADO Den Haag,1,1,Gelijk
+12-12-2020,Ajax,PEC Zwolle,4,0,Gewonnen
+13-12-2020,Vitesse,sc Heerenveen,1,1,Gelijk
+13-12-2020,Willem II,Sparta Rotterdam,1,3,Verloren
+13-12-2020,VVV-Venlo,Feyenoord,0,3,Verloren
+13-12-2020,PSV,FC Utrecht,2,1,Gewonnen
+13-12-2020,FC Twente,AZ,1,3,Verloren
+18-12-2020,PEC Zwolle,FC Emmen,0,0,Gelijk
+19-12-2020,Sparta Rotterdam,FC Groningen,2,3,Verloren
+19-12-2020,VVV-Venlo,FC Twente,1,2,Verloren
+19-12-2020,RKC Waalwijk,PSV,1,4,Verloren
+19-12-2020,FC Utrecht,Fortuna Sittard,1,1,Gelijk
+20-12-2020,Vitesse,Feyenoord,1,0,Gewonnen
+20-12-2020,ADO Den Haag,Ajax,2,4,Verloren
+20-12-2020,sc Heerenveen,Heracles Almelo,1,2,Verloren
+20-12-2020,AZ,Willem II,5,3,Gewonnen
+22-12-2020,Fortuna Sittard,RKC Waalwijk,2,1,Gewonnen
+22-12-2020,FC Emmen,FC Utrecht,2,3,Verloren
+22-12-2020,PSV,VVV-Venlo,4,1,Gewonnen
+22-12-2020,FC Twente,Sparta Rotterdam,0,2,Verloren
+23-12-2020,AZ,Vitesse,3,1,Gewonnen
+23-12-2020,Willem II,Ajax,1,1,Gelijk
+23-12-2020,ADO Den Haag,PEC Zwolle,0,2,Verloren
+23-12-2020,FC Groningen,Heracles Almelo,0,1,Verloren
+23-12-2020,Feyenoord,sc Heerenveen,3,0,Gewonnen
+27-12-2020,FC Utrecht,AZ,2,2,Gelijk
+09-01-2021,RKC Waalwijk,ADO Den Haag,0,1,Verloren
+09-01-2021,FC Emmen,FC Twente,1,4,Verloren
+09-01-2021,PEC Zwolle,AZ,1,1,Gelijk
+09-01-2021,Heracles Almelo,Vitesse,0,2,Verloren
+09-01-2021,FC Utrecht,FC Groningen,2,2,Gelijk
+10-01-2021,Sparta Rotterdam,Feyenoord,0,2,Verloren
+10-01-2021,VVV-Venlo,Willem II,2,1,Gewonnen
+10-01-2021,sc Heerenveen,Fortuna Sittard,1,3,Verloren
+10-01-2021,Ajax,PSV,2,2,Gelijk
+12-01-2021,Vitesse,FC Utrecht,1,0,Gewonnen
+12-01-2021,Heracles Almelo,FC Emmen,4,0,Gewonnen
+13-01-2021,PSV,AZ,1,3,Verloren
+13-01-2021,ADO Den Haag,VVV-Venlo,1,4,Verloren
+13-01-2021,Fortuna Sittard,Sparta Rotterdam,0,1,Verloren
+13-01-2021,Feyenoord,PEC Zwolle,1,0,Gewonnen
+14-01-2021,sc Heerenveen,RKC Waalwijk,1,1,Gelijk
+14-01-2021,FC Twente,Ajax,1,3,Verloren
+14-01-2021,Willem II,FC Groningen,2,3,Verloren
+16-01-2021,FC Emmen,Vitesse,1,4,Verloren
+16-01-2021,Sparta Rotterdam,PSV,3,5,Verloren
+16-01-2021,PEC Zwolle,Fortuna Sittard,0,2,Verloren
+16-01-2021,FC Utrecht,Heracles Almelo,2,0,Gewonnen
+16-01-2021,AZ,ADO Den Haag,2,1,Gewonnen
+17-01-2021,RKC Waalwijk,Willem II,1,1,Gelijk
+17-01-2021,VVV-Venlo,sc Heerenveen,1,1,Gelijk
+17-01-2021,FC Groningen,FC Twente,2,2,Gelijk
+17-01-2021,Ajax,Feyenoord,1,0,Gewonnen
+22-01-2021,Willem II,PEC Zwolle,1,3,Verloren
+23-01-2021,ADO Den Haag,FC Emmen,0,0,Gelijk
+23-01-2021,Vitesse,FC Groningen,1,0,Gewonnen
+23-01-2021,PSV,RKC Waalwijk,2,0,Gewonnen
+23-01-2021,Heracles Almelo,sc Heerenveen,1,0,Gewonnen
+24-01-2021,Fortuna Sittard,Ajax,1,2,Verloren
+24-01-2021,FC Twente,VVV-Venlo,0,1,Verloren
+24-01-2021,FC Utrecht,Sparta Rotterdam,1,0,Gewonnen
+24-01-2021,Feyenoord,AZ,2,3,Verloren
+26-01-2021,PEC Zwolle,Heracles Almelo,2,2,Gelijk
+26-01-2021,FC Emmen,PSV,0,2,Verloren
+26-01-2021,FC Groningen,ADO Den Haag,3,0,Gewonnen
+27-01-2021,AZ,FC Utrecht,0,1,Verloren
+27-01-2021,VVV-Venlo,Vitesse,4,1,Gewonnen
+27-01-2021,RKC Waalwijk,Fortuna Sittard,1,2,Verloren
+27-01-2021,sc Heerenveen,Feyenoord,3,0,Gewonnen
+28-01-2021,Sparta Rotterdam,FC Twente,0,0,Gelijk
+28-01-2021,Ajax,Willem II,3,1,Gewonnen
+30-01-2021,Heracles Almelo,FC Groningen,1,0,Gewonnen
+30-01-2021,FC Utrecht,PEC Zwolle,3,3,Gelijk
+30-01-2021,Fortuna Sittard,VVV-Venlo,3,2,Gewonnen
+30-01-2021,Vitesse,RKC Waalwijk,1,1,Gelijk
+31-01-2021,FC Twente,sc Heerenveen,0,0,Gelijk
+31-01-2021,Willem II,FC Emmen,2,0,Gewonnen
+31-01-2021,Feyenoord,PSV,3,1,Gewonnen
+31-01-2021,AZ,Ajax,0,3,Verloren
+31-01-2021,ADO Den Haag,Sparta Rotterdam,1,1,Gelijk
+05-02-2021,Fortuna Sittard,Heracles Almelo,0,1,Verloren
+06-02-2021,PEC Zwolle,RKC Waalwijk,1,1,Gelijk
+06-02-2021,FC Emmen,AZ,0,1,Verloren
+06-02-2021,sc Heerenveen,Vitesse,1,0,Gewonnen
+06-02-2021,PSV,FC Twente,3,0,Gewonnen
+12-02-2021,RKC Waalwijk,FC Emmen,1,0,Gewonnen
+13-02-2021,FC Groningen,PEC Zwolle,1,0,Gewonnen
+13-02-2021,Sparta Rotterdam,Fortuna Sittard,1,2,Verloren
+13-02-2021,ADO Den Haag,PSV,2,2,Gelijk
+13-02-2021,Heracles Almelo,Ajax,0,2,Verloren
+14-02-2021,AZ,sc Heerenveen,3,1,Gewonnen
+14-02-2021,FC Utrecht,VVV-Venlo,3,1,Gewonnen
+14-02-2021,Feyenoord,Willem II,5,0,Gewonnen
+14-02-2021,Vitesse,FC Twente,0,2,Verloren
+19-02-2021,Willem II,FC Utrecht,0,6,Verloren
+20-02-2021,FC Emmen,PEC Zwolle,3,2,Gewonnen
+20-02-2021,VVV-Venlo,AZ,1,4,Verloren
+20-02-2021,Fortuna Sittard,ADO Den Haag,2,0,Gewonnen
+21-02-2021,FC Twente,Feyenoord,2,2,Gelijk
+21-02-2021,RKC Waalwijk,Heracles Almelo,3,0,Gewonnen
+21-02-2021,sc Heerenveen,FC Groningen,1,1,Gelijk
+21-02-2021,PSV,Vitesse,3,1,Gewonnen
+21-02-2021,Ajax,Sparta Rotterdam,4,2,Gewonnen
+24-02-2021,Willem II,ADO Den Haag,1,1,Gelijk
+24-02-2021,FC Groningen,Feyenoord,0,0,Gelijk
+26-02-2021,PEC Zwolle,sc Heerenveen,4,1,Gewonnen
+27-02-2021,FC Utrecht,FC Emmen,0,1,Verloren
+27-02-2021,ADO Den Haag,RKC Waalwijk,0,0,Gelijk
+27-02-2021,Vitesse,VVV-Venlo,4,1,Gewonnen
+27-02-2021,Heracles Almelo,FC Twente,2,2,Gelijk
+28-02-2021,Sparta Rotterdam,Willem II,0,2,Verloren
+28-02-2021,PSV,Ajax,1,1,Gelijk
+28-02-2021,FC Groningen,Fortuna Sittard,1,0,Gewonnen
+28-02-2021,AZ,Feyenoord,4,2,Gewonnen
+05-03-2021,FC Emmen,Sparta Rotterdam,1,1,Gelijk
+06-03-2021,Feyenoord,VVV-Venlo,6,0,Gewonnen
+06-03-2021,FC Twente,Willem II,1,1,Gelijk
+06-03-2021,sc Heerenveen,ADO Den Haag,3,0,Gewonnen
+06-03-2021,RKC Waalwijk,FC Utrecht,1,2,Verloren
+07-03-2021,Ajax,FC Groningen,3,1,Gewonnen
+07-03-2021,Heracles Almelo,PEC Zwolle,2,1,Gewonnen
+07-03-2021,Fortuna Sittard,PSV,1,3,Verloren
+07-03-2021,Vitesse,AZ,2,1,Gewonnen
+09-03-2021,VVV-Venlo,Sparta Rotterdam,0,1,Verloren
+13-03-2021,Willem II,sc Heerenveen,3,1,Gewonnen
+13-03-2021,ADO Den Haag,Heracles Almelo,1,2,Verloren
+13-03-2021,FC Groningen,FC Emmen,1,1,Gelijk
+13-03-2021,AZ,FC Twente,4,1,Gewonnen
+13-03-2021,Sparta Rotterdam,RKC Waalwijk,2,0,Gewonnen
+14-03-2021,VVV-Venlo,Fortuna Sittard,1,3,Verloren
+14-03-2021,FC Utrecht,Vitesse,1,3,Verloren
+14-03-2021,PSV,Feyenoord,1,1,Gelijk
+14-03-2021,PEC Zwolle,Ajax,0,2,Verloren
+19-03-2021,sc Heerenveen,FC Twente,0,0,Gelijk
+20-03-2021,Fortuna Sittard,FC Utrecht,0,1,Verloren
+20-03-2021,Feyenoord,FC Emmen,1,1,Gelijk
+20-03-2021,RKC Waalwijk,FC Groningen,3,1,Gewonnen
+21-03-2021,PEC Zwolle,VVV-Venlo,2,1,Gewonnen
+21-03-2021,Vitesse,Willem II,0,0,Gelijk
+21-03-2021,AZ,PSV,2,0,Gewonnen
+21-03-2021,Heracles Almelo,Sparta Rotterdam,1,1,Gelijk
+21-03-2021,Ajax,ADO Den Haag,5,0,Gewonnen
+03-04-2021,VVV-Venlo,FC Groningen,0,1,Verloren
+03-04-2021,FC Twente,Vitesse,1,2,Verloren
+03-04-2021,Willem II,AZ,0,1,Verloren
+03-04-2021,Sparta Rotterdam,PEC Zwolle,3,2,Gewonnen
+04-04-2021,Feyenoord,Fortuna Sittard,2,0,Gewonnen
+04-04-2021,PSV,Heracles Almelo,3,0,Gewonnen
+04-04-2021,ADO Den Haag,FC Utrecht,1,4,Verloren
+04-04-2021,FC Emmen,RKC Waalwijk,3,1,Gewonnen
+04-04-2021,sc Heerenveen,Ajax,1,2,Verloren
+09-04-2021,Vitesse,ADO Den Haag,0,0,Gelijk
+10-04-2021,Heracles Almelo,Willem II,4,0,Gewonnen
+10-04-2021,AZ,Sparta Rotterdam,2,0,Gewonnen
+10-04-2021,Fortuna Sittard,FC Emmen,1,3,Verloren
+10-04-2021,PEC Zwolle,FC Twente,1,0,Gewonnen
+11-04-2021,FC Utrecht,Feyenoord,1,2,Verloren
+11-04-2021,VVV-Venlo,PSV,0,2,Verloren
+11-04-2021,FC Groningen,sc Heerenveen,0,2,Verloren
+11-04-2021,RKC Waalwijk,Ajax,0,1,Verloren
+22-04-2021,Ajax,FC Utrecht,1,1,Gelijk
+23-04-2021,Willem II,RKC Waalwijk,1,0,Gewonnen
+24-04-2021,sc Heerenveen,PEC Zwolle,0,2,Verloren
+24-04-2021,Sparta Rotterdam,VVV-Venlo,2,0,Gewonnen
+24-04-2021,PSV,FC Groningen,1,0,Gewonnen
+25-04-2021,FC Emmen,Heracles Almelo,3,1,Gewonnen
+25-04-2021,ADO Den Haag,Fortuna Sittard,0,3,Verloren
+25-04-2021,Ajax,AZ,2,0,Gewonnen
+25-04-2021,Feyenoord,Vitesse,0,0,Gelijk
+25-04-2021,FC Twente,FC Utrecht,1,2,Verloren
+01-05-2021,Heracles Almelo,VVV-Venlo,4,0,Gewonnen
+01-05-2021,Fortuna Sittard,FC Twente,3,0,Gewonnen
+01-05-2021,Vitesse,PEC Zwolle,2,1,Gewonnen
+01-05-2021,RKC Waalwijk,AZ,1,3,Verloren
+01-05-2021,FC Utrecht,Willem II,3,2,Gewonnen
+02-05-2021,ADO Den Haag,Feyenoord,3,2,Gewonnen
+02-05-2021,FC Groningen,Sparta Rotterdam,1,2,Verloren
+02-05-2021,Ajax,FC Emmen,4,0,Gewonnen
+02-05-2021,PSV,sc Heerenveen,2,2,Gelijk
+07-05-2021,Sparta Rotterdam,Vitesse,3,0,Gewonnen
+08-05-2021,FC Twente,Heracles Almelo,1,1,Gelijk
+08-05-2021,sc Heerenveen,FC Utrecht,0,0,Gelijk
+08-05-2021,AZ,Fortuna Sittard,1,0,Gewonnen
+08-05-2021,VVV-Venlo,RKC Waalwijk,3,3,Gelijk
+09-05-2021,FC Emmen,FC Groningen,0,4,Verloren
+09-05-2021,Feyenoord,Ajax,0,3,Verloren
+09-05-2021,PEC Zwolle,ADO Den Haag,0,1,Verloren
+09-05-2021,Willem II,PSV,0,2,Verloren
+13-05-2021,Heracles Almelo,Feyenoord,1,1,Gelijk
+13-05-2021,Ajax,VVV-Venlo,3,1,Gewonnen
+13-05-2021,FC Groningen,AZ,0,0,Gelijk
+13-05-2021,FC Emmen,sc Heerenveen,3,1,Gewonnen
+13-05-2021,RKC Waalwijk,FC Twente,2,1,Gewonnen
+13-05-2021,Sparta Rotterdam,FC Utrecht,0,0,Gelijk
+13-05-2021,PSV,PEC Zwolle,4,2,Gewonnen
+13-05-2021,ADO Den Haag,Willem II,1,4,Verloren
+13-05-2021,Fortuna Sittard,Vitesse,3,3,Gelijk
+16-05-2021,AZ,Heracles Almelo,5,0,Gewonnen
+16-05-2021,Vitesse,Ajax,1,3,Verloren
+16-05-2021,Willem II,Fortuna Sittard,2,1,Gewonnen
+16-05-2021,sc Heerenveen,Sparta Rotterdam,1,2,Verloren
+16-05-2021,FC Twente,ADO Den Haag,3,2,Gewonnen
+16-05-2021,Feyenoord,RKC Waalwijk,3,0,Gewonnen
+16-05-2021,PEC Zwolle,FC Groningen,1,0,Gewonnen
+16-05-2021,FC Utrecht,PSV,1,1,Gelijk
+16-05-2021,VVV-Venlo,FC Emmen,0,4,Verloren

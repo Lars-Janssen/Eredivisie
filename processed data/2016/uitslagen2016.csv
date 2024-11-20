@@ -1,0 +1,307 @@
+Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
+05-08-2016,NEC,PEC Zwolle,1,1,Gelijk
+06-08-2016,ADO Den Haag,Go Ahead Eagles,3,0,Gewonnen
+06-08-2016,FC Twente,SBV Excelsior,1,2,Verloren
+06-08-2016,FC Utrecht,PSV,1,2,Verloren
+06-08-2016,Willem II,Vitesse,1,4,Verloren
+07-08-2016,FC Groningen,Feyenoord,0,5,Verloren
+07-08-2016,Sparta Rotterdam,Ajax,1,3,Verloren
+07-08-2016,AZ,sc Heerenveen,2,2,Gelijk
+07-08-2016,Roda JC Kerkrade,Heracles Almelo,1,1,Gelijk
+12-08-2016,sc Heerenveen,FC Utrecht,2,2,Gelijk
+13-08-2016,SBV Excelsior,FC Groningen,2,0,Gewonnen
+13-08-2016,Vitesse,ADO Den Haag,1,2,Verloren
+13-08-2016,Ajax,Roda JC Kerkrade,2,2,Gelijk
+13-08-2016,PEC Zwolle,Sparta Rotterdam,0,3,Verloren
+14-08-2016,Heracles Almelo,Willem II,3,1,Gewonnen
+14-08-2016,Go Ahead Eagles,NEC,2,2,Gelijk
+14-08-2016,Feyenoord,FC Twente,2,0,Gewonnen
+14-08-2016,PSV,AZ,1,0,Gewonnen
+19-08-2016,SBV Excelsior,ADO Den Haag,1,2,Verloren
+20-08-2016,Roda JC Kerkrade,Vitesse,0,1,Verloren
+20-08-2016,PEC Zwolle,PSV,0,4,Verloren
+20-08-2016,Ajax,Willem II,1,2,Verloren
+20-08-2016,NEC,sc Heerenveen,2,1,Gewonnen
+21-08-2016,FC Groningen,FC Twente,3,4,Verloren
+21-08-2016,Sparta Rotterdam,Go Ahead Eagles,1,0,Gewonnen
+21-08-2016,FC Utrecht,AZ,1,2,Verloren
+21-08-2016,Heracles Almelo,Feyenoord,0,1,Verloren
+26-08-2016,Vitesse,FC Utrecht,1,1,Gelijk
+27-08-2016,Willem II,Roda JC Kerkrade,0,0,Gelijk
+27-08-2016,sc Heerenveen,PEC Zwolle,1,0,Gewonnen
+27-08-2016,Feyenoord,SBV Excelsior,4,1,Gewonnen
+27-08-2016,FC Twente,Sparta Rotterdam,3,1,Gewonnen
+28-08-2016,PSV,FC Groningen,0,0,Gelijk
+28-08-2016,Go Ahead Eagles,Ajax,0,3,Verloren
+28-08-2016,ADO Den Haag,Heracles Almelo,1,1,Gelijk
+28-08-2016,AZ,NEC,2,0,Gewonnen
+10-09-2016,PEC Zwolle,FC Utrecht,1,1,Gelijk
+10-09-2016,AZ,Willem II,2,0,Gewonnen
+10-09-2016,NEC,PSV,0,4,Verloren
+10-09-2016,SBV Excelsior,Heracles Almelo,3,1,Gewonnen
+10-09-2016,sc Heerenveen,FC Twente,3,1,Gewonnen
+11-09-2016,Feyenoord,ADO Den Haag,3,1,Gewonnen
+11-09-2016,Go Ahead Eagles,Roda JC Kerkrade,2,0,Gewonnen
+11-09-2016,FC Groningen,Sparta Rotterdam,1,1,Gelijk
+11-09-2016,Ajax,Vitesse,1,0,Gewonnen
+16-09-2016,FC Utrecht,FC Groningen,1,5,Verloren
+17-09-2016,FC Twente,ADO Den Haag,4,1,Gewonnen
+17-09-2016,Vitesse,Go Ahead Eagles,2,0,Gewonnen
+17-09-2016,Roda JC Kerkrade,sc Heerenveen,0,3,Verloren
+17-09-2016,Willem II,SBV Excelsior,1,1,Gelijk
+18-09-2016,Sparta Rotterdam,NEC,2,0,Gewonnen
+18-09-2016,PSV,Feyenoord,0,1,Verloren
+18-09-2016,PEC Zwolle,AZ,0,2,Verloren
+18-09-2016,Heracles Almelo,Ajax,0,2,Verloren
+24-09-2016,ADO Den Haag,sc Heerenveen,0,3,Verloren
+24-09-2016,FC Groningen,Heracles Almelo,0,0,Gelijk
+24-09-2016,Ajax,PEC Zwolle,5,1,Gewonnen
+24-09-2016,SBV Excelsior,PSV,1,3,Verloren
+24-09-2016,AZ,Go Ahead Eagles,2,2,Gelijk
+25-09-2016,NEC,Willem II,0,0,Gelijk
+25-09-2016,FC Utrecht,Sparta Rotterdam,2,0,Gewonnen
+25-09-2016,FC Twente,Vitesse,2,1,Gewonnen
+25-09-2016,Feyenoord,Roda JC Kerkrade,5,0,Gewonnen
+30-09-2016,PEC Zwolle,ADO Den Haag,2,1,Gewonnen
+01-10-2016,Vitesse,FC Groningen,2,1,Gewonnen
+01-10-2016,sc Heerenveen,PSV,1,1,Gelijk
+01-10-2016,Roda JC Kerkrade,NEC,0,1,Verloren
+01-10-2016,Go Ahead Eagles,SBV Excelsior,3,0,Gewonnen
+02-10-2016,Ajax,FC Utrecht,3,2,Gewonnen
+02-10-2016,Heracles Almelo,FC Twente,1,1,Gelijk
+02-10-2016,Willem II,Feyenoord,0,2,Verloren
+02-10-2016,Sparta Rotterdam,AZ,1,1,Gelijk
+15-10-2016,Sparta Rotterdam,Willem II,2,2,Gelijk
+15-10-2016,FC Utrecht,Go Ahead Eagles,3,0,Gewonnen
+15-10-2016,PSV,Heracles Almelo,1,1,Gelijk
+15-10-2016,FC Groningen,sc Heerenveen,0,3,Verloren
+15-10-2016,AZ,Vitesse,2,2,Gelijk
+16-10-2016,FC Twente,PEC Zwolle,2,2,Gelijk
+16-10-2016,SBV Excelsior,Roda JC Kerkrade,0,1,Verloren
+16-10-2016,NEC,Feyenoord,1,2,Verloren
+16-10-2016,ADO Den Haag,Ajax,0,2,Verloren
+21-10-2016,SBV Excelsior,PEC Zwolle,0,2,Verloren
+22-10-2016,Go Ahead Eagles,FC Twente,0,2,Verloren
+22-10-2016,PSV,Sparta Rotterdam,1,0,Gewonnen
+22-10-2016,Roda JC Kerkrade,ADO Den Haag,1,1,Gelijk
+22-10-2016,Willem II,FC Utrecht,0,1,Verloren
+23-10-2016,NEC,Vitesse,1,1,Gelijk
+23-10-2016,Feyenoord,Ajax,1,1,Gelijk
+23-10-2016,FC Groningen,AZ,2,0,Gewonnen
+23-10-2016,sc Heerenveen,Heracles Almelo,3,1,Gewonnen
+28-10-2016,FC Twente,Roda JC Kerkrade,0,0,Gelijk
+29-10-2016,Willem II,FC Groningen,2,1,Gewonnen
+29-10-2016,Vitesse,PSV,0,2,Verloren
+29-10-2016,Heracles Almelo,Sparta Rotterdam,2,2,Gelijk
+29-10-2016,Ajax,SBV Excelsior,1,0,Gewonnen
+30-10-2016,PEC Zwolle,Go Ahead Eagles,3,1,Gewonnen
+30-10-2016,Feyenoord,sc Heerenveen,2,2,Gelijk
+30-10-2016,FC Utrecht,NEC,1,1,Gelijk
+30-10-2016,ADO Den Haag,AZ,0,1,Verloren
+04-11-2016,Sparta Rotterdam,sc Heerenveen,3,1,Gewonnen
+05-11-2016,ADO Den Haag,Willem II,1,0,Gewonnen
+05-11-2016,PSV,FC Twente,1,1,Gelijk
+05-11-2016,NEC,FC Groningen,1,1,Gelijk
+05-11-2016,PEC Zwolle,Roda JC Kerkrade,0,0,Gelijk
+06-11-2016,FC Utrecht,SBV Excelsior,2,1,Gewonnen
+06-11-2016,Vitesse,Heracles Almelo,1,2,Verloren
+06-11-2016,AZ,Ajax,2,2,Gelijk
+06-11-2016,Go Ahead Eagles,Feyenoord,1,0,Gewonnen
+19-11-2016,Heracles Almelo,Go Ahead Eagles,2,1,Gewonnen
+19-11-2016,sc Heerenveen,Vitesse,1,1,Gelijk
+19-11-2016,Willem II,PSV,0,0,Gelijk
+19-11-2016,SBV Excelsior,Sparta Rotterdam,3,2,Gewonnen
+19-11-2016,FC Groningen,ADO Den Haag,2,1,Gewonnen
+20-11-2016,Roda JC Kerkrade,AZ,1,1,Gelijk
+20-11-2016,Ajax,NEC,5,0,Gewonnen
+20-11-2016,FC Twente,FC Utrecht,1,1,Gelijk
+20-11-2016,Feyenoord,PEC Zwolle,3,0,Gewonnen
+25-11-2016,Go Ahead Eagles,Willem II,0,1,Verloren
+26-11-2016,Vitesse,SBV Excelsior,2,2,Gelijk
+26-11-2016,PEC Zwolle,FC Groningen,0,4,Verloren
+26-11-2016,PSV,ADO Den Haag,3,1,Gewonnen
+26-11-2016,NEC,FC Twente,3,2,Gewonnen
+27-11-2016,Sparta Rotterdam,Roda JC Kerkrade,2,2,Gelijk
+27-11-2016,AZ,Heracles Almelo,5,1,Gewonnen
+27-11-2016,sc Heerenveen,Ajax,0,1,Verloren
+27-11-2016,FC Utrecht,Feyenoord,3,3,Gelijk
+02-12-2016,Heracles Almelo,NEC,2,0,Gewonnen
+03-12-2016,Go Ahead Eagles,sc Heerenveen,1,3,Verloren
+03-12-2016,SBV Excelsior,AZ,3,3,Gelijk
+03-12-2016,Roda JC Kerkrade,PSV,0,0,Gelijk
+03-12-2016,Vitesse,PEC Zwolle,3,1,Gewonnen
+04-12-2016,ADO Den Haag,FC Utrecht,0,2,Verloren
+04-12-2016,Feyenoord,Sparta Rotterdam,6,1,Gewonnen
+04-12-2016,Willem II,FC Twente,0,0,Gelijk
+04-12-2016,Ajax,FC Groningen,2,0,Gewonnen
+09-12-2016,FC Groningen,Roda JC Kerkrade,2,0,Gewonnen
+10-12-2016,NEC,ADO Den Haag,3,0,Gewonnen
+10-12-2016,sc Heerenveen,SBV Excelsior,2,1,Gewonnen
+10-12-2016,PSV,Go Ahead Eagles,1,0,Gewonnen
+10-12-2016,PEC Zwolle,Willem II,0,0,Gelijk
+11-12-2016,Sparta Rotterdam,Vitesse,0,1,Verloren
+11-12-2016,AZ,Feyenoord,0,4,Verloren
+11-12-2016,FC Utrecht,Heracles Almelo,2,0,Gewonnen
+11-12-2016,FC Twente,Ajax,1,0,Gewonnen
+16-12-2016,Willem II,sc Heerenveen,2,1,Gewonnen
+17-12-2016,Roda JC Kerkrade,FC Utrecht,0,0,Gelijk
+17-12-2016,Feyenoord,Vitesse,3,1,Gewonnen
+17-12-2016,FC Twente,AZ,1,2,Verloren
+18-12-2016,SBV Excelsior,NEC,2,2,Gelijk
+18-12-2016,Heracles Almelo,PEC Zwolle,3,0,Gewonnen
+18-12-2016,FC Groningen,Go Ahead Eagles,1,1,Gelijk
+18-12-2016,ADO Den Haag,Sparta Rotterdam,1,0,Gewonnen
+18-12-2016,Ajax,PSV,1,1,Gelijk
+13-01-2017,Go Ahead Eagles,AZ,1,3,Verloren
+14-01-2017,sc Heerenveen,ADO Den Haag,2,0,Gewonnen
+14-01-2017,PSV,SBV Excelsior,2,0,Gewonnen
+14-01-2017,Heracles Almelo,FC Groningen,1,4,Verloren
+14-01-2017,Sparta Rotterdam,FC Utrecht,1,2,Verloren
+15-01-2017,Roda JC Kerkrade,Feyenoord,0,2,Verloren
+15-01-2017,Vitesse,FC Twente,3,1,Gewonnen
+15-01-2017,PEC Zwolle,Ajax,1,3,Verloren
+15-01-2017,Willem II,NEC,0,1,Verloren
+20-01-2017,FC Twente,Heracles Almelo,1,0,Gewonnen
+21-01-2017,AZ,Sparta Rotterdam,1,1,Gelijk
+21-01-2017,ADO Den Haag,PEC Zwolle,1,2,Verloren
+21-01-2017,Feyenoord,Willem II,1,0,Gewonnen
+21-01-2017,FC Groningen,Vitesse,1,1,Gelijk
+22-01-2017,FC Utrecht,Ajax,0,1,Verloren
+22-01-2017,SBV Excelsior,Go Ahead Eagles,1,1,Gelijk
+22-01-2017,NEC,Roda JC Kerkrade,2,0,Gewonnen
+22-01-2017,PSV,sc Heerenveen,4,3,Gewonnen
+27-01-2017,Willem II,Sparta Rotterdam,3,2,Gewonnen
+28-01-2017,Go Ahead Eagles,FC Utrecht,0,1,Verloren
+28-01-2017,Heracles Almelo,PSV,1,2,Verloren
+28-01-2017,Roda JC Kerkrade,SBV Excelsior,4,0,Gewonnen
+29-01-2017,sc Heerenveen,FC Groningen,0,0,Gelijk
+29-01-2017,Vitesse,AZ,2,1,Gewonnen
+29-01-2017,PEC Zwolle,FC Twente,1,2,Verloren
+29-01-2017,Ajax,ADO Den Haag,3,0,Gewonnen
+29-01-2017,Feyenoord,NEC,4,0,Gewonnen
+03-02-2017,ADO Den Haag,Vitesse,0,2,Verloren
+04-02-2017,NEC,Go Ahead Eagles,1,2,Verloren
+04-02-2017,Willem II,Heracles Almelo,1,3,Verloren
+04-02-2017,AZ,PSV,2,4,Verloren
+04-02-2017,FC Groningen,SBV Excelsior,1,1,Gelijk
+05-02-2017,Roda JC Kerkrade,Ajax,0,2,Verloren
+05-02-2017,Sparta Rotterdam,PEC Zwolle,2,3,Verloren
+05-02-2017,FC Twente,Feyenoord,0,2,Verloren
+05-02-2017,FC Utrecht,sc Heerenveen,1,0,Gewonnen
+10-02-2017,PEC Zwolle,NEC,2,0,Gewonnen
+11-02-2017,Heracles Almelo,Roda JC Kerkrade,2,2,Gelijk
+11-02-2017,Go Ahead Eagles,ADO Den Haag,3,1,Gewonnen
+11-02-2017,Feyenoord,FC Groningen,2,0,Gewonnen
+11-02-2017,Vitesse,Willem II,0,2,Verloren
+12-02-2017,SBV Excelsior,FC Twente,1,1,Gelijk
+12-02-2017,sc Heerenveen,AZ,1,2,Verloren
+12-02-2017,Ajax,Sparta Rotterdam,2,0,Gewonnen
+12-02-2017,PSV,FC Utrecht,3,0,Gewonnen
+17-02-2017,Roda JC Kerkrade,Go Ahead Eagles,1,0,Gewonnen
+18-02-2017,FC Twente,sc Heerenveen,1,0,Gewonnen
+18-02-2017,PSV,NEC,3,1,Gewonnen
+18-02-2017,Heracles Almelo,SBV Excelsior,4,0,Gewonnen
+18-02-2017,FC Utrecht,PEC Zwolle,3,1,Gewonnen
+19-02-2017,Willem II,AZ,1,1,Gelijk
+19-02-2017,Sparta Rotterdam,FC Groningen,2,2,Gelijk
+19-02-2017,Vitesse,Ajax,0,1,Verloren
+19-02-2017,ADO Den Haag,Feyenoord,0,1,Verloren
+24-02-2017,ADO Den Haag,FC Twente,1,1,Gelijk
+25-02-2017,FC Groningen,FC Utrecht,2,3,Verloren
+25-02-2017,SBV Excelsior,Willem II,0,2,Verloren
+25-02-2017,NEC,Sparta Rotterdam,0,1,Verloren
+25-02-2017,sc Heerenveen,Roda JC Kerkrade,3,0,Gewonnen
+26-02-2017,Go Ahead Eagles,Vitesse,1,3,Verloren
+26-02-2017,Feyenoord,PSV,2,1,Gewonnen
+26-02-2017,AZ,PEC Zwolle,1,1,Gelijk
+26-02-2017,Ajax,Heracles Almelo,4,1,Gewonnen
+03-03-2017,sc Heerenveen,Go Ahead Eagles,2,2,Gelijk
+04-03-2017,FC Twente,Willem II,2,1,Gewonnen
+04-03-2017,PSV,Roda JC Kerkrade,4,0,Gewonnen
+04-03-2017,PEC Zwolle,Vitesse,3,1,Gewonnen
+05-03-2017,AZ,SBV Excelsior,1,1,Gelijk
+05-03-2017,Sparta Rotterdam,Feyenoord,1,0,Gewonnen
+05-03-2017,FC Groningen,Ajax,1,1,Gelijk
+05-03-2017,FC Utrecht,ADO Den Haag,1,1,Gelijk
+05-03-2017,NEC,Heracles Almelo,3,1,Gewonnen
+10-03-2017,Vitesse,Sparta Rotterdam,5,0,Gewonnen
+11-03-2017,ADO Den Haag,NEC,1,0,Gewonnen
+11-03-2017,Go Ahead Eagles,PSV,1,3,Verloren
+11-03-2017,Heracles Almelo,FC Utrecht,2,1,Gewonnen
+11-03-2017,SBV Excelsior,sc Heerenveen,4,1,Gewonnen
+12-03-2017,Willem II,PEC Zwolle,2,0,Gewonnen
+12-03-2017,Feyenoord,AZ,5,2,Gewonnen
+12-03-2017,Roda JC Kerkrade,FC Groningen,3,1,Gewonnen
+12-03-2017,Ajax,FC Twente,3,0,Gewonnen
+17-03-2017,Roda JC Kerkrade,FC Twente,0,3,Verloren
+18-03-2017,FC Groningen,Willem II,1,1,Gelijk
+18-03-2017,NEC,FC Utrecht,0,3,Verloren
+18-03-2017,PSV,Vitesse,1,0,Gewonnen
+18-03-2017,Sparta Rotterdam,Heracles Almelo,3,1,Gewonnen
+19-03-2017,sc Heerenveen,Feyenoord,1,2,Verloren
+19-03-2017,SBV Excelsior,Ajax,1,1,Gelijk
+19-03-2017,Go Ahead Eagles,PEC Zwolle,1,3,Verloren
+19-03-2017,AZ,ADO Den Haag,4,0,Gewonnen
+01-04-2017,PEC Zwolle,SBV Excelsior,1,1,Gelijk
+01-04-2017,AZ,FC Groningen,0,0,Gelijk
+01-04-2017,Sparta Rotterdam,PSV,0,2,Verloren
+01-04-2017,FC Utrecht,Willem II,2,0,Gewonnen
+01-04-2017,Heracles Almelo,sc Heerenveen,4,1,Gewonnen
+02-04-2017,Vitesse,NEC,2,1,Gewonnen
+02-04-2017,ADO Den Haag,Roda JC Kerkrade,4,1,Gewonnen
+02-04-2017,Ajax,Feyenoord,2,1,Gewonnen
+02-04-2017,FC Twente,Go Ahead Eagles,1,2,Verloren
+04-04-2017,SBV Excelsior,FC Utrecht,1,3,Verloren
+04-04-2017,sc Heerenveen,Sparta Rotterdam,3,0,Gewonnen
+05-04-2017,Heracles Almelo,Vitesse,0,1,Verloren
+05-04-2017,FC Groningen,NEC,2,0,Gewonnen
+05-04-2017,Feyenoord,Go Ahead Eagles,8,0,Gewonnen
+05-04-2017,Willem II,ADO Den Haag,1,2,Verloren
+05-04-2017,Ajax,AZ,4,1,Gewonnen
+06-04-2017,Roda JC Kerkrade,PEC Zwolle,2,1,Gewonnen
+06-04-2017,FC Twente,PSV,2,2,Gelijk
+07-04-2017,Sparta Rotterdam,SBV Excelsior,2,3,Verloren
+08-04-2017,Vitesse,sc Heerenveen,4,2,Gewonnen
+08-04-2017,NEC,Ajax,1,5,Verloren
+08-04-2017,ADO Den Haag,FC Groningen,4,3,Gewonnen
+08-04-2017,Go Ahead Eagles,Heracles Almelo,1,4,Verloren
+09-04-2017,AZ,Roda JC Kerkrade,1,1,Gelijk
+09-04-2017,PEC Zwolle,Feyenoord,2,2,Gelijk
+09-04-2017,FC Utrecht,FC Twente,3,0,Gewonnen
+09-04-2017,PSV,Willem II,5,0,Gewonnen
+14-04-2017,Heracles Almelo,AZ,1,2,Verloren
+15-04-2017,Roda JC Kerkrade,Sparta Rotterdam,3,1,Gewonnen
+15-04-2017,SBV Excelsior,Vitesse,1,0,Gewonnen
+15-04-2017,ADO Den Haag,PSV,1,1,Gelijk
+15-04-2017,FC Twente,NEC,3,0,Gewonnen
+16-04-2017,Willem II,Go Ahead Eagles,2,0,Gewonnen
+16-04-2017,FC Groningen,PEC Zwolle,5,1,Gewonnen
+16-04-2017,Feyenoord,FC Utrecht,2,0,Gewonnen
+16-04-2017,Ajax,sc Heerenveen,5,1,Gewonnen
+21-04-2017,sc Heerenveen,Willem II,1,0,Gewonnen
+22-04-2017,NEC,SBV Excelsior,0,1,Verloren
+22-04-2017,AZ,FC Twente,2,1,Gewonnen
+22-04-2017,PEC Zwolle,Heracles Almelo,1,2,Verloren
+22-04-2017,Go Ahead Eagles,FC Groningen,2,3,Verloren
+23-04-2017,FC Utrecht,Roda JC Kerkrade,1,0,Gewonnen
+23-04-2017,Sparta Rotterdam,ADO Den Haag,0,1,Verloren
+23-04-2017,Vitesse,Feyenoord,0,2,Verloren
+23-04-2017,PSV,Ajax,1,0,Gewonnen
+07-05-2017,NEC,AZ,2,1,Gewonnen
+07-05-2017,PEC Zwolle,sc Heerenveen,2,1,Gewonnen
+07-05-2017,Heracles Almelo,ADO Den Haag,4,0,Gewonnen
+07-05-2017,Sparta Rotterdam,FC Twente,1,0,Gewonnen
+07-05-2017,SBV Excelsior,Feyenoord,3,0,Gewonnen
+07-05-2017,Roda JC Kerkrade,Willem II,1,0,Gewonnen
+07-05-2017,FC Groningen,PSV,1,1,Gelijk
+07-05-2017,Ajax,Go Ahead Eagles,4,0,Gewonnen
+07-05-2017,FC Utrecht,Vitesse,1,0,Gewonnen
+14-05-2017,FC Twente,FC Groningen,3,5,Verloren
+14-05-2017,AZ,FC Utrecht,2,3,Verloren
+14-05-2017,Feyenoord,Heracles Almelo,3,1,Gewonnen
+14-05-2017,PSV,PEC Zwolle,4,1,Gewonnen
+14-05-2017,Willem II,Ajax,1,3,Verloren
+14-05-2017,ADO Den Haag,SBV Excelsior,4,1,Gewonnen
+14-05-2017,sc Heerenveen,NEC,0,2,Verloren
+14-05-2017,Go Ahead Eagles,Sparta Rotterdam,1,3,Verloren
+14-05-2017,Vitesse,Roda JC Kerkrade,3,0,Gewonnen

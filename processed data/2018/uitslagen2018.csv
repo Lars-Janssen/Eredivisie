@@ -1,0 +1,307 @@
+Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
+10-08-2018,PEC Zwolle,sc Heerenveen,2,3,Verloren
+11-08-2018,Ajax,Heracles Almelo,1,1,Gelijk
+11-08-2018,Willem II,VVV-Venlo,0,1,Verloren
+11-08-2018,PSV,FC Utrecht,4,0,Gewonnen
+11-08-2018,SBV Excelsior,Fortuna Sittard,1,1,Gelijk
+12-08-2018,ADO Den Haag,FC Emmen,1,2,Verloren
+12-08-2018,De Graafschap,Feyenoord,2,0,Gewonnen
+12-08-2018,Vitesse,FC Groningen,5,1,Gewonnen
+12-08-2018,AZ,NAC Breda,5,0,Gewonnen
+17-08-2018,FC Groningen,Willem II,0,1,Verloren
+18-08-2018,NAC Breda,De Graafschap,3,0,Gewonnen
+18-08-2018,VVV-Venlo,Ajax,0,1,Verloren
+18-08-2018,Fortuna Sittard,PSV,1,2,Verloren
+18-08-2018,Heracles Almelo,ADO Den Haag,4,2,Gewonnen
+19-08-2018,FC Utrecht,PEC Zwolle,2,0,Gewonnen
+19-08-2018,FC Emmen,AZ,1,4,Verloren
+19-08-2018,Feyenoord,SBV Excelsior,3,0,Gewonnen
+19-08-2018,sc Heerenveen,Vitesse,1,1,Gelijk
+24-08-2018,ADO Den Haag,Fortuna Sittard,3,1,Gewonnen
+25-08-2018,De Graafschap,FC Groningen,0,1,Verloren
+25-08-2018,Ajax,FC Emmen,5,0,Gewonnen
+25-08-2018,NAC Breda,SBV Excelsior,0,2,Verloren
+25-08-2018,PEC Zwolle,PSV,1,2,Verloren
+26-08-2018,Willem II,Heracles Almelo,5,0,Gewonnen
+26-08-2018,FC Utrecht,VVV-Venlo,1,1,Gelijk
+26-08-2018,sc Heerenveen,Feyenoord,3,5,Verloren
+26-08-2018,AZ,Vitesse,0,0,Gelijk
+31-08-2018,FC Emmen,De Graafschap,1,1,Gelijk
+01-09-2018,VVV-Venlo,sc Heerenveen,1,1,Gelijk
+01-09-2018,SBV Excelsior,ADO Den Haag,2,4,Verloren
+01-09-2018,PSV,Willem II,6,1,Gewonnen
+01-09-2018,Fortuna Sittard,FC Utrecht,1,1,Gelijk
+02-09-2018,FC Groningen,PEC Zwolle,0,1,Verloren
+02-09-2018,Vitesse,Ajax,0,4,Verloren
+02-09-2018,Heracles Almelo,AZ,3,2,Gewonnen
+02-09-2018,Feyenoord,NAC Breda,4,2,Gewonnen
+15-09-2018,ADO Den Haag,PSV,0,7,Verloren
+15-09-2018,De Graafschap,VVV-Venlo,1,2,Verloren
+15-09-2018,Willem II,SBV Excelsior,2,2,Gelijk
+15-09-2018,Ajax,FC Groningen,3,0,Gewonnen
+16-09-2018,AZ,Feyenoord,1,1,Gelijk
+16-09-2018,sc Heerenveen,Heracles Almelo,3,5,Verloren
+16-09-2018,NAC Breda,Fortuna Sittard,2,3,Verloren
+16-09-2018,FC Utrecht,FC Emmen,1,2,Verloren
+16-09-2018,PEC Zwolle,Vitesse,0,2,Verloren
+21-09-2018,Heracles Almelo,De Graafschap,4,0,Gewonnen
+22-09-2018,Fortuna Sittard,Willem II,4,4,Gelijk
+22-09-2018,VVV-Venlo,NAC Breda,3,0,Gewonnen
+22-09-2018,SBV Excelsior,sc Heerenveen,3,3,Gelijk
+22-09-2018,Vitesse,ADO Den Haag,1,1,Gelijk
+23-09-2018,Feyenoord,FC Utrecht,1,0,Gewonnen
+23-09-2018,FC Groningen,AZ,1,3,Verloren
+23-09-2018,FC Emmen,PEC Zwolle,0,1,Verloren
+23-09-2018,PSV,Ajax,3,0,Gewonnen
+29-09-2018,sc Heerenveen,ADO Den Haag,1,1,Gelijk
+29-09-2018,NAC Breda,PSV,0,2,Verloren
+29-09-2018,Fortuna Sittard,Ajax,0,2,Verloren
+29-09-2018,SBV Excelsior,VVV-Venlo,1,0,Gewonnen
+30-09-2018,De Graafschap,Willem II,2,1,Gewonnen
+30-09-2018,Heracles Almelo,FC Emmen,2,1,Gewonnen
+30-09-2018,FC Groningen,FC Utrecht,1,1,Gelijk
+30-09-2018,AZ,PEC Zwolle,2,2,Gelijk
+30-09-2018,Feyenoord,Vitesse,2,1,Gewonnen
+05-10-2018,FC Utrecht,NAC Breda,2,1,Gewonnen
+06-10-2018,ADO Den Haag,FC Groningen,1,0,Gewonnen
+06-10-2018,PSV,VVV-Venlo,4,0,Gewonnen
+06-10-2018,PEC Zwolle,SBV Excelsior,2,0,Gewonnen
+06-10-2018,De Graafschap,sc Heerenveen,0,5,Verloren
+07-10-2018,FC Emmen,Fortuna Sittard,3,3,Gelijk
+07-10-2018,Vitesse,Heracles Almelo,4,0,Gewonnen
+07-10-2018,Willem II,Feyenoord,1,1,Gelijk
+07-10-2018,Ajax,AZ,5,0,Gewonnen
+20-10-2018,SBV Excelsior,Vitesse,2,0,Gewonnen
+20-10-2018,PSV,FC Emmen,6,0,Gewonnen
+20-10-2018,sc Heerenveen,Ajax,0,4,Verloren
+20-10-2018,FC Utrecht,AZ,2,1,Gewonnen
+21-10-2018,NAC Breda,Willem II,2,2,Gelijk
+21-10-2018,VVV-Venlo,ADO Den Haag,2,0,Gewonnen
+21-10-2018,Heracles Almelo,FC Groningen,4,1,Gewonnen
+21-10-2018,Feyenoord,PEC Zwolle,3,0,Gewonnen
+21-10-2018,Fortuna Sittard,De Graafschap,3,1,Gewonnen
+26-10-2018,FC Emmen,VVV-Venlo,1,1,Gelijk
+27-10-2018,ADO Den Haag,NAC Breda,1,1,Gelijk
+27-10-2018,FC Groningen,PSV,1,2,Verloren
+27-10-2018,De Graafschap,SBV Excelsior,4,1,Gewonnen
+27-10-2018,PEC Zwolle,Heracles Almelo,1,1,Gelijk
+28-10-2018,Vitesse,Fortuna Sittard,2,1,Gewonnen
+28-10-2018,Willem II,FC Utrecht,0,1,Verloren
+28-10-2018,Ajax,Feyenoord,3,0,Gewonnen
+28-10-2018,AZ,sc Heerenveen,2,3,Verloren
+02-11-2018,SBV Excelsior,FC Groningen,2,4,Verloren
+03-11-2018,PSV,Vitesse,1,0,Gewonnen
+03-11-2018,NAC Breda,Heracles Almelo,2,1,Gewonnen
+03-11-2018,Ajax,Willem II,2,0,Gewonnen
+03-11-2018,AZ,De Graafschap,1,0,Gewonnen
+04-11-2018,sc Heerenveen,FC Emmen,1,1,Gelijk
+04-11-2018,Fortuna Sittard,PEC Zwolle,3,0,Gewonnen
+04-11-2018,FC Utrecht,ADO Den Haag,3,0,Gewonnen
+09-11-2018,PEC Zwolle,Willem II,2,3,Verloren
+10-11-2018,FC Emmen,NAC Breda,2,0,Gewonnen
+10-11-2018,Vitesse,FC Utrecht,2,1,Gewonnen
+10-11-2018,De Graafschap,PSV,1,4,Verloren
+10-11-2018,VVV-Venlo,Fortuna Sittard,3,2,Gewonnen
+11-11-2018,FC Groningen,sc Heerenveen,2,0,Gewonnen
+11-11-2018,ADO Den Haag,AZ,0,1,Verloren
+11-11-2018,SBV Excelsior,Ajax,1,7,Verloren
+11-11-2018,Heracles Almelo,Feyenoord,0,2,Verloren
+24-11-2018,NAC Breda,Ajax,0,3,Verloren
+24-11-2018,PEC Zwolle,ADO Den Haag,2,3,Verloren
+24-11-2018,PSV,sc Heerenveen,3,0,Gewonnen
+24-11-2018,Fortuna Sittard,Heracles Almelo,3,0,Gewonnen
+25-11-2018,FC Emmen,SBV Excelsior,1,2,Verloren
+25-11-2018,Feyenoord,FC Groningen,1,0,Gewonnen
+25-11-2018,Willem II,Vitesse,1,3,Verloren
+25-11-2018,FC Utrecht,De Graafschap,5,0,Gewonnen
+25-11-2018,VVV-Venlo,AZ,2,2,Gelijk
+30-11-2018,SBV Excelsior,FC Utrecht,3,3,Gelijk
+01-12-2018,Vitesse,FC Emmen,1,1,Gelijk
+01-12-2018,De Graafschap,PEC Zwolle,0,2,Verloren
+01-12-2018,AZ,Willem II,0,2,Verloren
+01-12-2018,sc Heerenveen,Fortuna Sittard,3,1,Gewonnen
+02-12-2018,Ajax,ADO Den Haag,5,1,Gewonnen
+02-12-2018,Feyenoord,PSV,2,1,Gewonnen
+02-12-2018,Heracles Almelo,VVV-Venlo,4,1,Gewonnen
+02-12-2018,FC Groningen,NAC Breda,5,2,Gewonnen
+06-12-2018,Feyenoord,VVV-Venlo,4,1,Gewonnen
+07-12-2018,Fortuna Sittard,AZ,0,3,Verloren
+07-12-2018,PSV,SBV Excelsior,6,0,Gewonnen
+08-12-2018,Willem II,sc Heerenveen,1,5,Verloren
+08-12-2018,PEC Zwolle,Ajax,1,4,Verloren
+08-12-2018,ADO Den Haag,De Graafschap,0,0,Gelijk
+09-12-2018,FC Utrecht,Heracles Almelo,3,1,Gewonnen
+09-12-2018,FC Emmen,Feyenoord,1,4,Verloren
+09-12-2018,VVV-Venlo,FC Groningen,0,0,Gelijk
+09-12-2018,NAC Breda,Vitesse,2,1,Gewonnen
+14-12-2018,Willem II,ADO Den Haag,0,3,Verloren
+15-12-2018,PEC Zwolle,NAC Breda,0,0,Gelijk
+15-12-2018,Heracles Almelo,PSV,0,4,Verloren
+15-12-2018,AZ,SBV Excelsior,2,1,Gewonnen
+15-12-2018,Vitesse,VVV-Venlo,2,1,Gewonnen
+16-12-2018,sc Heerenveen,FC Utrecht,2,3,Verloren
+16-12-2018,Ajax,De Graafschap,8,0,Gewonnen
+16-12-2018,FC Groningen,FC Emmen,1,2,Verloren
+16-12-2018,Feyenoord,Fortuna Sittard,0,2,Verloren
+21-12-2018,VVV-Venlo,PEC Zwolle,2,0,Gewonnen
+22-12-2018,Fortuna Sittard,FC Groningen,0,0,Gelijk
+22-12-2018,NAC Breda,sc Heerenveen,4,2,Gewonnen
+22-12-2018,PSV,AZ,3,1,Gewonnen
+22-12-2018,SBV Excelsior,Heracles Almelo,0,3,Verloren
+23-12-2018,FC Utrecht,Ajax,1,3,Verloren
+23-12-2018,ADO Den Haag,Feyenoord,2,2,Gelijk
+23-12-2018,De Graafschap,Vitesse,2,2,Gelijk
+23-12-2018,FC Emmen,Willem II,0,2,Verloren
+18-01-2019,Vitesse,SBV Excelsior,3,2,Gewonnen
+19-01-2019,AZ,FC Utrecht,3,0,Gewonnen
+19-01-2019,PEC Zwolle,Feyenoord,3,1,Gewonnen
+19-01-2019,ADO Den Haag,VVV-Venlo,2,4,Verloren
+19-01-2019,FC Groningen,Heracles Almelo,3,0,Gewonnen
+20-01-2019,Willem II,NAC Breda,2,0,Gewonnen
+20-01-2019,FC Emmen,PSV,2,2,Gelijk
+20-01-2019,De Graafschap,Fortuna Sittard,5,1,Gewonnen
+20-01-2019,Ajax,sc Heerenveen,4,4,Gelijk
+25-01-2019,NAC Breda,ADO Den Haag,1,1,Gelijk
+26-01-2019,Heracles Almelo,PEC Zwolle,0,2,Verloren
+26-01-2019,SBV Excelsior,De Graafschap,2,0,Gewonnen
+26-01-2019,PSV,FC Groningen,2,1,Gewonnen
+26-01-2019,VVV-Venlo,FC Emmen,2,3,Verloren
+27-01-2019,Fortuna Sittard,Vitesse,2,1,Gewonnen
+27-01-2019,FC Utrecht,Willem II,0,1,Verloren
+27-01-2019,Feyenoord,Ajax,6,2,Gewonnen
+27-01-2019,sc Heerenveen,AZ,0,2,Verloren
+01-02-2019,De Graafschap,NAC Breda,3,0,Gewonnen
+02-02-2019,Vitesse,sc Heerenveen,2,2,Gelijk
+02-02-2019,Ajax,VVV-Venlo,6,0,Gewonnen
+02-02-2019,Willem II,FC Groningen,1,2,Verloren
+02-02-2019,AZ,FC Emmen,5,0,Gewonnen
+03-02-2019,SBV Excelsior,Feyenoord,2,1,Gewonnen
+03-02-2019,PEC Zwolle,FC Utrecht,4,3,Gewonnen
+03-02-2019,PSV,Fortuna Sittard,5,0,Gewonnen
+03-02-2019,ADO Den Haag,Heracles Almelo,2,0,Gewonnen
+08-02-2019,NAC Breda,AZ,0,3,Verloren
+09-02-2019,sc Heerenveen,PEC Zwolle,1,1,Gelijk
+09-02-2019,Heracles Almelo,Ajax,1,0,Gewonnen
+09-02-2019,VVV-Venlo,Willem II,2,1,Gewonnen
+09-02-2019,Feyenoord,De Graafschap,4,0,Gewonnen
+10-02-2019,Fortuna Sittard,SBV Excelsior,4,1,Gewonnen
+10-02-2019,FC Groningen,Vitesse,2,1,Gewonnen
+10-02-2019,FC Emmen,ADO Den Haag,3,2,Gewonnen
+10-02-2019,FC Utrecht,PSV,2,2,Gelijk
+15-02-2019,ADO Den Haag,PEC Zwolle,1,0,Gewonnen
+16-02-2019,AZ,VVV-Venlo,3,0,Gewonnen
+16-02-2019,sc Heerenveen,PSV,2,2,Gelijk
+16-02-2019,Heracles Almelo,Fortuna Sittard,6,0,Gewonnen
+16-02-2019,Vitesse,Willem II,3,2,Gewonnen
+17-02-2019,Ajax,NAC Breda,5,0,Gewonnen
+17-02-2019,FC Groningen,Feyenoord,1,0,Gewonnen
+17-02-2019,SBV Excelsior,FC Emmen,2,1,Gewonnen
+17-02-2019,De Graafschap,FC Utrecht,0,1,Verloren
+22-02-2019,VVV-Venlo,Heracles Almelo,0,1,Verloren
+23-02-2019,FC Utrecht,SBV Excelsior,0,0,Gelijk
+23-02-2019,Fortuna Sittard,sc Heerenveen,2,4,Verloren
+23-02-2019,PEC Zwolle,De Graafschap,0,3,Verloren
+23-02-2019,NAC Breda,FC Groningen,0,0,Gelijk
+24-02-2019,ADO Den Haag,Ajax,1,5,Verloren
+24-02-2019,FC Emmen,Vitesse,0,3,Verloren
+24-02-2019,PSV,Feyenoord,1,1,Gelijk
+24-02-2019,Willem II,AZ,2,1,Gewonnen
+01-03-2019,De Graafschap,ADO Den Haag,1,1,Gelijk
+02-03-2019,Heracles Almelo,FC Utrecht,1,5,Verloren
+02-03-2019,SBV Excelsior,PSV,0,2,Verloren
+02-03-2019,Vitesse,NAC Breda,4,1,Gewonnen
+03-03-2019,sc Heerenveen,Willem II,4,2,Gewonnen
+03-03-2019,FC Groningen,VVV-Venlo,3,2,Gewonnen
+03-03-2019,Feyenoord,FC Emmen,4,0,Gewonnen
+03-03-2019,AZ,Fortuna Sittard,4,2,Gewonnen
+08-03-2019,FC Utrecht,FC Groningen,0,0,Gelijk
+09-03-2019,VVV-Venlo,SBV Excelsior,1,0,Gewonnen
+09-03-2019,PSV,NAC Breda,2,0,Gewonnen
+09-03-2019,ADO Den Haag,sc Heerenveen,2,3,Verloren
+09-03-2019,Willem II,De Graafschap,3,2,Gewonnen
+10-03-2019,PEC Zwolle,AZ,0,0,Gelijk
+10-03-2019,FC Emmen,Heracles Almelo,1,1,Gelijk
+10-03-2019,Vitesse,Feyenoord,1,1,Gelijk
+10-03-2019,Ajax,Fortuna Sittard,4,0,Gewonnen
+13-03-2019,Ajax,PEC Zwolle,2,1,Gewonnen
+15-03-2019,Fortuna Sittard,FC Emmen,3,1,Gewonnen
+16-03-2019,sc Heerenveen,De Graafschap,0,3,Verloren
+16-03-2019,NAC Breda,FC Utrecht,0,4,Verloren
+16-03-2019,Feyenoord,Willem II,2,3,Verloren
+16-03-2019,Heracles Almelo,Vitesse,3,2,Gewonnen
+17-03-2019,VVV-Venlo,PSV,0,1,Verloren
+17-03-2019,FC Groningen,ADO Den Haag,1,0,Gewonnen
+17-03-2019,AZ,Ajax,1,0,Gewonnen
+17-03-2019,SBV Excelsior,PEC Zwolle,0,2,Verloren
+30-03-2019,ADO Den Haag,Vitesse,3,3,Gelijk
+30-03-2019,Willem II,Fortuna Sittard,3,2,Gewonnen
+30-03-2019,De Graafschap,Heracles Almelo,1,2,Verloren
+30-03-2019,sc Heerenveen,SBV Excelsior,1,0,Gewonnen
+30-03-2019,AZ,FC Groningen,1,0,Gewonnen
+31-03-2019,NAC Breda,VVV-Venlo,1,1,Gelijk
+31-03-2019,PEC Zwolle,FC Emmen,3,0,Gewonnen
+31-03-2019,FC Utrecht,Feyenoord,3,2,Gewonnen
+31-03-2019,Ajax,PSV,3,1,Gewonnen
+02-04-2019,Vitesse,AZ,2,2,Gelijk
+02-04-2019,Heracles Almelo,Willem II,3,4,Verloren
+02-04-2019,FC Groningen,De Graafschap,1,0,Gewonnen
+03-04-2019,VVV-Venlo,FC Utrecht,2,6,Verloren
+03-04-2019,Fortuna Sittard,ADO Den Haag,0,0,Gelijk
+03-04-2019,SBV Excelsior,NAC Breda,1,2,Verloren
+03-04-2019,FC Emmen,Ajax,2,5,Verloren
+04-04-2019,PSV,PEC Zwolle,4,0,Gewonnen
+04-04-2019,Feyenoord,sc Heerenveen,3,0,Gewonnen
+06-04-2019,ADO Den Haag,FC Utrecht,5,0,Gewonnen
+06-04-2019,Willem II,Ajax,1,4,Verloren
+06-04-2019,FC Groningen,SBV Excelsior,1,0,Gewonnen
+06-04-2019,De Graafschap,AZ,1,1,Gelijk
+06-04-2019,Heracles Almelo,NAC Breda,1,0,Gewonnen
+07-04-2019,FC Emmen,sc Heerenveen,2,0,Gewonnen
+07-04-2019,VVV-Venlo,Feyenoord,0,3,Verloren
+07-04-2019,PEC Zwolle,Fortuna Sittard,5,0,Gewonnen
+07-04-2019,Vitesse,PSV,3,3,Gelijk
+12-04-2019,NAC Breda,FC Emmen,1,1,Gelijk
+13-04-2019,Ajax,SBV Excelsior,6,2,Gewonnen
+13-04-2019,AZ,ADO Den Haag,2,3,Verloren
+13-04-2019,Feyenoord,Heracles Almelo,2,1,Gewonnen
+13-04-2019,Fortuna Sittard,VVV-Venlo,1,1,Gelijk
+14-04-2019,PSV,De Graafschap,2,1,Gewonnen
+14-04-2019,Willem II,PEC Zwolle,2,0,Gewonnen
+14-04-2019,sc Heerenveen,FC Groningen,1,1,Gelijk
+14-04-2019,FC Utrecht,Vitesse,0,0,Gelijk
+19-04-2019,Heracles Almelo,sc Heerenveen,2,1,Gewonnen
+20-04-2019,FC Groningen,Ajax,0,1,Verloren
+20-04-2019,FC Emmen,FC Utrecht,2,0,Gewonnen
+20-04-2019,Vitesse,PEC Zwolle,4,1,Gewonnen
+20-04-2019,Feyenoord,AZ,2,1,Gewonnen
+20-04-2019,VVV-Venlo,De Graafschap,4,1,Gewonnen
+21-04-2019,SBV Excelsior,Willem II,1,1,Gelijk
+21-04-2019,Fortuna Sittard,NAC Breda,2,1,Gewonnen
+21-04-2019,PSV,ADO Den Haag,3,1,Gewonnen
+23-04-2019,De Graafschap,FC Emmen,1,0,Gewonnen
+23-04-2019,AZ,Heracles Almelo,2,1,Gewonnen
+23-04-2019,sc Heerenveen,VVV-Venlo,2,2,Gelijk
+23-04-2019,Ajax,Vitesse,4,2,Gewonnen
+24-04-2019,FC Utrecht,Fortuna Sittard,2,1,Gewonnen
+24-04-2019,NAC Breda,Feyenoord,0,4,Verloren
+25-04-2019,ADO Den Haag,SBV Excelsior,3,1,Gewonnen
+25-04-2019,Willem II,PSV,0,3,Verloren
+29-04-2019,PEC Zwolle,FC Groningen,3,2,Gewonnen
+12-05-2019,Vitesse,De Graafschap,6,1,Gewonnen
+12-05-2019,Heracles Almelo,SBV Excelsior,4,5,Verloren
+12-05-2019,Ajax,FC Utrecht,4,1,Gewonnen
+12-05-2019,Willem II,FC Emmen,2,3,Verloren
+12-05-2019,sc Heerenveen,NAC Breda,2,1,Gewonnen
+12-05-2019,Feyenoord,ADO Den Haag,0,2,Verloren
+12-05-2019,PEC Zwolle,VVV-Venlo,2,4,Verloren
+12-05-2019,AZ,PSV,1,0,Gewonnen
+12-05-2019,FC Groningen,Fortuna Sittard,3,0,Gewonnen
+15-05-2019,Fortuna Sittard,Feyenoord,1,4,Verloren
+15-05-2019,SBV Excelsior,AZ,4,2,Gewonnen
+15-05-2019,ADO Den Haag,Willem II,6,2,Gewonnen
+15-05-2019,FC Emmen,FC Groningen,1,0,Gewonnen
+15-05-2019,PSV,Heracles Almelo,3,1,Gewonnen
+15-05-2019,NAC Breda,PEC Zwolle,0,0,Gelijk
+15-05-2019,De Graafschap,Ajax,1,4,Verloren
+15-05-2019,VVV-Venlo,Vitesse,1,3,Verloren
+15-05-2019,FC Utrecht,sc Heerenveen,3,1,Gewonnen
