@@ -2,8 +2,8 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 29-08-2008,Vitesse,FC Groningen,0,4,Verloren
 30-08-2008,FC Utrecht,PSV,1,5,Verloren
 30-08-2008,Willem II,Ajax,2,1,Gewonnen
-30-08-2008,Roda JC,FC Twente,1,1,Gelijk
-30-08-2008,NEC,De Graafschap,2,0,Gewonnen
+30-08-2008,Roda JC Kerkrade,FC Twente,1,1,Gelijk
+30-08-2008,N.E.C.,De Graafschap,2,0,Gewonnen
 31-08-2008,Heracles Almelo,Feyenoord,3,1,Gewonnen
 31-08-2008,Sparta Rotterdam,ADO Den Haag,2,5,Verloren
 31-08-2008,FC Volendam,sc Heerenveen,2,3,Verloren
@@ -11,11 +11,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 12-09-2008,sc Heerenveen,Heracles Almelo,2,2,Gelijk
 13-09-2008,PSV,Sparta Rotterdam,1,0,Gewonnen
 13-09-2008,ADO Den Haag,AZ,3,0,Gewonnen
-13-09-2008,FC Twente,NEC,1,1,Gelijk
+13-09-2008,FC Twente,N.E.C.,1,1,Gelijk
 13-09-2008,Feyenoord,FC Volendam,5,0,Gewonnen
 14-09-2008,De Graafschap,Vitesse,1,0,Gewonnen
 14-09-2008,NAC Breda,Willem II,1,3,Verloren
-14-09-2008,Ajax,Roda JC,1,0,Gewonnen
+14-09-2008,Ajax,Roda JC Kerkrade,1,0,Gewonnen
 14-09-2008,FC Groningen,FC Utrecht,2,0,Gewonnen
 19-09-2008,FC Utrecht,Willem II,1,0,Gewonnen
 20-09-2008,Vitesse,Sparta Rotterdam,1,1,Gelijk
@@ -23,33 +23,33 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 20-09-2008,AZ,PSV,1,0,Gewonnen
 21-09-2008,De Graafschap,ADO Den Haag,2,0,Gewonnen
 21-09-2008,Feyenoord,Ajax,2,2,Gelijk
-21-09-2008,sc Heerenveen,NEC,2,1,Gewonnen
+21-09-2008,sc Heerenveen,N.E.C.,2,1,Gewonnen
 21-09-2008,FC Volendam,FC Twente,1,2,Verloren
-21-09-2008,Roda JC,NAC Breda,0,3,Verloren
+21-09-2008,Roda JC Kerkrade,NAC Breda,0,3,Verloren
 27-09-2008,NAC Breda,sc Heerenveen,4,2,Gewonnen
 27-09-2008,PSV,FC Volendam,1,0,Gewonnen
 27-09-2008,FC Twente,De Graafschap,3,0,Gewonnen
 27-09-2008,Willem II,AZ,2,5,Verloren
 28-09-2008,ADO Den Haag,FC Utrecht,0,0,Gelijk
-28-09-2008,NEC,Heracles Almelo,1,1,Gelijk
-28-09-2008,Sparta Rotterdam,Roda JC,2,2,Gelijk
+28-09-2008,N.E.C.,Heracles Almelo,1,1,Gelijk
+28-09-2008,Sparta Rotterdam,Roda JC Kerkrade,2,2,Gelijk
 28-09-2008,FC Groningen,Feyenoord,3,1,Gewonnen
 28-09-2008,Ajax,Vitesse,3,0,Gewonnen
 03-10-2008,AZ,Sparta Rotterdam,6,0,Gewonnen
 04-10-2008,Vitesse,Willem II,2,2,Gelijk
 04-10-2008,PSV,De Graafschap,3,0,Gewonnen
-04-10-2008,Heracles Almelo,Roda JC,2,0,Gewonnen
+04-10-2008,Heracles Almelo,Roda JC Kerkrade,2,0,Gewonnen
 05-10-2008,FC Groningen,ADO Den Haag,3,0,Gewonnen
 05-10-2008,FC Volendam,NAC Breda,2,4,Verloren
 05-10-2008,FC Utrecht,FC Twente,3,0,Gewonnen
-05-10-2008,Feyenoord,NEC,0,2,Verloren
+05-10-2008,Feyenoord,N.E.C.,0,2,Verloren
 05-10-2008,sc Heerenveen,Ajax,5,2,Gewonnen
 17-10-2008,ADO Den Haag,FC Volendam,2,0,Gewonnen
 18-10-2008,FC Twente,Heracles Almelo,2,0,Gewonnen
 18-10-2008,NAC Breda,PSV,2,1,Gewonnen
-18-10-2008,Roda JC,sc Heerenveen,2,2,Gelijk
+18-10-2008,Roda JC Kerkrade,sc Heerenveen,2,2,Gelijk
 18-10-2008,Ajax,FC Groningen,1,0,Gewonnen
-19-10-2008,NEC,Vitesse,3,1,Gewonnen
+19-10-2008,N.E.C.,Vitesse,3,1,Gewonnen
 19-10-2008,Willem II,Feyenoord,1,0,Gewonnen
 19-10-2008,De Graafschap,AZ,0,2,Verloren
 19-10-2008,Sparta Rotterdam,FC Utrecht,1,0,Gewonnen
@@ -57,16 +57,16 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 25-10-2008,AZ,FC Volendam,3,0,Gewonnen
 25-10-2008,FC Groningen,Sparta Rotterdam,3,0,Gewonnen
 25-10-2008,Willem II,De Graafschap,1,1,Gelijk
-25-10-2008,PSV,Roda JC,2,3,Verloren
+25-10-2008,PSV,Roda JC Kerkrade,2,3,Verloren
 26-10-2008,FC Utrecht,NAC Breda,0,0,Gelijk
-26-10-2008,Ajax,NEC,2,0,Gewonnen
+26-10-2008,Ajax,N.E.C.,2,0,Gewonnen
 26-10-2008,Vitesse,FC Twente,0,2,Verloren
 26-10-2008,Feyenoord,sc Heerenveen,2,2,Gelijk
 28-10-2008,ADO Den Haag,PSV,0,2,Verloren
 28-10-2008,FC Volendam,Willem II,2,2,Gelijk
-28-10-2008,Roda JC,AZ,0,2,Verloren
+28-10-2008,Roda JC Kerkrade,AZ,0,2,Verloren
 29-10-2008,Heracles Almelo,Ajax,1,3,Verloren
-29-10-2008,NEC,FC Groningen,2,2,Gelijk
+29-10-2008,N.E.C.,FC Groningen,2,2,Gelijk
 29-10-2008,Sparta Rotterdam,Feyenoord,2,1,Gewonnen
 29-10-2008,NAC Breda,FC Twente,0,1,Verloren
 29-10-2008,sc Heerenveen,Vitesse,0,2,Verloren
@@ -75,15 +75,15 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-11-2008,PSV,Willem II,2,0,Gewonnen
 01-11-2008,NAC Breda,FC Groningen,1,0,Gewonnen
 01-11-2008,sc Heerenveen,AZ,3,3,Gelijk
-02-11-2008,Roda JC,Feyenoord,0,4,Verloren
+02-11-2008,Roda JC Kerkrade,Feyenoord,0,4,Verloren
 02-11-2008,Vitesse,ADO Den Haag,3,1,Gewonnen
 02-11-2008,FC Volendam,De Graafschap,3,1,Gewonnen
 02-11-2008,FC Utrecht,Heracles Almelo,2,0,Gewonnen
-02-11-2008,Sparta Rotterdam,NEC,0,2,Verloren
+02-11-2008,Sparta Rotterdam,N.E.C.,0,2,Verloren
 07-11-2008,De Graafschap,NAC Breda,0,2,Verloren
-08-11-2008,NEC,PSV,1,0,Gewonnen
+08-11-2008,N.E.C.,PSV,1,0,Gewonnen
 08-11-2008,Heracles Almelo,Vitesse,0,0,Gelijk
-08-11-2008,Willem II,Roda JC,2,1,Gewonnen
+08-11-2008,Willem II,Roda JC Kerkrade,2,1,Gewonnen
 09-11-2008,Feyenoord,FC Utrecht,5,2,Gewonnen
 09-11-2008,FC Groningen,FC Volendam,5,0,Gewonnen
 09-11-2008,AZ,FC Twente,3,0,Gewonnen
@@ -93,13 +93,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 15-11-2008,ADO Den Haag,Willem II,0,1,Verloren
 15-11-2008,sc Heerenveen,FC Utrecht,3,2,Gewonnen
 15-11-2008,Sparta Rotterdam,FC Volendam,4,0,Gewonnen
-15-11-2008,Roda JC,NEC,3,0,Gewonnen
+15-11-2008,Roda JC Kerkrade,N.E.C.,3,0,Gewonnen
 16-11-2008,Ajax,PSV,4,1,Gewonnen
 16-11-2008,FC Groningen,De Graafschap,3,0,Gewonnen
 16-11-2008,Vitesse,AZ,1,1,Gelijk
 16-11-2008,FC Twente,Feyenoord,1,1,Gelijk
-21-11-2008,FC Volendam,Roda JC,3,1,Gewonnen
-22-11-2008,NAC Breda,NEC,1,1,Gelijk
+21-11-2008,FC Volendam,Roda JC Kerkrade,3,1,Gewonnen
+22-11-2008,NAC Breda,N.E.C.,1,1,Gelijk
 22-11-2008,FC Twente,sc Heerenveen,6,0,Gewonnen
 22-11-2008,PSV,Heracles Almelo,4,0,Gewonnen
 22-11-2008,De Graafschap,Sparta Rotterdam,3,3,Gelijk
@@ -108,26 +108,26 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 23-11-2008,Willem II,FC Groningen,3,0,Gewonnen
 23-11-2008,FC Utrecht,Vitesse,4,0,Gewonnen
 28-11-2008,FC Groningen,AZ,0,2,Verloren
-29-11-2008,De Graafschap,Roda JC,1,1,Gelijk
+29-11-2008,De Graafschap,Roda JC Kerkrade,1,1,Gelijk
 29-11-2008,ADO Den Haag,FC Twente,1,2,Verloren
 29-11-2008,Heracles Almelo,Willem II,1,0,Gewonnen
 29-11-2008,sc Heerenveen,PSV,2,2,Gelijk
 30-11-2008,Ajax,FC Utrecht,1,1,Gelijk
 30-11-2008,Vitesse,Feyenoord,1,1,Gelijk
 30-11-2008,Sparta Rotterdam,NAC Breda,4,0,Gewonnen
-30-11-2008,NEC,FC Volendam,6,1,Gewonnen
+30-11-2008,N.E.C.,FC Volendam,6,1,Gewonnen
 06-12-2008,FC Twente,Sparta Rotterdam,6,2,Gewonnen
 06-12-2008,PSV,FC Groningen,4,2,Gewonnen
-06-12-2008,Roda JC,Vitesse,3,0,Gewonnen
+06-12-2008,Roda JC Kerkrade,Vitesse,3,0,Gewonnen
 06-12-2008,AZ,Heracles Almelo,2,0,Gewonnen
 07-12-2008,FC Volendam,Ajax,1,2,Verloren
-07-12-2008,NEC,FC Utrecht,1,2,Verloren
+07-12-2008,N.E.C.,FC Utrecht,1,2,Verloren
 07-12-2008,NAC Breda,ADO Den Haag,0,4,Verloren
 07-12-2008,Feyenoord,De Graafschap,1,3,Verloren
 07-12-2008,Willem II,sc Heerenveen,1,3,Verloren
 12-12-2008,Ajax,NAC Breda,3,0,Gewonnen
-13-12-2008,ADO Den Haag,Roda JC,1,1,Gelijk
-13-12-2008,Willem II,NEC,1,2,Verloren
+13-12-2008,ADO Den Haag,Roda JC Kerkrade,1,1,Gelijk
+13-12-2008,Willem II,N.E.C.,1,2,Verloren
 13-12-2008,sc Heerenveen,De Graafschap,2,0,Gewonnen
 13-12-2008,Feyenoord,AZ,0,1,Verloren
 14-12-2008,Vitesse,PSV,1,1,Gelijk
@@ -137,8 +137,8 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 19-12-2008,AZ,FC Utrecht,2,0,Gewonnen
 20-12-2008,Sparta Rotterdam,sc Heerenveen,4,1,Gewonnen
 20-12-2008,NAC Breda,Vitesse,2,0,Gewonnen
-20-12-2008,Roda JC,FC Groningen,2,5,Verloren
-21-12-2008,NEC,ADO Den Haag,0,0,Gelijk
+20-12-2008,Roda JC Kerkrade,FC Groningen,2,5,Verloren
+21-12-2008,N.E.C.,ADO Den Haag,0,0,Gelijk
 21-12-2008,De Graafschap,Ajax,0,6,Verloren
 21-12-2008,FC Twente,Willem II,2,0,Gewonnen
 21-12-2008,PSV,Feyenoord,1,0,Gewonnen
@@ -149,28 +149,28 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 27-12-2008,Heracles Almelo,De Graafschap,0,0,Gelijk
 27-12-2008,Vitesse,FC Volendam,3,1,Gewonnen
 28-12-2008,Ajax,ADO Den Haag,3,0,Gewonnen
-28-12-2008,FC Utrecht,Roda JC,3,1,Gewonnen
-28-12-2008,AZ,NEC,1,0,Gewonnen
+28-12-2008,FC Utrecht,Roda JC Kerkrade,3,1,Gewonnen
+28-12-2008,AZ,N.E.C.,1,0,Gewonnen
 28-12-2008,FC Groningen,sc Heerenveen,2,3,Verloren
 16-01-2009,sc Heerenveen,Feyenoord,3,1,Gewonnen
 17-01-2009,De Graafschap,Willem II,1,0,Gewonnen
 17-01-2009,FC Twente,Vitesse,2,1,Gewonnen
 17-01-2009,ADO Den Haag,Heracles Almelo,2,2,Gelijk
 17-01-2009,NAC Breda,FC Utrecht,1,1,Gelijk
-18-01-2009,Roda JC,PSV,1,1,Gelijk
+18-01-2009,Roda JC Kerkrade,PSV,1,1,Gelijk
 18-01-2009,FC Volendam,AZ,0,2,Verloren
-18-01-2009,NEC,Ajax,2,4,Verloren
+18-01-2009,N.E.C.,Ajax,2,4,Verloren
 18-01-2009,Sparta Rotterdam,FC Groningen,1,1,Gelijk
-24-01-2009,sc Heerenveen,Roda JC,2,0,Gewonnen
+24-01-2009,sc Heerenveen,Roda JC Kerkrade,2,0,Gewonnen
 24-01-2009,PSV,NAC Breda,2,2,Gelijk
 24-01-2009,AZ,De Graafschap,2,0,Gewonnen
 24-01-2009,Feyenoord,Willem II,1,1,Gelijk
-25-01-2009,Vitesse,NEC,0,0,Gelijk
+25-01-2009,Vitesse,N.E.C.,0,0,Gelijk
 25-01-2009,FC Groningen,Ajax,1,0,Gewonnen
 25-01-2009,Heracles Almelo,FC Twente,1,2,Verloren
 25-01-2009,FC Volendam,ADO Den Haag,0,1,Verloren
 25-01-2009,FC Utrecht,Sparta Rotterdam,3,3,Gelijk
-30-01-2009,Roda JC,Heracles Almelo,3,1,Gewonnen
+30-01-2009,Roda JC Kerkrade,Heracles Almelo,3,1,Gewonnen
 31-01-2009,ADO Den Haag,FC Groningen,0,1,Verloren
 31-01-2009,NAC Breda,FC Volendam,1,1,Gelijk
 31-01-2009,Willem II,Vitesse,0,2,Verloren
@@ -178,20 +178,20 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-02-2009,FC Twente,FC Utrecht,0,0,Gelijk
 01-02-2009,Sparta Rotterdam,AZ,0,2,Verloren
 01-02-2009,De Graafschap,PSV,0,3,Verloren
-01-02-2009,NEC,Feyenoord,1,0,Gewonnen
+01-02-2009,N.E.C.,Feyenoord,1,0,Gewonnen
 03-02-2009,Vitesse,sc Heerenveen,1,0,Gewonnen
 03-02-2009,Willem II,FC Volendam,1,2,Verloren
 03-02-2009,Ajax,Heracles Almelo,2,2,Gelijk
 04-02-2009,FC Twente,NAC Breda,4,1,Gewonnen
-04-02-2009,AZ,Roda JC,1,0,Gewonnen
+04-02-2009,AZ,Roda JC Kerkrade,1,0,Gewonnen
 04-02-2009,FC Utrecht,De Graafschap,3,0,Gewonnen
 04-02-2009,Feyenoord,Sparta Rotterdam,1,0,Gewonnen
-04-02-2009,FC Groningen,NEC,2,0,Gewonnen
+04-02-2009,FC Groningen,N.E.C.,2,0,Gewonnen
 05-02-2009,PSV,ADO Den Haag,6,0,Gewonnen
-07-02-2009,Roda JC,Sparta Rotterdam,0,1,Verloren
+07-02-2009,Roda JC Kerkrade,Sparta Rotterdam,0,1,Verloren
 07-02-2009,AZ,Willem II,3,1,Gewonnen
 07-02-2009,sc Heerenveen,NAC Breda,3,1,Gewonnen
-07-02-2009,Heracles Almelo,NEC,1,1,Gelijk
+07-02-2009,Heracles Almelo,N.E.C.,1,1,Gelijk
 08-02-2009,Vitesse,Ajax,4,1,Gewonnen
 08-02-2009,FC Utrecht,ADO Den Haag,3,1,Gewonnen
 08-02-2009,De Graafschap,FC Twente,2,2,Gelijk
@@ -201,39 +201,39 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 14-02-2009,ADO Den Haag,De Graafschap,1,0,Gewonnen
 14-02-2009,FC Twente,FC Volendam,2,1,Gewonnen
 14-02-2009,PSV,AZ,2,2,Gelijk
-14-02-2009,NAC Breda,Roda JC,1,0,Gewonnen
+14-02-2009,NAC Breda,Roda JC Kerkrade,1,0,Gewonnen
 15-02-2009,Ajax,Feyenoord,2,0,Gewonnen
 15-02-2009,FC Groningen,Heracles Almelo,2,0,Gewonnen
 15-02-2009,Sparta Rotterdam,Vitesse,0,0,Gelijk
-15-02-2009,NEC,sc Heerenveen,1,1,Gelijk
-20-02-2009,Vitesse,Roda JC,3,0,Gewonnen
+15-02-2009,N.E.C.,sc Heerenveen,1,1,Gelijk
+20-02-2009,Vitesse,Roda JC Kerkrade,3,0,Gewonnen
 21-02-2009,sc Heerenveen,Willem II,3,1,Gewonnen
 21-02-2009,Heracles Almelo,AZ,0,2,Verloren
 21-02-2009,ADO Den Haag,NAC Breda,1,1,Gelijk
 21-02-2009,FC Groningen,PSV,0,1,Verloren
-22-02-2009,FC Utrecht,NEC,0,2,Verloren
+22-02-2009,FC Utrecht,N.E.C.,0,2,Verloren
 22-02-2009,Sparta Rotterdam,FC Twente,1,2,Verloren
 22-02-2009,De Graafschap,Feyenoord,0,2,Verloren
 22-02-2009,Ajax,FC Volendam,2,1,Gewonnen
 27-02-2009,PSV,sc Heerenveen,2,3,Verloren
 28-02-2009,Willem II,Heracles Almelo,0,3,Verloren
 28-02-2009,NAC Breda,Sparta Rotterdam,3,1,Gewonnen
-28-02-2009,Roda JC,De Graafschap,3,1,Gewonnen
+28-02-2009,Roda JC Kerkrade,De Graafschap,3,1,Gewonnen
 28-02-2009,AZ,FC Groningen,3,0,Gewonnen
 01-03-2009,FC Utrecht,Ajax,0,2,Verloren
 01-03-2009,FC Twente,ADO Den Haag,1,0,Gewonnen
-01-03-2009,FC Volendam,NEC,1,1,Gelijk
+01-03-2009,FC Volendam,N.E.C.,1,1,Gelijk
 01-03-2009,Feyenoord,Vitesse,2,2,Gelijk
 06-03-2009,Sparta Rotterdam,Willem II,0,1,Verloren
 07-03-2009,sc Heerenveen,FC Groningen,2,1,Gewonnen
 07-03-2009,De Graafschap,Heracles Almelo,1,0,Gewonnen
 08-03-2009,ADO Den Haag,Ajax,1,1,Gelijk
 08-03-2009,NAC Breda,Feyenoord,1,2,Verloren
-08-03-2009,NEC,AZ,0,1,Verloren
+08-03-2009,N.E.C.,AZ,0,1,Verloren
 08-03-2009,FC Volendam,Vitesse,1,0,Gewonnen
-08-03-2009,Roda JC,FC Utrecht,0,0,Gelijk
+08-03-2009,Roda JC Kerkrade,FC Utrecht,0,0,Gelijk
 08-03-2009,FC Twente,PSV,1,1,Gelijk
-13-03-2009,FC Groningen,Roda JC,2,0,Gewonnen
+13-03-2009,FC Groningen,Roda JC Kerkrade,2,0,Gewonnen
 14-03-2009,Vitesse,NAC Breda,0,3,Verloren
 14-03-2009,sc Heerenveen,Sparta Rotterdam,5,1,Gewonnen
 14-03-2009,Willem II,FC Twente,0,2,Verloren
@@ -241,36 +241,36 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 15-03-2009,Feyenoord,PSV,1,0,Gewonnen
 15-03-2009,FC Utrecht,AZ,0,1,Verloren
 15-03-2009,Ajax,De Graafschap,3,0,Gewonnen
-15-03-2009,ADO Den Haag,NEC,3,0,Gewonnen
+15-03-2009,ADO Den Haag,N.E.C.,3,0,Gewonnen
 20-03-2009,De Graafschap,sc Heerenveen,2,0,Gewonnen
-21-03-2009,NEC,Willem II,0,0,Gelijk
+21-03-2009,N.E.C.,Willem II,0,0,Gelijk
 21-03-2009,PSV,Vitesse,2,0,Gewonnen
 21-03-2009,Sparta Rotterdam,Heracles Almelo,1,0,Gewonnen
-22-03-2009,Roda JC,ADO Den Haag,2,0,Gewonnen
+22-03-2009,Roda JC Kerkrade,ADO Den Haag,2,0,Gewonnen
 22-03-2009,AZ,Feyenoord,0,0,Gelijk
 22-03-2009,FC Twente,FC Groningen,2,1,Gewonnen
 22-03-2009,NAC Breda,Ajax,0,3,Verloren
 22-03-2009,FC Volendam,FC Utrecht,0,0,Gelijk
-03-04-2009,NEC,FC Twente,1,1,Gelijk
+03-04-2009,N.E.C.,FC Twente,1,1,Gelijk
 04-04-2009,FC Utrecht,FC Groningen,0,1,Verloren
 04-04-2009,Heracles Almelo,sc Heerenveen,1,1,Gelijk
 04-04-2009,AZ,ADO Den Haag,4,1,Gewonnen
 04-04-2009,Sparta Rotterdam,PSV,0,2,Verloren
-05-04-2009,Roda JC,Ajax,1,2,Verloren
+05-04-2009,Roda JC Kerkrade,Ajax,1,2,Verloren
 05-04-2009,Vitesse,De Graafschap,0,0,Gelijk
 05-04-2009,FC Volendam,Feyenoord,2,1,Gewonnen
 05-04-2009,Willem II,NAC Breda,2,0,Gewonnen
 10-04-2009,NAC Breda,AZ,0,1,Verloren
-11-04-2009,De Graafschap,NEC,2,2,Gelijk
+11-04-2009,De Graafschap,N.E.C.,2,2,Gelijk
 11-04-2009,PSV,FC Utrecht,2,0,Gewonnen
 11-04-2009,ADO Den Haag,Sparta Rotterdam,1,2,Verloren
-11-04-2009,FC Twente,Roda JC,4,2,Gewonnen
+11-04-2009,FC Twente,Roda JC Kerkrade,4,2,Gewonnen
 12-04-2009,FC Groningen,Vitesse,2,3,Verloren
 12-04-2009,Feyenoord,Heracles Almelo,5,1,Gewonnen
 12-04-2009,sc Heerenveen,FC Volendam,1,0,Gewonnen
 12-04-2009,Ajax,Willem II,7,0,Gewonnen
 17-04-2009,Heracles Almelo,NAC Breda,4,0,Gewonnen
-18-04-2009,NEC,Roda JC,1,1,Gelijk
+18-04-2009,N.E.C.,Roda JC Kerkrade,1,1,Gelijk
 18-04-2009,De Graafschap,FC Groningen,0,1,Verloren
 18-04-2009,AZ,Vitesse,1,2,Verloren
 18-04-2009,Feyenoord,FC Twente,1,0,Gewonnen
@@ -279,8 +279,8 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 19-04-2009,FC Utrecht,sc Heerenveen,2,1,Gewonnen
 19-04-2009,PSV,Ajax,6,2,Gewonnen
 24-04-2009,Sparta Rotterdam,De Graafschap,0,0,Gelijk
-25-04-2009,Roda JC,FC Volendam,1,1,Gelijk
-25-04-2009,NEC,NAC Breda,2,3,Verloren
+25-04-2009,Roda JC Kerkrade,FC Volendam,1,1,Gelijk
+25-04-2009,N.E.C.,NAC Breda,2,3,Verloren
 25-04-2009,sc Heerenveen,FC Twente,1,1,Gelijk
 25-04-2009,Heracles Almelo,PSV,0,2,Verloren
 26-04-2009,ADO Den Haag,Feyenoord,2,3,Verloren
@@ -289,8 +289,8 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 26-04-2009,Ajax,AZ,1,1,Gelijk
 03-05-2009,FC Utrecht,Feyenoord,2,2,Gelijk
 03-05-2009,Sparta Rotterdam,Ajax,4,0,Gewonnen
-03-05-2009,PSV,NEC,1,1,Gelijk
-03-05-2009,Roda JC,Willem II,0,1,Verloren
+03-05-2009,PSV,N.E.C.,1,1,Gelijk
+03-05-2009,Roda JC Kerkrade,Willem II,0,1,Verloren
 03-05-2009,Vitesse,Heracles Almelo,1,0,Gewonnen
 03-05-2009,NAC Breda,De Graafschap,0,1,Verloren
 03-05-2009,FC Volendam,FC Groningen,0,1,Verloren
@@ -298,9 +298,9 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 03-05-2009,FC Twente,AZ,3,0,Gewonnen
 10-05-2009,Ajax,FC Twente,1,0,Gewonnen
 10-05-2009,FC Groningen,NAC Breda,1,0,Gewonnen
-10-05-2009,Feyenoord,Roda JC,2,3,Verloren
+10-05-2009,Feyenoord,Roda JC Kerkrade,2,3,Verloren
 10-05-2009,De Graafschap,FC Volendam,2,2,Gelijk
-10-05-2009,NEC,Sparta Rotterdam,1,1,Gelijk
+10-05-2009,N.E.C.,Sparta Rotterdam,1,1,Gelijk
 10-05-2009,Heracles Almelo,FC Utrecht,1,1,Gelijk
 10-05-2009,AZ,sc Heerenveen,3,1,Gewonnen
 10-05-2009,ADO Den Haag,Vitesse,3,1,Gewonnen

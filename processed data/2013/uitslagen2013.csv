@@ -1,7 +1,7 @@
 Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-08-2013,Ajax,Roda JC Kerkrade,3,0,Gewonnen
 03-08-2013,ADO Den Haag,PSV,2,3,Verloren
-03-08-2013,NEC,FC Groningen,1,4,Verloren
+03-08-2013,N.E.C.,FC Groningen,1,4,Verloren
 03-08-2013,FC Twente,RKC Waalwijk,0,0,Gelijk
 03-08-2013,sc Heerenveen,AZ,4,2,Gewonnen
 04-08-2013,SC Cambuur,NAC Breda,0,0,Gelijk
@@ -12,7 +12,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 10-08-2013,Heracles Almelo,PEC Zwolle,1,3,Verloren
 10-08-2013,Go Ahead Eagles,ADO Den Haag,2,1,Gewonnen
 10-08-2013,NAC Breda,sc Heerenveen,0,2,Verloren
-10-08-2013,PSV,NEC,5,0,Gewonnen
+10-08-2013,PSV,N.E.C.,5,0,Gewonnen
 11-08-2013,Feyenoord,FC Twente,1,4,Verloren
 11-08-2013,AZ,Ajax,3,2,Gewonnen
 11-08-2013,FC Groningen,FC Utrecht,2,0,Gewonnen
@@ -21,13 +21,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 17-08-2013,PSV,Go Ahead Eagles,3,0,Gewonnen
 17-08-2013,RKC Waalwijk,AZ,1,2,Verloren
 17-08-2013,Roda JC Kerkrade,Vitesse,1,1,Gelijk
-17-08-2013,NEC,PEC Zwolle,1,5,Verloren
+17-08-2013,N.E.C.,PEC Zwolle,1,5,Verloren
 18-08-2013,Ajax,Feyenoord,2,1,Gewonnen
 18-08-2013,sc Heerenveen,Heracles Almelo,2,4,Verloren
 18-08-2013,NAC Breda,ADO Den Haag,1,2,Verloren
 18-08-2013,FC Twente,FC Utrecht,6,0,Gewonnen
 23-08-2013,sc Heerenveen,Ajax,3,3,Gelijk
-24-08-2013,NEC,RKC Waalwijk,2,2,Gelijk
+24-08-2013,N.E.C.,RKC Waalwijk,2,2,Gelijk
 24-08-2013,ADO Den Haag,Roda JC Kerkrade,0,4,Verloren
 24-08-2013,Heracles Almelo,PSV,1,1,Gelijk
 24-08-2013,PEC Zwolle,SC Cambuur,2,0,Gewonnen
@@ -35,7 +35,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 25-08-2013,Vitesse,FC Twente,1,0,Gewonnen
 25-08-2013,Feyenoord,NAC Breda,3,1,Gewonnen
 25-08-2013,FC Utrecht,AZ,2,0,Gewonnen
-30-08-2013,NAC Breda,NEC,1,1,Gelijk
+30-08-2013,NAC Breda,N.E.C.,1,1,Gelijk
 31-08-2013,FC Twente,sc Heerenveen,1,1,Gelijk
 31-08-2013,RKC Waalwijk,Go Ahead Eagles,1,4,Verloren
 31-08-2013,Heracles Almelo,ADO Den Haag,1,0,Gewonnen
@@ -47,14 +47,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 14-09-2013,Ajax,PEC Zwolle,2,1,Gewonnen
 14-09-2013,SC Cambuur,Heracles Almelo,2,0,Gewonnen
 14-09-2013,FC Twente,PSV,2,2,Gelijk
-15-09-2013,NEC,Feyenoord,3,3,Gelijk
+15-09-2013,N.E.C.,Feyenoord,3,3,Gelijk
 15-09-2013,Roda JC Kerkrade,NAC Breda,1,5,Verloren
 15-09-2013,sc Heerenveen,FC Groningen,4,2,Gewonnen
 15-09-2013,AZ,Go Ahead Eagles,3,0,Gewonnen
 15-09-2013,FC Utrecht,RKC Waalwijk,2,1,Gewonnen
 20-09-2013,Go Ahead Eagles,SC Cambuur,0,0,Gelijk
 21-09-2013,Heracles Almelo,FC Twente,0,3,Verloren
-21-09-2013,ADO Den Haag,NEC,1,1,Gelijk
+21-09-2013,ADO Den Haag,N.E.C.,1,1,Gelijk
 21-09-2013,FC Groningen,RKC Waalwijk,4,1,Gewonnen
 21-09-2013,Roda JC Kerkrade,sc Heerenveen,3,3,Gelijk
 22-09-2013,Vitesse,PEC Zwolle,3,0,Gewonnen
@@ -66,13 +66,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 28-09-2013,FC Utrecht,Roda JC Kerkrade,3,3,Gelijk
 28-09-2013,PEC Zwolle,NAC Breda,0,0,Gelijk
 28-09-2013,Ajax,Go Ahead Eagles,6,0,Gewonnen
-29-09-2013,NEC,Vitesse,2,3,Verloren
+29-09-2013,N.E.C.,Vitesse,2,3,Verloren
 29-09-2013,Feyenoord,ADO Den Haag,4,2,Gewonnen
 29-09-2013,sc Heerenveen,SC Cambuur,2,1,Gewonnen
 29-09-2013,FC Twente,FC Groningen,5,0,Gewonnen
 02-10-2013,ADO Den Haag,Vitesse,2,1,Gewonnen
 04-10-2013,SC Cambuur,FC Twente,0,1,Verloren
-05-10-2013,Go Ahead Eagles,NEC,4,3,Gewonnen
+05-10-2013,Go Ahead Eagles,N.E.C.,4,3,Gewonnen
 05-10-2013,Roda JC Kerkrade,PEC Zwolle,0,0,Gelijk
 05-10-2013,NAC Breda,Heracles Almelo,2,1,Gewonnen
 06-10-2013,Ajax,FC Utrecht,3,0,Gewonnen
@@ -84,11 +84,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 19-10-2013,FC Utrecht,NAC Breda,4,2,Gewonnen
 19-10-2013,FC Twente,Ajax,1,1,Gelijk
 19-10-2013,sc Heerenveen,Vitesse,2,3,Verloren
-20-10-2013,Heracles Almelo,NEC,1,1,Gelijk
+20-10-2013,Heracles Almelo,N.E.C.,1,1,Gelijk
 20-10-2013,FC Groningen,PSV,1,0,Gewonnen
 20-10-2013,PEC Zwolle,ADO Den Haag,6,1,Gewonnen
 20-10-2013,AZ,SC Cambuur,3,1,Gewonnen
-25-10-2013,NEC,sc Heerenveen,2,1,Gewonnen
+25-10-2013,N.E.C.,sc Heerenveen,2,1,Gewonnen
 26-10-2013,ADO Den Haag,FC Twente,3,2,Gewonnen
 26-10-2013,SC Cambuur,FC Utrecht,3,1,Gewonnen
 26-10-2013,NAC Breda,Go Ahead Eagles,5,0,Gewonnen
@@ -100,7 +100,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-11-2013,RKC Waalwijk,NAC Breda,3,0,Gewonnen
 02-11-2013,Ajax,Vitesse,0,1,Verloren
 02-11-2013,AZ,ADO Den Haag,2,0,Gewonnen
-02-11-2013,FC Twente,NEC,2,2,Gelijk
+02-11-2013,FC Twente,N.E.C.,2,2,Gelijk
 02-11-2013,PSV,PEC Zwolle,1,1,Gelijk
 03-11-2013,FC Groningen,Roda JC Kerkrade,3,3,Gelijk
 03-11-2013,SC Cambuur,Feyenoord,0,2,Verloren
@@ -112,10 +112,10 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 09-11-2013,ADO Den Haag,SC Cambuur,3,0,Gewonnen
 10-11-2013,PEC Zwolle,FC Twente,1,1,Gelijk
 10-11-2013,NAC Breda,PSV,2,1,Gewonnen
-10-11-2013,NEC,Ajax,0,3,Verloren
+10-11-2013,N.E.C.,Ajax,0,3,Verloren
 10-11-2013,Feyenoord,AZ,2,2,Gelijk
 23-11-2013,PSV,sc Heerenveen,1,1,Gelijk
-23-11-2013,SC Cambuur,NEC,2,1,Gewonnen
+23-11-2013,SC Cambuur,N.E.C.,2,1,Gewonnen
 23-11-2013,AZ,Roda JC Kerkrade,2,2,Gelijk
 23-11-2013,Ajax,Heracles Almelo,3,0,Gewonnen
 24-11-2013,RKC Waalwijk,Feyenoord,1,0,Gewonnen
@@ -131,10 +131,10 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-12-2013,ADO Den Haag,Ajax,0,4,Verloren
 01-12-2013,Feyenoord,PSV,3,1,Gewonnen
 01-12-2013,Vitesse,SC Cambuur,3,0,Gewonnen
-01-12-2013,NEC,AZ,3,2,Gewonnen
+01-12-2013,N.E.C.,AZ,3,2,Gewonnen
 04-12-2013,ADO Den Haag,sc Heerenveen,1,1,Gelijk
 04-12-2013,Go Ahead Eagles,Heracles Almelo,1,1,Gelijk
-06-12-2013,FC Utrecht,NEC,2,0,Gewonnen
+06-12-2013,FC Utrecht,N.E.C.,2,0,Gewonnen
 07-12-2013,Ajax,NAC Breda,4,0,Gewonnen
 07-12-2013,AZ,FC Twente,1,2,Verloren
 07-12-2013,RKC Waalwijk,SC Cambuur,2,2,Gelijk
@@ -144,7 +144,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 08-12-2013,Go Ahead Eagles,PEC Zwolle,4,1,Gewonnen
 08-12-2013,Roda JC Kerkrade,Heracles Almelo,1,3,Verloren
 13-12-2013,PEC Zwolle,sc Heerenveen,1,2,Verloren
-14-12-2013,NEC,Roda JC Kerkrade,4,3,Gewonnen
+14-12-2013,N.E.C.,Roda JC Kerkrade,4,3,Gewonnen
 14-12-2013,ADO Den Haag,RKC Waalwijk,1,2,Verloren
 14-12-2013,FC Twente,Go Ahead Eagles,3,1,Gewonnen
 15-12-2013,SC Cambuur,Ajax,1,2,Verloren
@@ -158,7 +158,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 21-12-2013,Heracles Almelo,Vitesse,2,2,Gelijk
 21-12-2013,Feyenoord,PEC Zwolle,3,0,Gewonnen
 22-12-2013,Roda JC Kerkrade,Ajax,1,2,Verloren
-22-12-2013,FC Groningen,NEC,5,2,Gewonnen
+22-12-2013,FC Groningen,N.E.C.,5,2,Gewonnen
 22-12-2013,Go Ahead Eagles,FC Utrecht,2,1,Gewonnen
 22-12-2013,PSV,ADO Den Haag,2,0,Gewonnen
 17-01-2014,FC Twente,Heracles Almelo,3,1,Gewonnen
@@ -166,7 +166,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 18-01-2014,RKC Waalwijk,FC Groningen,1,1,Gelijk
 18-01-2014,PEC Zwolle,Vitesse,1,2,Verloren
 18-01-2014,sc Heerenveen,Roda JC Kerkrade,2,2,Gelijk
-19-01-2014,NEC,ADO Den Haag,3,1,Gewonnen
+19-01-2014,N.E.C.,ADO Den Haag,3,1,Gewonnen
 19-01-2014,SC Cambuur,Go Ahead Eagles,2,0,Gewonnen
 19-01-2014,FC Utrecht,Feyenoord,2,5,Verloren
 19-01-2014,Ajax,PSV,1,0,Gewonnen
@@ -175,7 +175,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 25-01-2014,NAC Breda,PEC Zwolle,1,2,Verloren
 25-01-2014,Roda JC Kerkrade,FC Utrecht,1,0,Gewonnen
 25-01-2014,PSV,AZ,1,0,Gewonnen
-26-01-2014,Vitesse,NEC,1,1,Gelijk
+26-01-2014,Vitesse,N.E.C.,1,1,Gelijk
 26-01-2014,SC Cambuur,sc Heerenveen,3,1,Gewonnen
 26-01-2014,Go Ahead Eagles,Ajax,0,1,Verloren
 31-01-2014,Feyenoord,Vitesse,1,1,Gelijk
@@ -185,13 +185,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-02-2014,AZ,FC Groningen,2,0,Gewonnen
 02-02-2014,FC Utrecht,Ajax,1,1,Gelijk
 02-02-2014,FC Twente,SC Cambuur,3,1,Gewonnen
-02-02-2014,NEC,Go Ahead Eagles,1,1,Gelijk
+02-02-2014,N.E.C.,Go Ahead Eagles,1,1,Gelijk
 02-02-2014,RKC Waalwijk,PSV,2,0,Gewonnen
 04-02-2014,Roda JC Kerkrade,Feyenoord,1,2,Verloren
 04-02-2014,ADO Den Haag,Heracles Almelo,0,3,Verloren
 04-02-2014,Vitesse,AZ,0,2,Verloren
 05-02-2014,SC Cambuur,PSV,1,2,Verloren
-05-02-2014,NEC,NAC Breda,1,1,Gelijk
+05-02-2014,N.E.C.,NAC Breda,1,1,Gelijk
 05-02-2014,Go Ahead Eagles,RKC Waalwijk,2,2,Gelijk
 05-02-2014,sc Heerenveen,FC Twente,0,2,Verloren
 06-02-2014,FC Utrecht,PEC Zwolle,1,2,Verloren
@@ -200,7 +200,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 08-02-2014,PSV,FC Twente,3,2,Gewonnen
 08-02-2014,NAC Breda,Roda JC Kerkrade,2,0,Gewonnen
 08-02-2014,Go Ahead Eagles,AZ,2,1,Gewonnen
-08-02-2014,Feyenoord,NEC,5,1,Gewonnen
+08-02-2014,Feyenoord,N.E.C.,5,1,Gewonnen
 09-02-2014,Heracles Almelo,SC Cambuur,1,1,Gelijk
 09-02-2014,RKC Waalwijk,FC Utrecht,5,2,Gewonnen
 09-02-2014,PEC Zwolle,Ajax,1,1,Gelijk
@@ -208,7 +208,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 12-02-2014,FC Groningen,FC Twente,1,1,Gelijk
 14-02-2014,PSV,Heracles Almelo,2,1,Gewonnen
 15-02-2014,FC Twente,Vitesse,2,0,Gewonnen
-15-02-2014,RKC Waalwijk,NEC,1,3,Verloren
+15-02-2014,RKC Waalwijk,N.E.C.,1,3,Verloren
 15-02-2014,Roda JC Kerkrade,ADO Den Haag,0,1,Verloren
 15-02-2014,AZ,FC Utrecht,1,1,Gelijk
 16-02-2014,SC Cambuur,PEC Zwolle,3,1,Gewonnen
@@ -219,13 +219,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 22-02-2014,sc Heerenveen,NAC Breda,0,0,Gelijk
 22-02-2014,SC Cambuur,Roda JC Kerkrade,1,0,Gewonnen
 22-02-2014,PEC Zwolle,Heracles Almelo,1,1,Gelijk
-22-02-2014,NEC,PSV,0,2,Verloren
+22-02-2014,N.E.C.,PSV,0,2,Verloren
 23-02-2014,FC Utrecht,FC Groningen,1,0,Gewonnen
 23-02-2014,Vitesse,RKC Waalwijk,3,1,Gewonnen
 23-02-2014,Ajax,AZ,4,0,Gewonnen
 23-02-2014,FC Twente,Feyenoord,2,2,Gelijk
 28-02-2014,Heracles Almelo,sc Heerenveen,1,2,Verloren
-01-03-2014,PEC Zwolle,NEC,3,3,Gelijk
+01-03-2014,PEC Zwolle,N.E.C.,3,3,Gelijk
 01-03-2014,ADO Den Haag,NAC Breda,1,1,Gelijk
 01-03-2014,Go Ahead Eagles,PSV,2,3,Verloren
 01-03-2014,Vitesse,Roda JC Kerkrade,3,0,Gewonnen
@@ -233,7 +233,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-03-2014,FC Groningen,SC Cambuur,1,1,Gelijk
 02-03-2014,Feyenoord,Ajax,1,2,Verloren
 02-03-2014,AZ,RKC Waalwijk,4,0,Gewonnen
-08-03-2014,Roda JC Kerkrade,NEC,3,1,Gewonnen
+08-03-2014,Roda JC Kerkrade,N.E.C.,3,1,Gewonnen
 08-03-2014,AZ,Heracles Almelo,4,0,Gewonnen
 08-03-2014,sc Heerenveen,PEC Zwolle,3,0,Gewonnen
 08-03-2014,NAC Breda,Vitesse,1,2,Verloren
@@ -247,17 +247,17 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 15-03-2014,ADO Den Haag,FC Groningen,2,1,Gewonnen
 15-03-2014,Heracles Almelo,Roda JC Kerkrade,2,1,Gewonnen
 16-03-2014,FC Twente,AZ,2,1,Gewonnen
-16-03-2014,NEC,FC Utrecht,2,2,Gelijk
+16-03-2014,N.E.C.,FC Utrecht,2,2,Gelijk
 16-03-2014,Feyenoord,sc Heerenveen,2,0,Gewonnen
 16-03-2014,PEC Zwolle,Go Ahead Eagles,2,0,Gewonnen
 16-03-2014,NAC Breda,Ajax,0,0,Gelijk
 22-03-2014,FC Groningen,Vitesse,3,1,Gewonnen
-22-03-2014,sc Heerenveen,NEC,2,2,Gelijk
+22-03-2014,sc Heerenveen,N.E.C.,2,2,Gelijk
 22-03-2014,PSV,Roda JC Kerkrade,3,1,Gewonnen
 23-03-2014,AZ,PEC Zwolle,2,1,Gewonnen
 28-03-2014,NAC Breda,FC Utrecht,2,2,Gelijk
 29-03-2014,Vitesse,sc Heerenveen,2,2,Gelijk
-29-03-2014,NEC,Heracles Almelo,1,2,Verloren
+29-03-2014,N.E.C.,Heracles Almelo,1,2,Verloren
 29-03-2014,PSV,FC Groningen,2,3,Verloren
 30-03-2014,Feyenoord,Go Ahead Eagles,5,0,Gewonnen
 30-03-2014,Ajax,FC Twente,3,0,Gewonnen
@@ -271,7 +271,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-04-2014,Heracles Almelo,Feyenoord,1,2,Verloren
 04-04-2014,PEC Zwolle,FC Groningen,0,1,Verloren
 05-04-2014,sc Heerenveen,PSV,3,0,Gewonnen
-05-04-2014,NEC,SC Cambuur,1,1,Gelijk
+05-04-2014,N.E.C.,SC Cambuur,1,1,Gelijk
 05-04-2014,NAC Breda,FC Twente,0,2,Verloren
 05-04-2014,Heracles Almelo,Go Ahead Eagles,1,2,Verloren
 06-04-2014,ADO Den Haag,FC Utrecht,4,1,Gewonnen
@@ -282,13 +282,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 12-04-2014,Go Ahead Eagles,sc Heerenveen,0,2,Verloren
 12-04-2014,SC Cambuur,Vitesse,4,3,Gewonnen
 12-04-2014,FC Twente,Roda JC Kerkrade,3,0,Gewonnen
-13-04-2014,AZ,NEC,1,1,Gelijk
+13-04-2014,AZ,N.E.C.,1,1,Gelijk
 13-04-2014,FC Utrecht,Heracles Almelo,2,1,Gewonnen
 13-04-2014,RKC Waalwijk,PEC Zwolle,1,1,Gelijk
 13-04-2014,Ajax,ADO Den Haag,3,2,Gewonnen
 13-04-2014,PSV,Feyenoord,0,2,Verloren
 27-04-2014,Feyenoord,SC Cambuur,5,1,Gewonnen
-27-04-2014,NEC,FC Twente,2,5,Verloren
+27-04-2014,N.E.C.,FC Twente,2,5,Verloren
 27-04-2014,Vitesse,Go Ahead Eagles,2,2,Gelijk
 27-04-2014,NAC Breda,RKC Waalwijk,1,1,Gelijk
 27-04-2014,PEC Zwolle,PSV,1,2,Verloren
@@ -303,5 +303,5 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 03-05-2014,RKC Waalwijk,sc Heerenveen,0,3,Verloren
 03-05-2014,FC Twente,PEC Zwolle,2,2,Gelijk
 03-05-2014,FC Groningen,Heracles Almelo,3,1,Gewonnen
-03-05-2014,Ajax,NEC,2,2,Gelijk
+03-05-2014,Ajax,N.E.C.,2,2,Gelijk
 03-05-2014,PSV,NAC Breda,2,0,Gewonnen

@@ -1,12 +1,12 @@
 Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
-15-08-2003,Roda JC,PSV,2,2,Gelijk
+15-08-2003,Roda JC Kerkrade,PSV,2,2,Gelijk
 16-08-2003,Willem II,AZ,1,0,Gewonnen
 16-08-2003,RKC Waalwijk,ADO Den Haag,1,0,Gewonnen
 16-08-2003,FC Twente,RBC Roosendaal,3,1,Gewonnen
 17-08-2003,Vitesse,Ajax,1,2,Verloren
 17-08-2003,FC Volendam,sc Heerenveen,0,1,Verloren
-17-08-2003,Feyenoord,NEC,2,1,Gewonnen
-17-08-2003,FC Utrecht,FC Zwolle,1,0,Gewonnen
+17-08-2003,Feyenoord,N.E.C.,2,1,Gewonnen
+17-08-2003,FC Utrecht,PEC Zwolle,1,0,Gewonnen
 17-08-2003,FC Groningen,NAC Breda,1,0,Gewonnen
 22-08-2003,AZ,FC Twente,3,0,Gewonnen
 23-08-2003,ADO Den Haag,FC Utrecht,1,1,Gelijk
@@ -15,41 +15,41 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 23-08-2003,PSV,Willem II,6,1,Gewonnen
 23-08-2003,sc Heerenveen,Feyenoord,1,0,Gewonnen
 24-08-2003,FC Volendam,FC Groningen,3,0,Gewonnen
-24-08-2003,NEC,Roda JC,1,3,Verloren
-24-08-2003,FC Zwolle,RKC Waalwijk,0,3,Verloren
+24-08-2003,N.E.C.,Roda JC Kerkrade,1,3,Verloren
+24-08-2003,PEC Zwolle,RKC Waalwijk,0,3,Verloren
 29-08-2003,Willem II,sc Heerenveen,2,0,Gewonnen
 29-08-2003,Vitesse,AZ,1,2,Verloren
-30-08-2003,Roda JC,RBC Roosendaal,0,2,Verloren
+30-08-2003,Roda JC Kerkrade,RBC Roosendaal,0,2,Verloren
 30-08-2003,FC Twente,PSV,0,2,Verloren
 31-08-2003,Feyenoord,NAC Breda,2,1,Gewonnen
 31-08-2003,FC Groningen,ADO Den Haag,2,0,Gewonnen
 31-08-2003,RKC Waalwijk,FC Volendam,3,0,Gewonnen
-31-08-2003,FC Utrecht,NEC,0,1,Verloren
-31-08-2003,Ajax,FC Zwolle,1,0,Gewonnen
+31-08-2003,FC Utrecht,N.E.C.,0,1,Verloren
+31-08-2003,Ajax,PEC Zwolle,1,0,Gewonnen
 12-09-2003,ADO Den Haag,FC Volendam,1,1,Gelijk
 13-09-2003,RBC Roosendaal,Vitesse,1,1,Gelijk
 13-09-2003,PSV,FC Utrecht,2,1,Gewonnen
-13-09-2003,FC Zwolle,Roda JC,0,0,Gelijk
+13-09-2003,PEC Zwolle,Roda JC Kerkrade,0,0,Gelijk
 13-09-2003,sc Heerenveen,FC Groningen,1,0,Gewonnen
 13-09-2003,Ajax,RKC Waalwijk,4,1,Gewonnen
 14-09-2003,AZ,Feyenoord,2,2,Gelijk
 14-09-2003,NAC Breda,Willem II,1,1,Gelijk
-14-09-2003,NEC,FC Twente,2,1,Gewonnen
-19-09-2003,FC Volendam,NEC,2,3,Verloren
+14-09-2003,N.E.C.,FC Twente,2,1,Gewonnen
+19-09-2003,FC Volendam,N.E.C.,2,3,Verloren
 20-09-2003,ADO Den Haag,RBC Roosendaal,1,2,Verloren
-20-09-2003,Willem II,FC Zwolle,2,1,Gewonnen
+20-09-2003,Willem II,PEC Zwolle,2,1,Gewonnen
 20-09-2003,FC Twente,RKC Waalwijk,2,1,Gewonnen
 20-09-2003,AZ,sc Heerenveen,3,1,Gewonnen
-20-09-2003,Vitesse,Roda JC,1,1,Gelijk
+20-09-2003,Vitesse,Roda JC Kerkrade,1,1,Gelijk
 21-09-2003,Feyenoord,PSV,1,3,Verloren
 21-09-2003,FC Groningen,FC Utrecht,1,1,Gelijk
 21-09-2003,NAC Breda,Ajax,4,2,Gewonnen
 27-09-2003,RBC Roosendaal,FC Volendam,1,1,Gelijk
 27-09-2003,sc Heerenveen,FC Twente,3,0,Gewonnen
 27-09-2003,PSV,AZ,0,1,Verloren
-28-09-2003,NEC,ADO Den Haag,1,2,Verloren
-28-09-2003,Roda JC,FC Groningen,0,0,Gelijk
-28-09-2003,FC Zwolle,Feyenoord,0,3,Verloren
+28-09-2003,N.E.C.,ADO Den Haag,1,2,Verloren
+28-09-2003,Roda JC Kerkrade,FC Groningen,0,0,Gelijk
+28-09-2003,PEC Zwolle,Feyenoord,0,3,Verloren
 28-09-2003,Ajax,Willem II,6,0,Gewonnen
 28-09-2003,FC Utrecht,Vitesse,1,3,Verloren
 28-09-2003,RKC Waalwijk,NAC Breda,2,0,Gewonnen
@@ -57,202 +57,202 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 04-10-2003,ADO Den Haag,PSV,0,4,Verloren
 04-10-2003,sc Heerenveen,RKC Waalwijk,1,0,Gewonnen
 04-10-2003,NAC Breda,FC Utrecht,1,2,Verloren
-04-10-2003,Willem II,Roda JC,0,2,Verloren
-04-10-2003,AZ,NEC,2,0,Gewonnen
+04-10-2003,Willem II,Roda JC Kerkrade,0,2,Verloren
+04-10-2003,AZ,N.E.C.,2,0,Gewonnen
 05-10-2003,FC Groningen,Ajax,1,3,Verloren
-05-10-2003,FC Volendam,FC Zwolle,2,2,Gelijk
+05-10-2003,FC Volendam,PEC Zwolle,2,2,Gelijk
 05-10-2003,Feyenoord,RBC Roosendaal,2,0,Gewonnen
 17-10-2003,Ajax,FC Volendam,5,1,Gewonnen
 18-10-2003,RBC Roosendaal,Willem II,0,0,Gelijk
 18-10-2003,PSV,sc Heerenveen,2,0,Gewonnen
 18-10-2003,RKC Waalwijk,Vitesse,2,2,Gelijk
-19-10-2003,Roda JC,Feyenoord,1,1,Gelijk
+19-10-2003,Roda JC Kerkrade,Feyenoord,1,1,Gelijk
 19-10-2003,FC Utrecht,AZ,0,3,Verloren
 19-10-2003,FC Twente,FC Groningen,5,3,Gewonnen
-19-10-2003,NEC,NAC Breda,0,3,Verloren
-19-10-2003,FC Zwolle,ADO Den Haag,1,2,Verloren
-24-10-2003,FC Volendam,Roda JC,2,1,Gewonnen
-25-10-2003,sc Heerenveen,NEC,1,2,Verloren
+19-10-2003,N.E.C.,NAC Breda,0,3,Verloren
+19-10-2003,PEC Zwolle,ADO Den Haag,1,2,Verloren
+24-10-2003,FC Volendam,Roda JC Kerkrade,2,1,Gewonnen
+25-10-2003,sc Heerenveen,N.E.C.,1,2,Verloren
 25-10-2003,ADO Den Haag,NAC Breda,1,1,Gelijk
 25-10-2003,FC Groningen,Vitesse,2,1,Gewonnen
-25-10-2003,AZ,FC Zwolle,4,0,Gewonnen
+25-10-2003,AZ,PEC Zwolle,4,0,Gewonnen
 25-10-2003,RKC Waalwijk,RBC Roosendaal,1,2,Verloren
 26-10-2003,Feyenoord,Willem II,2,1,Gewonnen
 26-10-2003,PSV,Ajax,2,2,Gelijk
 26-10-2003,FC Twente,FC Utrecht,2,2,Gelijk
-31-10-2003,Roda JC,ADO Den Haag,5,1,Gewonnen
-01-11-2003,RBC Roosendaal,NEC,1,0,Gewonnen
+31-10-2003,Roda JC Kerkrade,ADO Den Haag,5,1,Gewonnen
+01-11-2003,RBC Roosendaal,N.E.C.,1,0,Gewonnen
 01-11-2003,NAC Breda,PSV,1,3,Verloren
 01-11-2003,Vitesse,FC Volendam,2,2,Gelijk
 01-11-2003,Ajax,AZ,3,2,Gewonnen
-02-11-2003,FC Zwolle,FC Twente,1,0,Gewonnen
+02-11-2003,PEC Zwolle,FC Twente,1,0,Gewonnen
 02-11-2003,FC Groningen,Feyenoord,3,3,Gelijk
 02-11-2003,FC Utrecht,sc Heerenveen,2,1,Gewonnen
 02-11-2003,Willem II,RKC Waalwijk,4,1,Gewonnen
 07-11-2003,Vitesse,Willem II,2,2,Gelijk
 08-11-2003,PSV,RBC Roosendaal,1,1,Gelijk
-08-11-2003,sc Heerenveen,FC Zwolle,1,1,Gelijk
-08-11-2003,Roda JC,FC Twente,2,1,Gewonnen
+08-11-2003,sc Heerenveen,PEC Zwolle,1,1,Gelijk
+08-11-2003,Roda JC Kerkrade,FC Twente,2,1,Gewonnen
 08-11-2003,NAC Breda,AZ,1,2,Verloren
 09-11-2003,FC Volendam,Feyenoord,1,3,Verloren
 09-11-2003,ADO Den Haag,Ajax,1,4,Verloren
 09-11-2003,FC Utrecht,RKC Waalwijk,1,0,Gewonnen
-09-11-2003,NEC,FC Groningen,2,3,Verloren
+09-11-2003,N.E.C.,FC Groningen,2,3,Verloren
 21-11-2003,RKC Waalwijk,FC Groningen,1,1,Gelijk
-22-11-2003,FC Zwolle,NAC Breda,0,2,Verloren
+22-11-2003,PEC Zwolle,NAC Breda,0,2,Verloren
 22-11-2003,Willem II,FC Volendam,6,0,Gewonnen
 22-11-2003,Feyenoord,Vitesse,3,0,Gewonnen
-22-11-2003,AZ,Roda JC,1,5,Verloren
-22-11-2003,NEC,PSV,2,3,Verloren
+22-11-2003,AZ,Roda JC Kerkrade,1,5,Verloren
+22-11-2003,N.E.C.,PSV,2,3,Verloren
 23-11-2003,FC Twente,ADO Den Haag,4,0,Gewonnen
 23-11-2003,Ajax,sc Heerenveen,3,1,Gewonnen
 23-11-2003,RBC Roosendaal,FC Utrecht,1,1,Gelijk
 28-11-2003,FC Groningen,RBC Roosendaal,2,0,Gewonnen
-29-11-2003,Willem II,NEC,3,0,Gewonnen
+29-11-2003,Willem II,N.E.C.,3,0,Gewonnen
 29-11-2003,ADO Den Haag,Vitesse,1,1,Gelijk
-29-11-2003,FC Zwolle,PSV,0,4,Verloren
+29-11-2003,PEC Zwolle,PSV,0,4,Verloren
 29-11-2003,FC Twente,NAC Breda,2,1,Gewonnen
 30-11-2003,Ajax,Feyenoord,2,0,Gewonnen
 30-11-2003,RKC Waalwijk,AZ,1,1,Gelijk
-30-11-2003,FC Utrecht,Roda JC,3,1,Gewonnen
+30-11-2003,FC Utrecht,Roda JC Kerkrade,3,1,Gewonnen
 03-12-2003,AZ,FC Groningen,2,1,Gewonnen
 03-12-2003,FC Volendam,FC Twente,2,0,Gewonnen
 03-12-2003,sc Heerenveen,ADO Den Haag,2,0,Gewonnen
 06-12-2003,Willem II,FC Utrecht,0,2,Verloren
 06-12-2003,PSV,FC Volendam,7,0,Gewonnen
-06-12-2003,NEC,RKC Waalwijk,1,1,Gelijk
+06-12-2003,N.E.C.,RKC Waalwijk,1,1,Gelijk
 07-12-2003,NAC Breda,sc Heerenveen,2,3,Verloren
 07-12-2003,Feyenoord,ADO Den Haag,4,1,Gewonnen
 07-12-2003,RBC Roosendaal,AZ,1,0,Gewonnen
-07-12-2003,Vitesse,FC Zwolle,5,2,Gewonnen
-12-12-2003,Roda JC,NAC Breda,2,2,Gelijk
+07-12-2003,Vitesse,PEC Zwolle,5,2,Gewonnen
+12-12-2003,Roda JC Kerkrade,NAC Breda,2,2,Gelijk
 13-12-2003,FC Twente,Feyenoord,4,2,Gewonnen
 13-12-2003,RBC Roosendaal,sc Heerenveen,1,1,Gelijk
 13-12-2003,ADO Den Haag,Willem II,0,1,Verloren
 13-12-2003,PSV,RKC Waalwijk,3,1,Gewonnen
 14-12-2003,FC Volendam,AZ,0,6,Verloren
-14-12-2003,NEC,Vitesse,2,0,Gewonnen
-14-12-2003,FC Zwolle,FC Groningen,1,1,Gelijk
+14-12-2003,N.E.C.,Vitesse,2,0,Gewonnen
+14-12-2003,PEC Zwolle,FC Groningen,1,1,Gelijk
 14-12-2003,Ajax,FC Utrecht,1,0,Gewonnen
 20-12-2003,Vitesse,PSV,0,0,Gelijk
-20-12-2003,sc Heerenveen,Roda JC,2,1,Gewonnen
+20-12-2003,sc Heerenveen,Roda JC Kerkrade,2,1,Gewonnen
 20-12-2003,NAC Breda,RBC Roosendaal,3,2,Gewonnen
-20-12-2003,NEC,FC Zwolle,1,0,Gewonnen
+20-12-2003,N.E.C.,PEC Zwolle,1,0,Gewonnen
 21-12-2003,FC Twente,Ajax,2,0,Gewonnen
 21-12-2003,FC Groningen,Willem II,1,2,Verloren
 21-12-2003,FC Utrecht,FC Volendam,3,0,Gewonnen
 21-12-2003,RKC Waalwijk,Feyenoord,0,0,Gelijk
-21-01-2004,Roda JC,Ajax,1,2,Verloren
+21-01-2004,Roda JC Kerkrade,Ajax,1,2,Verloren
 23-01-2004,AZ,ADO Den Haag,0,1,Verloren
-24-01-2004,Roda JC,RKC Waalwijk,2,1,Gewonnen
+24-01-2004,Roda JC Kerkrade,RKC Waalwijk,2,1,Gewonnen
 24-01-2004,NAC Breda,FC Volendam,3,2,Gewonnen
-24-01-2004,FC Zwolle,RBC Roosendaal,0,3,Verloren
+24-01-2004,PEC Zwolle,RBC Roosendaal,0,3,Verloren
 24-01-2004,Willem II,FC Twente,2,3,Verloren
 24-01-2004,Vitesse,sc Heerenveen,0,1,Verloren
 25-01-2004,FC Groningen,PSV,0,2,Verloren
 25-01-2004,Feyenoord,FC Utrecht,3,2,Gewonnen
-25-01-2004,Ajax,NEC,1,0,Gewonnen
-28-01-2004,NEC,Feyenoord,1,2,Verloren
+25-01-2004,Ajax,N.E.C.,1,0,Gewonnen
+28-01-2004,N.E.C.,Feyenoord,1,2,Verloren
 28-01-2004,AZ,Willem II,0,0,Gelijk
 28-01-2004,FC Twente,Vitesse,0,0,Gelijk
 28-01-2004,FC Utrecht,RBC Roosendaal,0,1,Verloren
-28-01-2004,PSV,FC Zwolle,5,1,Gewonnen
+28-01-2004,PSV,PEC Zwolle,5,1,Gewonnen
 28-01-2004,FC Volendam,RKC Waalwijk,0,4,Verloren
 31-01-2004,PSV,Vitesse,3,0,Gewonnen
-31-01-2004,Roda JC,AZ,3,1,Gewonnen
-31-01-2004,RKC Waalwijk,NEC,1,2,Verloren
+31-01-2004,Roda JC Kerkrade,AZ,3,1,Gewonnen
+31-01-2004,RKC Waalwijk,N.E.C.,1,2,Verloren
 01-02-2004,Feyenoord,FC Twente,3,2,Gewonnen
 01-02-2004,FC Groningen,FC Volendam,0,1,Verloren
-01-02-2004,FC Zwolle,FC Utrecht,1,1,Gelijk
+01-02-2004,PEC Zwolle,FC Utrecht,1,1,Gelijk
 01-02-2004,Willem II,NAC Breda,1,1,Gelijk
 01-02-2004,Ajax,ADO Den Haag,4,0,Gewonnen
 06-02-2004,RBC Roosendaal,RKC Waalwijk,1,3,Verloren
 07-02-2004,sc Heerenveen,NAC Breda,3,4,Verloren
 07-02-2004,AZ,FC Volendam,3,0,Gewonnen
-07-02-2004,FC Twente,FC Zwolle,2,0,Gewonnen
+07-02-2004,FC Twente,PEC Zwolle,2,0,Gewonnen
 08-02-2004,Ajax,PSV,2,1,Gewonnen
-08-02-2004,FC Groningen,NEC,2,0,Gewonnen
+08-02-2004,FC Groningen,N.E.C.,2,0,Gewonnen
 08-02-2004,Vitesse,Feyenoord,0,0,Gelijk
 08-02-2004,Willem II,ADO Den Haag,1,0,Gewonnen
 11-02-2004,Feyenoord,AZ,0,3,Verloren
 11-02-2004,RKC Waalwijk,sc Heerenveen,0,0,Gelijk
 11-02-2004,ADO Den Haag,FC Groningen,3,1,Gewonnen
 11-02-2004,FC Utrecht,Willem II,2,2,Gelijk
-11-02-2004,RBC Roosendaal,Roda JC,1,4,Verloren
-14-02-2004,NAC Breda,Roda JC,0,0,Gelijk
+11-02-2004,RBC Roosendaal,Roda JC Kerkrade,1,4,Verloren
+14-02-2004,NAC Breda,Roda JC Kerkrade,0,0,Gelijk
 14-02-2004,PSV,FC Twente,1,0,Gewonnen
 14-02-2004,sc Heerenveen,Willem II,1,1,Gelijk
 14-02-2004,Vitesse,RBC Roosendaal,1,2,Verloren
 15-02-2004,ADO Den Haag,Feyenoord,2,2,Gelijk
 15-02-2004,FC Volendam,Ajax,0,2,Verloren
-15-02-2004,NEC,FC Utrecht,4,0,Gewonnen
-15-02-2004,RKC Waalwijk,FC Zwolle,2,0,Gewonnen
-20-02-2004,Roda JC,FC Volendam,1,0,Gewonnen
-21-02-2004,FC Zwolle,NEC,2,1,Gewonnen
+15-02-2004,N.E.C.,FC Utrecht,4,0,Gewonnen
+15-02-2004,RKC Waalwijk,PEC Zwolle,2,0,Gewonnen
+20-02-2004,Roda JC Kerkrade,FC Volendam,1,0,Gewonnen
+21-02-2004,PEC Zwolle,N.E.C.,2,1,Gewonnen
 21-02-2004,sc Heerenveen,PSV,3,2,Gewonnen
 21-02-2004,Vitesse,FC Groningen,1,2,Verloren
 21-02-2004,AZ,RBC Roosendaal,2,1,Gewonnen
 22-02-2004,Ajax,FC Twente,1,0,Gewonnen
 22-02-2004,FC Utrecht,NAC Breda,1,2,Verloren
 25-02-2004,NAC Breda,FC Groningen,1,1,Gelijk
-25-02-2004,ADO Den Haag,Roda JC,1,0,Gewonnen
+25-02-2004,ADO Den Haag,Roda JC Kerkrade,1,0,Gewonnen
 25-02-2004,sc Heerenveen,Ajax,4,1,Gewonnen
-27-02-2004,FC Zwolle,Vitesse,1,1,Gelijk
+27-02-2004,PEC Zwolle,Vitesse,1,1,Gelijk
 28-02-2004,RBC Roosendaal,NAC Breda,1,1,Gelijk
-28-02-2004,NEC,sc Heerenveen,1,2,Verloren
+28-02-2004,N.E.C.,sc Heerenveen,1,2,Verloren
 28-02-2004,FC Twente,AZ,4,1,Gewonnen
 29-02-2004,FC Utrecht,Ajax,1,0,Gewonnen
 29-02-2004,Willem II,Feyenoord,0,3,Verloren
 29-02-2004,FC Groningen,RKC Waalwijk,1,2,Verloren
-29-02-2004,PSV,Roda JC,1,2,Verloren
+29-02-2004,PSV,Roda JC Kerkrade,1,2,Verloren
 29-02-2004,FC Volendam,ADO Den Haag,0,2,Verloren
 05-03-2004,NAC Breda,FC Twente,0,1,Verloren
 06-03-2004,RKC Waalwijk,Ajax,0,1,Verloren
 06-03-2004,Willem II,FC Groningen,2,0,Gewonnen
 06-03-2004,ADO Den Haag,AZ,2,3,Verloren
-06-03-2004,Roda JC,FC Zwolle,1,1,Gelijk
-06-03-2004,NEC,RBC Roosendaal,1,2,Verloren
+06-03-2004,Roda JC Kerkrade,PEC Zwolle,1,1,Gelijk
+06-03-2004,N.E.C.,RBC Roosendaal,1,2,Verloren
 07-03-2004,FC Utrecht,PSV,0,4,Verloren
 07-03-2004,Feyenoord,sc Heerenveen,2,2,Gelijk
 07-03-2004,FC Volendam,Vitesse,0,0,Gelijk
-12-03-2004,FC Twente,NEC,2,5,Verloren
-13-03-2004,NAC Breda,FC Zwolle,3,1,Gewonnen
+12-03-2004,FC Twente,N.E.C.,2,5,Verloren
+13-03-2004,NAC Breda,PEC Zwolle,3,1,Gewonnen
 13-03-2004,RBC Roosendaal,FC Groningen,1,0,Gewonnen
 13-03-2004,sc Heerenveen,FC Volendam,2,1,Gewonnen
 14-03-2004,PSV,Feyenoord,0,1,Verloren
 14-03-2004,AZ,FC Utrecht,1,2,Verloren
 14-03-2004,Vitesse,ADO Den Haag,1,0,Gewonnen
-14-03-2004,Ajax,Roda JC,4,2,Gewonnen
+14-03-2004,Ajax,Roda JC Kerkrade,4,2,Gewonnen
 14-03-2004,RKC Waalwijk,Willem II,1,1,Gelijk
 19-03-2004,FC Groningen,sc Heerenveen,0,0,Gelijk
-20-03-2004,Roda JC,Willem II,6,1,Gewonnen
-20-03-2004,FC Zwolle,FC Volendam,3,0,Gewonnen
+20-03-2004,Roda JC Kerkrade,Willem II,6,1,Gewonnen
+20-03-2004,PEC Zwolle,FC Volendam,3,0,Gewonnen
 20-03-2004,PSV,NAC Breda,1,1,Gelijk
-20-03-2004,NEC,AZ,0,2,Verloren
+20-03-2004,N.E.C.,AZ,0,2,Verloren
 21-03-2004,Feyenoord,RKC Waalwijk,1,0,Gewonnen
 21-03-2004,Ajax,Vitesse,5,0,Gewonnen
 21-03-2004,RBC Roosendaal,ADO Den Haag,0,0,Gelijk
 21-03-2004,FC Utrecht,FC Twente,2,0,Gewonnen
-26-03-2004,ADO Den Haag,FC Zwolle,1,1,Gelijk
-27-03-2004,NAC Breda,NEC,5,2,Gewonnen
+26-03-2004,ADO Den Haag,PEC Zwolle,1,1,Gelijk
+27-03-2004,NAC Breda,N.E.C.,5,2,Gewonnen
 27-03-2004,sc Heerenveen,RBC Roosendaal,1,0,Gewonnen
 27-03-2004,Vitesse,RKC Waalwijk,3,3,Gelijk
 28-03-2004,AZ,Ajax,1,1,Gelijk
 28-03-2004,FC Volendam,FC Utrecht,1,2,Verloren
-28-03-2004,Feyenoord,Roda JC,3,0,Gewonnen
+28-03-2004,Feyenoord,Roda JC Kerkrade,3,0,Gewonnen
 28-03-2004,FC Groningen,FC Twente,1,0,Gewonnen
 28-03-2004,Willem II,PSV,3,1,Gewonnen
-02-04-2004,NEC,Willem II,4,0,Gewonnen
-03-04-2004,RBC Roosendaal,FC Zwolle,1,1,Gelijk
-03-04-2004,Roda JC,sc Heerenveen,0,1,Verloren
+02-04-2004,N.E.C.,Willem II,4,0,Gewonnen
+03-04-2004,RBC Roosendaal,PEC Zwolle,1,1,Gelijk
+03-04-2004,Roda JC Kerkrade,sc Heerenveen,0,1,Verloren
 03-04-2004,RKC Waalwijk,PSV,0,4,Verloren
 03-04-2004,AZ,Vitesse,2,1,Gewonnen
 03-04-2004,FC Twente,FC Volendam,1,2,Verloren
 04-04-2004,NAC Breda,Feyenoord,0,3,Verloren
 04-04-2004,FC Utrecht,ADO Den Haag,5,3,Gewonnen
 04-04-2004,Ajax,FC Groningen,2,1,Gewonnen
-09-04-2004,Roda JC,NEC,4,0,Gewonnen
-10-04-2004,FC Zwolle,AZ,2,0,Gewonnen
+09-04-2004,Roda JC Kerkrade,N.E.C.,4,0,Gewonnen
+10-04-2004,PEC Zwolle,AZ,2,0,Gewonnen
 10-04-2004,ADO Den Haag,RKC Waalwijk,1,3,Verloren
 10-04-2004,sc Heerenveen,FC Utrecht,4,0,Gewonnen
 10-04-2004,FC Volendam,Willem II,0,1,Verloren
@@ -261,47 +261,47 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 11-04-2004,RBC Roosendaal,FC Twente,1,2,Verloren
 11-04-2004,PSV,FC Groningen,5,0,Gewonnen
 16-04-2004,Willem II,Vitesse,1,1,Gelijk
-17-04-2004,FC Zwolle,sc Heerenveen,1,0,Gewonnen
-17-04-2004,PSV,NEC,3,0,Gewonnen
+17-04-2004,PEC Zwolle,sc Heerenveen,1,0,Gewonnen
+17-04-2004,PSV,N.E.C.,3,0,Gewonnen
 17-04-2004,ADO Den Haag,FC Twente,1,0,Gewonnen
-17-04-2004,RKC Waalwijk,Roda JC,1,1,Gelijk
+17-04-2004,RKC Waalwijk,Roda JC Kerkrade,1,1,Gelijk
 18-04-2004,FC Utrecht,Feyenoord,0,3,Verloren
 18-04-2004,Ajax,RBC Roosendaal,1,1,Gelijk
 18-04-2004,FC Volendam,NAC Breda,4,2,Gewonnen
 18-04-2004,FC Groningen,AZ,1,1,Gelijk
-23-04-2004,Roda JC,FC Utrecht,1,1,Gelijk
+23-04-2004,Roda JC Kerkrade,FC Utrecht,1,1,Gelijk
 24-04-2004,sc Heerenveen,Vitesse,0,0,Gelijk
 24-04-2004,RBC Roosendaal,PSV,0,3,Verloren
 24-04-2004,AZ,RKC Waalwijk,7,0,Gewonnen
 24-04-2004,FC Twente,Willem II,2,0,Gewonnen
-25-04-2004,NEC,Ajax,0,0,Gelijk
-25-04-2004,FC Groningen,FC Zwolle,2,2,Gelijk
+25-04-2004,N.E.C.,Ajax,0,0,Gelijk
+25-04-2004,FC Groningen,PEC Zwolle,2,2,Gelijk
 25-04-2004,Feyenoord,FC Volendam,2,0,Gewonnen
 25-04-2004,NAC Breda,ADO Den Haag,1,0,Gewonnen
 01-05-2004,Willem II,RBC Roosendaal,3,0,Gewonnen
 01-05-2004,ADO Den Haag,sc Heerenveen,1,0,Gewonnen
 01-05-2004,AZ,NAC Breda,2,2,Gelijk
-01-05-2004,FC Twente,Roda JC,1,2,Verloren
-02-05-2004,FC Zwolle,Ajax,0,5,Verloren
+01-05-2004,FC Twente,Roda JC Kerkrade,1,2,Verloren
+02-05-2004,PEC Zwolle,Ajax,0,5,Verloren
 02-05-2004,FC Volendam,PSV,0,5,Verloren
-02-05-2004,Vitesse,NEC,2,2,Gelijk
+02-05-2004,Vitesse,N.E.C.,2,2,Gelijk
 02-05-2004,RKC Waalwijk,FC Utrecht,1,0,Gewonnen
 02-05-2004,Feyenoord,FC Groningen,1,2,Verloren
-09-05-2004,FC Zwolle,Willem II,0,0,Gelijk
+09-05-2004,PEC Zwolle,Willem II,0,0,Gelijk
 09-05-2004,FC Utrecht,FC Groningen,2,0,Gewonnen
 09-05-2004,Ajax,NAC Breda,2,0,Gewonnen
 09-05-2004,sc Heerenveen,AZ,1,0,Gewonnen
 09-05-2004,RKC Waalwijk,FC Twente,3,3,Gelijk
 09-05-2004,RBC Roosendaal,Feyenoord,1,4,Verloren
-09-05-2004,Roda JC,Vitesse,2,0,Gewonnen
+09-05-2004,Roda JC Kerkrade,Vitesse,2,0,Gewonnen
 09-05-2004,PSV,ADO Den Haag,3,2,Gewonnen
-09-05-2004,NEC,FC Volendam,1,1,Gelijk
+09-05-2004,N.E.C.,FC Volendam,1,1,Gelijk
 16-05-2004,FC Volendam,RBC Roosendaal,2,1,Gewonnen
 16-05-2004,Vitesse,FC Utrecht,3,0,Gewonnen
 16-05-2004,FC Twente,sc Heerenveen,2,0,Gewonnen
 16-05-2004,AZ,PSV,2,4,Verloren
-16-05-2004,Feyenoord,FC Zwolle,7,1,Gewonnen
-16-05-2004,FC Groningen,Roda JC,2,2,Gelijk
+16-05-2004,Feyenoord,PEC Zwolle,7,1,Gewonnen
+16-05-2004,FC Groningen,Roda JC Kerkrade,2,2,Gelijk
 16-05-2004,NAC Breda,RKC Waalwijk,5,3,Gewonnen
 16-05-2004,Willem II,Ajax,2,5,Verloren
-16-05-2004,ADO Den Haag,NEC,4,1,Gewonnen
+16-05-2004,ADO Den Haag,N.E.C.,4,1,Gewonnen

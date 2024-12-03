@@ -1,241 +1,241 @@
 Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
-22-08-1965,Fortuna '54,DWS,1,3,Verloren
-22-08-1965,Elinkwijk,MVV,2,2,Gelijk
-22-08-1965,Feijenoord,PSV,3,2,Gewonnen
-22-08-1965,ADO,Sparta,2,2,Gelijk
+22-08-1965,Fortuna '54,AFC DWS,1,3,Verloren
+22-08-1965,USV Elinkwijk,MVV Maastricht,2,2,Gelijk
+22-08-1965,Feyenoord,PSV,3,2,Gewonnen
+22-08-1965,ADO Den Haag,Sparta Rotterdam,2,2,Gelijk
 22-08-1965,Ajax,DOS,2,1,Gewonnen
-22-08-1965,Willem II,Go Ahead,1,0,Gewonnen
+22-08-1965,Willem II,Go Ahead Eagles,1,0,Gewonnen
 22-08-1965,FC Twente,Telstar,1,1,Gelijk
-22-08-1965,GVAV,AVC Heracles,1,1,Gelijk
-29-08-1965,Sparta,GVAV,1,2,Verloren
+22-08-1965,GVAV,Heracles Almelo,1,1,Gelijk
+29-08-1965,Sparta Rotterdam,GVAV,1,2,Verloren
 29-08-1965,DOS,Fortuna '54,2,2,Gelijk
-29-08-1965,DWS,ADO,2,1,Gewonnen
-29-08-1965,PSV,Elinkwijk,1,1,Gelijk
-29-08-1965,Go Ahead,FC Twente,2,0,Gewonnen
-29-08-1965,Telstar,Feijenoord,0,2,Verloren
-29-08-1965,AVC Heracles,Willem II,0,3,Verloren
-29-08-1965,MVV,Ajax,0,1,Verloren
-04-09-1965,Feijenoord,Go Ahead,0,0,Gelijk
-05-09-1965,Elinkwijk,Telstar,3,3,Gelijk
+29-08-1965,AFC DWS,ADO Den Haag,2,1,Gewonnen
+29-08-1965,PSV,USV Elinkwijk,1,1,Gelijk
+29-08-1965,Go Ahead Eagles,FC Twente,2,0,Gewonnen
+29-08-1965,Telstar,Feyenoord,0,2,Verloren
+29-08-1965,Heracles Almelo,Willem II,0,3,Verloren
+29-08-1965,MVV Maastricht,Ajax,0,1,Verloren
+04-09-1965,Feyenoord,Go Ahead Eagles,0,0,Gelijk
+05-09-1965,USV Elinkwijk,Telstar,3,3,Gelijk
 05-09-1965,Ajax,PSV,2,0,Gewonnen
-05-09-1965,ADO,Fortuna '54,1,1,Gelijk
-05-09-1965,MVV,DOS,2,2,Gelijk
-05-09-1965,Willem II,Sparta,1,3,Verloren
-05-09-1965,GVAV,DWS,0,0,Gelijk
-05-09-1965,FC Twente,AVC Heracles,4,1,Gewonnen
-12-09-1965,Sparta,FC Twente,3,4,Verloren
+05-09-1965,ADO Den Haag,Fortuna '54,1,1,Gelijk
+05-09-1965,MVV Maastricht,DOS,2,2,Gelijk
+05-09-1965,Willem II,Sparta Rotterdam,1,3,Verloren
+05-09-1965,GVAV,AFC DWS,0,0,Gelijk
+05-09-1965,FC Twente,Heracles Almelo,4,1,Gewonnen
+12-09-1965,Sparta Rotterdam,FC Twente,3,4,Verloren
 12-09-1965,Fortuna '54,GVAV,0,0,Gelijk
-12-09-1965,DWS,Willem II,0,0,Gelijk
-12-09-1965,DOS,ADO,0,7,Verloren
+12-09-1965,AFC DWS,Willem II,0,0,Gelijk
+12-09-1965,DOS,ADO Den Haag,0,7,Verloren
 12-09-1965,Telstar,Ajax,1,2,Verloren
-12-09-1965,PSV,MVV,2,1,Gewonnen
-12-09-1965,AVC Heracles,Feijenoord,1,3,Verloren
-12-09-1965,Go Ahead,Elinkwijk,3,0,Gewonnen
-26-09-1965,Feijenoord,Sparta,2,0,Gewonnen
-26-09-1965,Elinkwijk,AVC Heracles,1,0,Gewonnen
-26-09-1965,Ajax,Go Ahead,4,0,Gewonnen
-26-09-1965,FC Twente,DWS,0,3,Verloren
-26-09-1965,MVV,Telstar,0,1,Verloren
+12-09-1965,PSV,MVV Maastricht,2,1,Gewonnen
+12-09-1965,Heracles Almelo,Feyenoord,1,3,Verloren
+12-09-1965,Go Ahead Eagles,USV Elinkwijk,3,0,Gewonnen
+26-09-1965,Feyenoord,Sparta Rotterdam,2,0,Gewonnen
+26-09-1965,USV Elinkwijk,Heracles Almelo,1,0,Gewonnen
+26-09-1965,Ajax,Go Ahead Eagles,4,0,Gewonnen
+26-09-1965,FC Twente,AFC DWS,0,3,Verloren
+26-09-1965,MVV Maastricht,Telstar,0,1,Verloren
 26-09-1965,PSV,DOS,2,0,Gewonnen
 26-09-1965,Willem II,Fortuna '54,0,2,Verloren
-26-09-1965,GVAV,ADO,1,1,Gelijk
-03-10-1965,Sparta,Elinkwijk,2,1,Gewonnen
+26-09-1965,GVAV,ADO Den Haag,1,1,Gelijk
+03-10-1965,Sparta Rotterdam,USV Elinkwijk,2,1,Gewonnen
 03-10-1965,Fortuna '54,FC Twente,1,3,Verloren
 03-10-1965,DOS,GVAV,3,2,Gewonnen
-03-10-1965,ADO,Willem II,4,0,Gewonnen
-03-10-1965,DWS,Feijenoord,2,0,Gewonnen
-03-10-1965,Go Ahead,MVV,1,1,Gelijk
+03-10-1965,ADO Den Haag,Willem II,4,0,Gewonnen
+03-10-1965,AFC DWS,Feyenoord,2,0,Gewonnen
+03-10-1965,Go Ahead Eagles,MVV Maastricht,1,1,Gelijk
 03-10-1965,Telstar,PSV,3,1,Gewonnen
-03-10-1965,AVC Heracles,Ajax,1,1,Gelijk
-10-10-1965,Feijenoord,Fortuna '54,1,0,Gewonnen
-10-10-1965,Ajax,Sparta,0,1,Verloren
-10-10-1965,Elinkwijk,DWS,1,0,Gewonnen
-10-10-1965,FC Twente,ADO,0,0,Gelijk
-10-10-1965,MVV,AVC Heracles,2,2,Gelijk
+03-10-1965,Heracles Almelo,Ajax,1,1,Gelijk
+10-10-1965,Feyenoord,Fortuna '54,1,0,Gewonnen
+10-10-1965,Ajax,Sparta Rotterdam,0,1,Verloren
+10-10-1965,USV Elinkwijk,AFC DWS,1,0,Gewonnen
+10-10-1965,FC Twente,ADO Den Haag,0,0,Gelijk
+10-10-1965,MVV Maastricht,Heracles Almelo,2,2,Gelijk
 10-10-1965,Telstar,DOS,1,0,Gewonnen
-10-10-1965,PSV,Go Ahead,2,2,Gelijk
+10-10-1965,PSV,Go Ahead Eagles,2,2,Gelijk
 10-10-1965,Willem II,GVAV,4,0,Gewonnen
-24-10-1965,Fortuna '54,Elinkwijk,3,0,Gewonnen
-24-10-1965,Sparta,MVV,7,2,Gewonnen
+24-10-1965,Fortuna '54,USV Elinkwijk,3,0,Gewonnen
+24-10-1965,Sparta Rotterdam,MVV Maastricht,7,2,Gewonnen
 24-10-1965,DOS,Willem II,0,2,Verloren
-24-10-1965,DWS,Ajax,0,2,Verloren
-24-10-1965,ADO,Feijenoord,2,1,Gewonnen
-24-10-1965,AVC Heracles,PSV,0,3,Verloren
+24-10-1965,AFC DWS,Ajax,0,2,Verloren
+24-10-1965,ADO Den Haag,Feyenoord,2,1,Gewonnen
+24-10-1965,Heracles Almelo,PSV,0,3,Verloren
 24-10-1965,GVAV,FC Twente,0,2,Verloren
-24-10-1965,Go Ahead,Telstar,2,1,Gewonnen
-31-10-1965,Elinkwijk,ADO,1,1,Gelijk
-31-10-1965,Feijenoord,GVAV,1,2,Verloren
+24-10-1965,Go Ahead Eagles,Telstar,2,1,Gewonnen
+31-10-1965,USV Elinkwijk,ADO Den Haag,1,1,Gelijk
+31-10-1965,Feyenoord,GVAV,1,2,Verloren
 31-10-1965,Ajax,Fortuna '54,5,1,Gewonnen
 31-10-1965,FC Twente,Willem II,6,1,Gewonnen
-31-10-1965,Telstar,AVC Heracles,0,2,Verloren
-31-10-1965,MVV,DWS,0,1,Verloren
-31-10-1965,Go Ahead,DOS,1,1,Gelijk
-31-10-1965,PSV,Sparta,2,1,Gewonnen
+31-10-1965,Telstar,Heracles Almelo,0,2,Verloren
+31-10-1965,MVV Maastricht,AFC DWS,0,1,Verloren
+31-10-1965,Go Ahead Eagles,DOS,1,1,Gelijk
+31-10-1965,PSV,Sparta Rotterdam,2,1,Gewonnen
 28-11-1965,DOS,FC Twente,3,0,Gewonnen
-28-11-1965,DWS,PSV,2,2,Gelijk
-28-11-1965,Fortuna '54,MVV,3,3,Gelijk
-28-11-1965,ADO,Ajax,2,3,Verloren
-28-11-1965,Sparta,Telstar,1,0,Gewonnen
-28-11-1965,Willem II,Feijenoord,3,4,Verloren
+28-11-1965,AFC DWS,PSV,2,2,Gelijk
+28-11-1965,Fortuna '54,MVV Maastricht,3,3,Gelijk
+28-11-1965,ADO Den Haag,Ajax,2,3,Verloren
+28-11-1965,Sparta Rotterdam,Telstar,1,0,Gewonnen
+28-11-1965,Willem II,Feyenoord,3,4,Verloren
 05-12-1965,Ajax,GVAV,5,1,Gewonnen
 05-12-1965,PSV,Fortuna '54,2,2,Gelijk
-05-12-1965,AVC Heracles,DOS,2,2,Gelijk
-05-12-1965,Go Ahead,Sparta,2,2,Gelijk
-05-12-1965,Telstar,DWS,2,2,Gelijk
+05-12-1965,Heracles Almelo,DOS,2,2,Gelijk
+05-12-1965,Go Ahead Eagles,Sparta Rotterdam,2,2,Gelijk
+05-12-1965,Telstar,AFC DWS,2,2,Gelijk
 12-12-1965,Fortuna '54,Telstar,2,1,Gewonnen
-12-12-1965,DWS,Go Ahead,1,2,Verloren
-12-12-1965,Sparta,AVC Heracles,6,0,Gewonnen
-12-12-1965,ADO,PSV,1,3,Verloren
-12-12-1965,DOS,Feijenoord,0,3,Verloren
+12-12-1965,AFC DWS,Go Ahead Eagles,1,2,Verloren
+12-12-1965,Sparta Rotterdam,Heracles Almelo,6,0,Gewonnen
+12-12-1965,ADO Den Haag,PSV,1,3,Verloren
+12-12-1965,DOS,Feyenoord,0,3,Verloren
 12-12-1965,Willem II,Ajax,1,4,Verloren
-12-12-1965,GVAV,MVV,2,0,Gewonnen
-12-12-1965,FC Twente,Elinkwijk,3,1,Gewonnen
+12-12-1965,GVAV,MVV Maastricht,2,0,Gewonnen
+12-12-1965,FC Twente,USV Elinkwijk,3,1,Gewonnen
 26-12-1965,Ajax,FC Twente,3,1,Gewonnen
-26-12-1965,Sparta,DOS,3,1,Gewonnen
-26-12-1965,Elinkwijk,Feijenoord,1,3,Verloren
+26-12-1965,Sparta Rotterdam,DOS,3,1,Gewonnen
+26-12-1965,USV Elinkwijk,Feyenoord,1,3,Verloren
 26-12-1965,PSV,GVAV,0,2,Verloren
-26-12-1965,AVC Heracles,DWS,0,1,Verloren
-26-12-1965,Telstar,ADO,2,2,Gelijk
-26-12-1965,Go Ahead,Fortuna '54,0,0,Gelijk
-26-12-1965,MVV,Willem II,3,1,Gewonnen
-09-01-1966,DWS,Sparta,1,1,Gelijk
-09-01-1966,Feijenoord,Ajax,1,1,Gelijk
-09-01-1966,ADO,Go Ahead,4,0,Gewonnen
-09-01-1966,Elinkwijk,DOS,6,2,Gewonnen
+26-12-1965,Heracles Almelo,AFC DWS,0,1,Verloren
+26-12-1965,Telstar,ADO Den Haag,2,2,Gelijk
+26-12-1965,Go Ahead Eagles,Fortuna '54,0,0,Gelijk
+26-12-1965,MVV Maastricht,Willem II,3,1,Gewonnen
+09-01-1966,AFC DWS,Sparta Rotterdam,1,1,Gelijk
+09-01-1966,Feyenoord,Ajax,1,1,Gelijk
+09-01-1966,ADO Den Haag,Go Ahead Eagles,4,0,Gewonnen
+09-01-1966,USV Elinkwijk,DOS,6,2,Gewonnen
 09-01-1966,Willem II,PSV,0,0,Gelijk
-09-01-1966,FC Twente,MVV,0,0,Gelijk
+09-01-1966,FC Twente,MVV Maastricht,0,0,Gelijk
 09-01-1966,GVAV,Telstar,4,2,Gewonnen
-09-01-1966,Fortuna '54,AVC Heracles,1,0,Gewonnen
-16-01-1966,Feijenoord,FC Twente,4,0,Gewonnen
-16-01-1966,Elinkwijk,Willem II,0,1,Verloren
-16-01-1966,MVV,ADO,0,3,Verloren
-30-01-1966,Ajax,Elinkwijk,7,0,Gewonnen
-30-01-1966,Sparta,Fortuna '54,2,1,Gewonnen
-30-01-1966,DOS,DWS,2,3,Verloren
+09-01-1966,Fortuna '54,Heracles Almelo,1,0,Gewonnen
+16-01-1966,Feyenoord,FC Twente,4,0,Gewonnen
+16-01-1966,USV Elinkwijk,Willem II,0,1,Verloren
+16-01-1966,MVV Maastricht,ADO Den Haag,0,3,Verloren
+30-01-1966,Ajax,USV Elinkwijk,7,0,Gewonnen
+30-01-1966,Sparta Rotterdam,Fortuna '54,2,1,Gewonnen
+30-01-1966,DOS,AFC DWS,2,3,Verloren
 30-01-1966,PSV,FC Twente,2,2,Gelijk
-30-01-1966,Go Ahead,GVAV,2,0,Gewonnen
-30-01-1966,MVV,Feijenoord,0,2,Verloren
+30-01-1966,Go Ahead Eagles,GVAV,2,0,Gewonnen
+30-01-1966,MVV Maastricht,Feyenoord,0,2,Verloren
 30-01-1966,Telstar,Willem II,1,3,Verloren
-06-02-1966,DWS,Fortuna '54,4,1,Gewonnen
+06-02-1966,AFC DWS,Fortuna '54,4,1,Gewonnen
 06-02-1966,DOS,Ajax,1,2,Verloren
-06-02-1966,Sparta,ADO,0,4,Verloren
+06-02-1966,Sparta Rotterdam,ADO Den Haag,0,4,Verloren
 06-02-1966,Telstar,FC Twente,1,0,Gewonnen
-06-02-1966,MVV,Elinkwijk,1,0,Gewonnen
-06-02-1966,Go Ahead,Willem II,5,2,Gewonnen
-06-02-1966,AVC Heracles,GVAV,2,1,Gewonnen
-06-02-1966,PSV,Feijenoord,1,3,Verloren
-16-02-1966,ADO,AVC Heracles,2,2,Gelijk
-27-02-1966,ADO,DWS,2,0,Gewonnen
-27-02-1966,Ajax,MVV,1,1,Gelijk
-27-02-1966,Elinkwijk,PSV,1,3,Verloren
+06-02-1966,MVV Maastricht,USV Elinkwijk,1,0,Gewonnen
+06-02-1966,Go Ahead Eagles,Willem II,5,2,Gewonnen
+06-02-1966,Heracles Almelo,GVAV,2,1,Gewonnen
+06-02-1966,PSV,Feyenoord,1,3,Verloren
+16-02-1966,ADO Den Haag,Heracles Almelo,2,2,Gelijk
+27-02-1966,ADO Den Haag,AFC DWS,2,0,Gewonnen
+27-02-1966,Ajax,MVV Maastricht,1,1,Gelijk
+27-02-1966,USV Elinkwijk,PSV,1,3,Verloren
 27-02-1966,Fortuna '54,DOS,0,1,Verloren
-27-02-1966,Feijenoord,Telstar,2,1,Gewonnen
-27-02-1966,GVAV,Sparta,1,0,Gewonnen
-27-02-1966,Willem II,AVC Heracles,1,0,Gewonnen
-27-02-1966,FC Twente,Go Ahead,3,1,Gewonnen
-06-03-1966,Sparta,Willem II,0,1,Verloren
-06-03-1966,Fortuna '54,ADO,2,1,Gewonnen
-06-03-1966,DOS,MVV,2,2,Gelijk
-06-03-1966,DWS,GVAV,3,1,Gewonnen
+27-02-1966,Feyenoord,Telstar,2,1,Gewonnen
+27-02-1966,GVAV,Sparta Rotterdam,1,0,Gewonnen
+27-02-1966,Willem II,Heracles Almelo,1,0,Gewonnen
+27-02-1966,FC Twente,Go Ahead Eagles,3,1,Gewonnen
+06-03-1966,Sparta Rotterdam,Willem II,0,1,Verloren
+06-03-1966,Fortuna '54,ADO Den Haag,2,1,Gewonnen
+06-03-1966,DOS,MVV Maastricht,2,2,Gelijk
+06-03-1966,AFC DWS,GVAV,3,1,Gewonnen
 06-03-1966,PSV,Ajax,0,2,Verloren
-06-03-1966,AVC Heracles,FC Twente,2,0,Gewonnen
-06-03-1966,Go Ahead,Feijenoord,1,2,Verloren
-06-03-1966,Telstar,Elinkwijk,3,1,Gewonnen
-10-03-1966,GVAV,Elinkwijk,4,0,Gewonnen
-10-03-1966,AVC Heracles,Go Ahead,0,0,Gelijk
-13-03-1966,ADO,DOS,4,0,Gewonnen
-13-03-1966,Feijenoord,AVC Heracles,5,2,Gewonnen
-13-03-1966,Elinkwijk,Go Ahead,0,0,Gelijk
+06-03-1966,Heracles Almelo,FC Twente,2,0,Gewonnen
+06-03-1966,Go Ahead Eagles,Feyenoord,1,2,Verloren
+06-03-1966,Telstar,USV Elinkwijk,3,1,Gewonnen
+10-03-1966,GVAV,USV Elinkwijk,4,0,Gewonnen
+10-03-1966,Heracles Almelo,Go Ahead Eagles,0,0,Gelijk
+13-03-1966,ADO Den Haag,DOS,4,0,Gewonnen
+13-03-1966,Feyenoord,Heracles Almelo,5,2,Gewonnen
+13-03-1966,USV Elinkwijk,Go Ahead Eagles,0,0,Gelijk
 13-03-1966,Ajax,Telstar,6,2,Gewonnen
-13-03-1966,Willem II,DWS,0,1,Verloren
+13-03-1966,Willem II,AFC DWS,0,1,Verloren
 13-03-1966,GVAV,Fortuna '54,2,0,Gewonnen
-13-03-1966,FC Twente,Sparta,0,4,Verloren
-13-03-1966,MVV,PSV,1,1,Gelijk
-20-03-1966,ADO,GVAV,0,0,Gelijk
-20-03-1966,Sparta,Feijenoord,0,2,Verloren
+13-03-1966,FC Twente,Sparta Rotterdam,0,4,Verloren
+13-03-1966,MVV Maastricht,PSV,1,1,Gelijk
+20-03-1966,ADO Den Haag,GVAV,0,0,Gelijk
+20-03-1966,Sparta Rotterdam,Feyenoord,0,2,Verloren
 20-03-1966,DOS,PSV,3,1,Gewonnen
-20-03-1966,DWS,FC Twente,1,1,Gelijk
+20-03-1966,AFC DWS,FC Twente,1,1,Gelijk
 20-03-1966,Fortuna '54,Willem II,1,0,Gewonnen
-20-03-1966,Go Ahead,Ajax,1,2,Verloren
-20-03-1966,Telstar,MVV,3,1,Gewonnen
-20-03-1966,AVC Heracles,Elinkwijk,2,2,Gelijk
-27-03-1966,Feijenoord,DWS,1,0,Gewonnen
-27-03-1966,Ajax,AVC Heracles,1,0,Gewonnen
-27-03-1966,Elinkwijk,Sparta,1,2,Verloren
-27-03-1966,Willem II,ADO,0,1,Verloren
+20-03-1966,Go Ahead Eagles,Ajax,1,2,Verloren
+20-03-1966,Telstar,MVV Maastricht,3,1,Gewonnen
+20-03-1966,Heracles Almelo,USV Elinkwijk,2,2,Gelijk
+27-03-1966,Feyenoord,AFC DWS,1,0,Gewonnen
+27-03-1966,Ajax,Heracles Almelo,1,0,Gewonnen
+27-03-1966,USV Elinkwijk,Sparta Rotterdam,1,2,Verloren
+27-03-1966,Willem II,ADO Den Haag,0,1,Verloren
 27-03-1966,GVAV,DOS,5,3,Gewonnen
 27-03-1966,FC Twente,Fortuna '54,1,0,Gewonnen
-27-03-1966,MVV,Go Ahead,1,0,Gewonnen
+27-03-1966,MVV Maastricht,Go Ahead Eagles,1,0,Gewonnen
 27-03-1966,PSV,Telstar,3,1,Gewonnen
-03-04-1966,ADO,FC Twente,4,1,Gewonnen
-03-04-1966,Fortuna '54,Feijenoord,1,1,Gelijk
-03-04-1966,Sparta,Ajax,1,3,Verloren
+03-04-1966,ADO Den Haag,FC Twente,4,1,Gewonnen
+03-04-1966,Fortuna '54,Feyenoord,1,1,Gelijk
+03-04-1966,Sparta Rotterdam,Ajax,1,3,Verloren
 03-04-1966,DOS,Telstar,2,0,Gewonnen
-03-04-1966,DWS,Elinkwijk,2,0,Gewonnen
-03-04-1966,AVC Heracles,MVV,1,0,Gewonnen
-03-04-1966,Go Ahead,PSV,3,1,Gewonnen
+03-04-1966,AFC DWS,USV Elinkwijk,2,0,Gewonnen
+03-04-1966,Heracles Almelo,MVV Maastricht,1,0,Gewonnen
+03-04-1966,Go Ahead Eagles,PSV,3,1,Gewonnen
 03-04-1966,GVAV,Willem II,4,1,Gewonnen
-09-04-1966,Feijenoord,ADO,3,1,Gewonnen
-09-04-1966,Elinkwijk,Fortuna '54,3,2,Gewonnen
-09-04-1966,Ajax,DWS,2,1,Gewonnen
-09-04-1966,PSV,AVC Heracles,5,1,Gewonnen
-09-04-1966,Telstar,Go Ahead,0,1,Verloren
-09-04-1966,MVV,Sparta,2,4,Verloren
+09-04-1966,Feyenoord,ADO Den Haag,3,1,Gewonnen
+09-04-1966,USV Elinkwijk,Fortuna '54,3,2,Gewonnen
+09-04-1966,Ajax,AFC DWS,2,1,Gewonnen
+09-04-1966,PSV,Heracles Almelo,5,1,Gewonnen
+09-04-1966,Telstar,Go Ahead Eagles,0,1,Verloren
+09-04-1966,MVV Maastricht,Sparta Rotterdam,2,4,Verloren
 09-04-1966,Willem II,DOS,2,2,Gelijk
 09-04-1966,FC Twente,GVAV,1,1,Gelijk
 11-04-1966,Fortuna '54,Ajax,2,1,Gewonnen
-11-04-1966,Sparta,PSV,1,1,Gelijk
-11-04-1966,ADO,Elinkwijk,5,1,Gewonnen
-11-04-1966,DOS,Go Ahead,1,5,Verloren
-11-04-1966,DWS,MVV,4,1,Gewonnen
-11-04-1966,AVC Heracles,Telstar,1,1,Gelijk
+11-04-1966,Sparta Rotterdam,PSV,1,1,Gelijk
+11-04-1966,ADO Den Haag,USV Elinkwijk,5,1,Gewonnen
+11-04-1966,DOS,Go Ahead Eagles,1,5,Verloren
+11-04-1966,AFC DWS,MVV Maastricht,4,1,Gewonnen
+11-04-1966,Heracles Almelo,Telstar,1,1,Gelijk
 11-04-1966,Willem II,FC Twente,4,0,Gewonnen
-11-04-1966,GVAV,Feijenoord,2,1,Gewonnen
-24-04-1966,Elinkwijk,GVAV,1,1,Gelijk
-24-04-1966,Feijenoord,Willem II,6,1,Gewonnen
-24-04-1966,Ajax,ADO,5,1,Gewonnen
-24-04-1966,Telstar,Sparta,0,0,Gelijk
-24-04-1966,Go Ahead,AVC Heracles,2,0,Gewonnen
-24-04-1966,PSV,DWS,1,3,Verloren
-24-04-1966,MVV,Fortuna '54,5,0,Gewonnen
+11-04-1966,GVAV,Feyenoord,2,1,Gewonnen
+24-04-1966,USV Elinkwijk,GVAV,1,1,Gelijk
+24-04-1966,Feyenoord,Willem II,6,1,Gewonnen
+24-04-1966,Ajax,ADO Den Haag,5,1,Gewonnen
+24-04-1966,Telstar,Sparta Rotterdam,0,0,Gelijk
+24-04-1966,Go Ahead Eagles,Heracles Almelo,2,0,Gewonnen
+24-04-1966,PSV,AFC DWS,1,3,Verloren
+24-04-1966,MVV Maastricht,Fortuna '54,5,0,Gewonnen
 24-04-1966,FC Twente,DOS,5,1,Gewonnen
-01-05-1966,ADO,MVV,4,0,Gewonnen
-01-05-1966,DWS,Telstar,2,0,Gewonnen
-01-05-1966,Sparta,Go Ahead,0,3,Verloren
-01-05-1966,DOS,AVC Heracles,3,2,Gewonnen
-01-05-1966,FC Twente,Feijenoord,1,3,Verloren
-01-05-1966,Willem II,Elinkwijk,2,3,Verloren
+01-05-1966,ADO Den Haag,MVV Maastricht,4,0,Gewonnen
+01-05-1966,AFC DWS,Telstar,2,0,Gewonnen
+01-05-1966,Sparta Rotterdam,Go Ahead Eagles,0,3,Verloren
+01-05-1966,DOS,Heracles Almelo,3,2,Gewonnen
+01-05-1966,FC Twente,Feyenoord,1,3,Verloren
+01-05-1966,Willem II,USV Elinkwijk,2,3,Verloren
 01-05-1966,Fortuna '54,PSV,2,1,Gewonnen
 01-05-1966,GVAV,Ajax,0,2,Verloren
-08-05-1966,Elinkwijk,FC Twente,2,1,Gewonnen
-08-05-1966,Feijenoord,DOS,4,1,Gewonnen
+08-05-1966,USV Elinkwijk,FC Twente,2,1,Gewonnen
+08-05-1966,Feyenoord,DOS,4,1,Gewonnen
 08-05-1966,Ajax,Willem II,3,1,Gewonnen
 08-05-1966,Telstar,Fortuna '54,3,0,Gewonnen
-08-05-1966,MVV,GVAV,1,0,Gewonnen
-08-05-1966,Go Ahead,DWS,2,1,Gewonnen
-08-05-1966,PSV,ADO,3,5,Verloren
-08-05-1966,AVC Heracles,Sparta,3,1,Gewonnen
-15-05-1966,DWS,AVC Heracles,4,1,Gewonnen
-15-05-1966,Feijenoord,Elinkwijk,0,1,Verloren
-15-05-1966,DOS,Sparta,5,1,Gewonnen
-15-05-1966,ADO,Telstar,4,2,Gewonnen
-15-05-1966,Willem II,MVV,2,0,Gewonnen
+08-05-1966,MVV Maastricht,GVAV,1,0,Gewonnen
+08-05-1966,Go Ahead Eagles,AFC DWS,2,1,Gewonnen
+08-05-1966,PSV,ADO Den Haag,3,5,Verloren
+08-05-1966,Heracles Almelo,Sparta Rotterdam,3,1,Gewonnen
+15-05-1966,AFC DWS,Heracles Almelo,4,1,Gewonnen
+15-05-1966,Feyenoord,USV Elinkwijk,0,1,Verloren
+15-05-1966,DOS,Sparta Rotterdam,5,1,Gewonnen
+15-05-1966,ADO Den Haag,Telstar,4,2,Gewonnen
+15-05-1966,Willem II,MVV Maastricht,2,0,Gewonnen
 15-05-1966,GVAV,PSV,2,0,Gewonnen
-15-05-1966,Fortuna '54,Go Ahead,0,4,Verloren
+15-05-1966,Fortuna '54,Go Ahead Eagles,0,4,Verloren
 15-05-1966,FC Twente,Ajax,0,2,Verloren
-18-05-1966,Ajax,Feijenoord,2,0,Gewonnen
-19-05-1966,DOS,Elinkwijk,2,0,Gewonnen
-19-05-1966,Sparta,DWS,1,0,Gewonnen
+18-05-1966,Ajax,Feyenoord,2,0,Gewonnen
+19-05-1966,DOS,USV Elinkwijk,2,0,Gewonnen
+19-05-1966,Sparta Rotterdam,AFC DWS,1,0,Gewonnen
 19-05-1966,Telstar,GVAV,2,0,Gewonnen
-19-05-1966,MVV,FC Twente,3,2,Gewonnen
-19-05-1966,AVC Heracles,Fortuna '54,1,1,Gelijk
-19-05-1966,Go Ahead,ADO,0,1,Verloren
+19-05-1966,MVV Maastricht,FC Twente,3,2,Gewonnen
+19-05-1966,Heracles Almelo,Fortuna '54,1,1,Gelijk
+19-05-1966,Go Ahead Eagles,ADO Den Haag,0,1,Verloren
 19-05-1966,PSV,Willem II,5,2,Gewonnen
-22-05-1966,DWS,DOS,1,2,Verloren
-22-05-1966,Elinkwijk,Ajax,3,3,Gelijk
-22-05-1966,Feijenoord,MVV,2,1,Gewonnen
-22-05-1966,AVC Heracles,ADO,2,2,Gelijk
+22-05-1966,AFC DWS,DOS,1,2,Verloren
+22-05-1966,USV Elinkwijk,Ajax,3,3,Gelijk
+22-05-1966,Feyenoord,MVV Maastricht,2,1,Gewonnen
+22-05-1966,Heracles Almelo,ADO Den Haag,2,2,Gelijk
 22-05-1966,FC Twente,PSV,1,7,Verloren
-22-05-1966,GVAV,Go Ahead,2,4,Verloren
+22-05-1966,GVAV,Go Ahead Eagles,2,4,Verloren
 22-05-1966,Willem II,Telstar,2,1,Gewonnen
-22-05-1966,Fortuna '54,Sparta,4,3,Gewonnen
+22-05-1966,Fortuna '54,Sparta Rotterdam,4,3,Gewonnen

@@ -3,12 +3,12 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 14-08-2021,RKC Waalwijk,AZ,1,0,Gewonnen
 14-08-2021,Heracles Almelo,PSV,0,2,Verloren
 14-08-2021,Fortuna Sittard,FC Twente,2,1,Gewonnen
-14-08-2021,Ajax,NEC,5,0,Gewonnen
+14-08-2021,Ajax,N.E.C.,5,0,Gewonnen
 15-08-2021,SC Cambuur,FC Groningen,1,2,Verloren
 15-08-2021,PEC Zwolle,Vitesse,0,1,Verloren
 15-08-2021,FC Utrecht,Sparta Rotterdam,4,0,Gewonnen
 15-08-2021,Willem II,Feyenoord,0,4,Verloren
-20-08-2021,NEC,PEC Zwolle,2,0,Gewonnen
+20-08-2021,N.E.C.,PEC Zwolle,2,0,Gewonnen
 21-08-2021,sc Heerenveen,RKC Waalwijk,3,2,Gewonnen
 21-08-2021,Sparta Rotterdam,Heracles Almelo,1,1,Gelijk
 21-08-2021,PSV,SC Cambuur,4,1,Gewonnen
@@ -23,17 +23,17 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 28-08-2021,Willem II,PEC Zwolle,1,0,Gewonnen
 29-08-2021,FC Utrecht,Feyenoord,3,1,Gewonnen
 29-08-2021,Ajax,Vitesse,5,0,Gewonnen
-29-08-2021,Heracles Almelo,NEC,0,1,Verloren
+29-08-2021,Heracles Almelo,N.E.C.,0,1,Verloren
 29-08-2021,sc Heerenveen,AZ,1,3,Verloren
 11-09-2021,FC Twente,FC Utrecht,1,0,Gewonnen
 11-09-2021,SC Cambuur,Go Ahead Eagles,5,2,Gewonnen
 11-09-2021,PEC Zwolle,Ajax,0,2,Verloren
 11-09-2021,AZ,PSV,0,3,Verloren
-12-09-2021,NEC,Willem II,0,0,Gelijk
+12-09-2021,N.E.C.,Willem II,0,0,Gelijk
 12-09-2021,FC Groningen,sc Heerenveen,1,1,Gelijk
 12-09-2021,Sparta Rotterdam,Fortuna Sittard,3,1,Gewonnen
 12-09-2021,RKC Waalwijk,Vitesse,1,2,Verloren
-17-09-2021,Sparta Rotterdam,NEC,1,1,Gelijk
+17-09-2021,Sparta Rotterdam,N.E.C.,1,1,Gelijk
 18-09-2021,sc Heerenveen,Fortuna Sittard,1,0,Gewonnen
 18-09-2021,Willem II,FC Groningen,2,1,Gewonnen
 18-09-2021,Ajax,SC Cambuur,9,0,Gewonnen
@@ -44,7 +44,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 19-09-2021,Vitesse,FC Twente,1,4,Verloren
 21-09-2021,Fortuna Sittard,Ajax,0,5,Verloren
 21-09-2021,RKC Waalwijk,Willem II,1,2,Verloren
-22-09-2021,NEC,FC Utrecht,0,3,Verloren
+22-09-2021,N.E.C.,FC Utrecht,0,3,Verloren
 22-09-2021,Go Ahead Eagles,PSV,1,2,Verloren
 22-09-2021,FC Groningen,Vitesse,0,1,Verloren
 22-09-2021,Feyenoord,sc Heerenveen,3,1,Gewonnen
@@ -55,7 +55,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 25-09-2021,Vitesse,Fortuna Sittard,1,1,Gelijk
 25-09-2021,Ajax,FC Groningen,3,0,Gewonnen
 25-09-2021,FC Utrecht,PEC Zwolle,5,1,Gewonnen
-25-09-2021,Feyenoord,NEC,5,3,Gewonnen
+25-09-2021,Feyenoord,N.E.C.,5,3,Gewonnen
 26-09-2021,Sparta Rotterdam,SC Cambuur,0,4,Verloren
 26-09-2021,AZ,Go Ahead Eagles,5,0,Gewonnen
 26-09-2021,sc Heerenveen,FC Twente,2,3,Verloren
@@ -64,7 +64,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-10-2021,RKC Waalwijk,Go Ahead Eagles,1,1,Gelijk
 02-10-2021,Heracles Almelo,Willem II,3,2,Gewonnen
 02-10-2021,PEC Zwolle,sc Heerenveen,0,1,Verloren
-02-10-2021,Fortuna Sittard,NEC,1,3,Verloren
+02-10-2021,Fortuna Sittard,N.E.C.,1,3,Verloren
 03-10-2021,SC Cambuur,AZ,1,3,Verloren
 03-10-2021,Ajax,FC Utrecht,0,1,Verloren
 03-10-2021,Vitesse,Feyenoord,2,1,Gewonnen
@@ -75,14 +75,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 16-10-2021,PSV,PEC Zwolle,3,1,Gewonnen
 16-10-2021,Fortuna Sittard,SC Cambuur,1,0,Gewonnen
 17-10-2021,AZ,FC Utrecht,5,1,Gewonnen
-17-10-2021,NEC,Vitesse,0,1,Verloren
+17-10-2021,N.E.C.,Vitesse,0,1,Verloren
 17-10-2021,Sparta Rotterdam,FC Groningen,1,1,Gelijk
 17-10-2021,FC Twente,Willem II,1,1,Gelijk
 22-10-2021,Willem II,Fortuna Sittard,1,1,Gelijk
 23-10-2021,FC Utrecht,sc Heerenveen,2,1,Gewonnen
 23-10-2021,PEC Zwolle,Heracles Almelo,1,0,Gewonnen
 23-10-2021,RKC Waalwijk,Sparta Rotterdam,1,0,Gewonnen
-24-10-2021,FC Twente,NEC,1,2,Verloren
+24-10-2021,FC Twente,N.E.C.,1,2,Verloren
 24-10-2021,Vitesse,Go Ahead Eagles,1,2,Verloren
 24-10-2021,SC Cambuur,Feyenoord,2,3,Verloren
 24-10-2021,Ajax,PSV,5,0,Gewonnen
@@ -92,12 +92,12 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 30-10-2021,sc Heerenveen,Vitesse,1,2,Verloren
 30-10-2021,AZ,PEC Zwolle,3,2,Gewonnen
 31-10-2021,Sparta Rotterdam,Feyenoord,0,1,Verloren
-31-10-2021,NEC,FC Groningen,3,0,Gewonnen
+31-10-2021,N.E.C.,FC Groningen,3,0,Gewonnen
 31-10-2021,FC Utrecht,Willem II,5,1,Gewonnen
 31-10-2021,RKC Waalwijk,SC Cambuur,0,1,Verloren
 31-10-2021,Go Ahead Eagles,Fortuna Sittard,4,3,Gewonnen
 05-11-2021,FC Twente,Heracles Almelo,1,0,Gewonnen
-06-11-2021,NEC,sc Heerenveen,1,1,Gelijk
+06-11-2021,N.E.C.,sc Heerenveen,1,1,Gelijk
 06-11-2021,Willem II,Sparta Rotterdam,0,3,Verloren
 06-11-2021,PEC Zwolle,SC Cambuur,1,2,Verloren
 07-11-2021,FC Groningen,RKC Waalwijk,1,1,Gelijk
@@ -107,14 +107,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 07-11-2021,Ajax,Go Ahead Eagles,0,0,Gelijk
 20-11-2021,PSV,Vitesse,2,0,Gewonnen
 20-11-2021,Sparta Rotterdam,FC Twente,0,1,Verloren
-20-11-2021,AZ,NEC,1,1,Gelijk
+20-11-2021,AZ,N.E.C.,1,1,Gelijk
 20-11-2021,Heracles Almelo,Fortuna Sittard,3,1,Gewonnen
 21-11-2021,Go Ahead Eagles,FC Groningen,0,1,Verloren
 21-11-2021,sc Heerenveen,Willem II,2,1,Gewonnen
 21-11-2021,Feyenoord,PEC Zwolle,4,0,Gewonnen
 21-11-2021,RKC Waalwijk,Ajax,0,5,Verloren
 21-11-2021,SC Cambuur,FC Utrecht,2,1,Gewonnen
-26-11-2021,NEC,SC Cambuur,2,3,Verloren
+26-11-2021,N.E.C.,SC Cambuur,2,3,Verloren
 27-11-2021,Fortuna Sittard,FC Groningen,1,4,Verloren
 27-11-2021,PEC Zwolle,RKC Waalwijk,0,0,Gelijk
 27-11-2021,Willem II,Go Ahead Eagles,0,1,Verloren
@@ -130,7 +130,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 04-12-2021,PSV,FC Utrecht,4,1,Gewonnen
 04-12-2021,SC Cambuur,Vitesse,1,6,Verloren
 04-12-2021,Heracles Almelo,sc Heerenveen,0,1,Verloren
-05-12-2021,RKC Waalwijk,NEC,2,1,Gewonnen
+05-12-2021,RKC Waalwijk,N.E.C.,2,1,Gewonnen
 05-12-2021,AZ,Sparta Rotterdam,3,1,Gewonnen
 05-12-2021,Go Ahead Eagles,FC Twente,1,2,Verloren
 05-12-2021,Feyenoord,Fortuna Sittard,5,0,Gewonnen
@@ -142,19 +142,19 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 12-12-2021,FC Groningen,Feyenoord,1,1,Gelijk
 12-12-2021,Vitesse,Heracles Almelo,2,1,Gewonnen
 12-12-2021,Ajax,AZ,1,2,Verloren
-12-12-2021,NEC,PSV,1,2,Verloren
+12-12-2021,N.E.C.,PSV,1,2,Verloren
 18-12-2021,Fortuna Sittard,FC Utrecht,2,2,Gelijk
 18-12-2021,Sparta Rotterdam,Vitesse,2,2,Gelijk
 18-12-2021,Heracles Almelo,FC Groningen,4,2,Gewonnen
 18-12-2021,AZ,Willem II,4,1,Gewonnen
 18-12-2021,PEC Zwolle,FC Twente,1,3,Verloren
 19-12-2021,SC Cambuur,sc Heerenveen,1,2,Verloren
-19-12-2021,Go Ahead Eagles,NEC,0,2,Verloren
+19-12-2021,Go Ahead Eagles,N.E.C.,0,2,Verloren
 19-12-2021,Feyenoord,Ajax,0,2,Verloren
 19-12-2021,RKC Waalwijk,PSV,1,4,Verloren
 21-12-2021,Vitesse,PEC Zwolle,1,0,Gewonnen
 21-12-2021,AZ,FC Groningen,1,0,Gewonnen
-22-12-2021,Willem II,NEC,0,1,Verloren
+22-12-2021,Willem II,N.E.C.,0,1,Verloren
 22-12-2021,sc Heerenveen,Feyenoord,0,3,Verloren
 22-12-2021,Heracles Almelo,SC Cambuur,1,1,Gelijk
 22-12-2021,Ajax,Fortuna Sittard,5,0,Gewonnen
@@ -162,7 +162,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 23-12-2021,PSV,Go Ahead Eagles,2,0,Gewonnen
 23-12-2021,Sparta Rotterdam,RKC Waalwijk,1,1,Gelijk
 14-01-2022,PEC Zwolle,Willem II,2,0,Gewonnen
-15-01-2022,NEC,Heracles Almelo,0,0,Gelijk
+15-01-2022,N.E.C.,Heracles Almelo,0,0,Gelijk
 15-01-2022,Feyenoord,Vitesse,0,1,Verloren
 15-01-2022,FC Twente,sc Heerenveen,2,0,Gewonnen
 15-01-2022,Go Ahead Eagles,RKC Waalwijk,0,2,Verloren
@@ -174,14 +174,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 22-01-2022,sc Heerenveen,PEC Zwolle,0,1,Verloren
 22-01-2022,AZ,SC Cambuur,0,0,Gelijk
 22-01-2022,Willem II,FC Twente,0,1,Verloren
-23-01-2022,NEC,Feyenoord,1,4,Verloren
+23-01-2022,N.E.C.,Feyenoord,1,4,Verloren
 23-01-2022,PSV,Ajax,1,2,Verloren
 23-01-2022,Heracles Almelo,Go Ahead Eagles,1,1,Gelijk
 23-01-2022,Sparta Rotterdam,FC Utrecht,0,3,Verloren
 23-01-2022,RKC Waalwijk,Fortuna Sittard,2,1,Gewonnen
 05-02-2022,FC Utrecht,SC Cambuur,3,2,Gewonnen
 05-02-2022,Fortuna Sittard,sc Heerenveen,2,0,Gewonnen
-05-02-2022,PEC Zwolle,NEC,1,1,Gelijk
+05-02-2022,PEC Zwolle,N.E.C.,1,1,Gelijk
 05-02-2022,PSV,AZ,1,2,Verloren
 05-02-2022,FC Twente,Vitesse,3,0,Gewonnen
 06-02-2022,Feyenoord,Sparta Rotterdam,4,0,Gewonnen
@@ -195,9 +195,9 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 13-02-2022,Sparta Rotterdam,Willem II,1,0,Gewonnen
 13-02-2022,Go Ahead Eagles,AZ,1,4,Verloren
 13-02-2022,RKC Waalwijk,Feyenoord,0,2,Verloren
-13-02-2022,sc Heerenveen,NEC,0,1,Verloren
+13-02-2022,sc Heerenveen,N.E.C.,0,1,Verloren
 13-02-2022,Ajax,FC Twente,5,0,Gewonnen
-19-02-2022,NEC,RKC Waalwijk,1,1,Gelijk
+19-02-2022,N.E.C.,RKC Waalwijk,1,1,Gelijk
 19-02-2022,Willem II,Ajax,0,1,Verloren
 19-02-2022,AZ,Heracles Almelo,2,1,Gewonnen
 20-02-2022,PEC Zwolle,FC Groningen,1,1,Gelijk
@@ -210,7 +210,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 26-02-2022,FC Groningen,Willem II,1,0,Gewonnen
 26-02-2022,SC Cambuur,Fortuna Sittard,2,1,Gewonnen
 27-02-2022,AZ,Feyenoord,2,1,Gewonnen
-27-02-2022,Vitesse,NEC,4,1,Gewonnen
+27-02-2022,Vitesse,N.E.C.,4,1,Gewonnen
 27-02-2022,Sparta Rotterdam,PSV,1,2,Verloren
 27-02-2022,Go Ahead Eagles,Ajax,2,1,Gewonnen
 27-02-2022,sc Heerenveen,FC Utrecht,1,2,Verloren
@@ -220,11 +220,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 06-03-2022,PSV,Heracles Almelo,3,1,Gewonnen
 06-03-2022,FC Twente,SC Cambuur,1,0,Gewonnen
 06-03-2022,Ajax,RKC Waalwijk,3,2,Gewonnen
-06-03-2022,NEC,AZ,1,3,Verloren
+06-03-2022,N.E.C.,AZ,1,3,Verloren
 06-03-2022,Fortuna Sittard,PEC Zwolle,0,1,Verloren
 11-03-2022,SC Cambuur,Ajax,2,3,Verloren
 12-03-2022,Sparta Rotterdam,Go Ahead Eagles,1,0,Gewonnen
-12-03-2022,FC Groningen,NEC,4,3,Gewonnen
+12-03-2022,FC Groningen,N.E.C.,4,3,Gewonnen
 12-03-2022,RKC Waalwijk,sc Heerenveen,0,0,Gelijk
 13-03-2022,Fortuna Sittard,Willem II,1,0,Gewonnen
 13-03-2022,Heracles Almelo,Vitesse,0,0,Gelijk
@@ -234,7 +234,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 18-03-2022,sc Heerenveen,Heracles Almelo,2,0,Gewonnen
 19-03-2022,Go Ahead Eagles,SC Cambuur,3,0,Gewonnen
 19-03-2022,FC Twente,PEC Zwolle,1,0,Gewonnen
-19-03-2022,NEC,Sparta Rotterdam,0,0,Gelijk
+19-03-2022,N.E.C.,Sparta Rotterdam,0,0,Gelijk
 20-03-2022,FC Utrecht,FC Groningen,1,3,Verloren
 20-03-2022,Ajax,Feyenoord,3,2,Gewonnen
 20-03-2022,Vitesse,RKC Waalwijk,1,2,Verloren
@@ -248,11 +248,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 03-04-2022,PEC Zwolle,Go Ahead Eagles,0,1,Verloren
 03-04-2022,Fortuna Sittard,Heracles Almelo,0,2,Verloren
 03-04-2022,Sparta Rotterdam,sc Heerenveen,1,1,Gelijk
-03-04-2022,SC Cambuur,NEC,1,2,Verloren
+03-04-2022,SC Cambuur,N.E.C.,1,2,Verloren
 08-04-2022,Go Ahead Eagles,Willem II,4,0,Gewonnen
 09-04-2022,FC Utrecht,Fortuna Sittard,1,1,Gelijk
 09-04-2022,Ajax,Sparta Rotterdam,2,1,Gewonnen
-09-04-2022,NEC,FC Twente,0,2,Verloren
+09-04-2022,N.E.C.,FC Twente,0,2,Verloren
 10-04-2022,sc Heerenveen,FC Groningen,3,1,Gewonnen
 10-04-2022,Vitesse,SC Cambuur,1,0,Gewonnen
 10-04-2022,PSV,RKC Waalwijk,2,0,Gewonnen
@@ -261,7 +261,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 16-04-2022,Fortuna Sittard,Sparta Rotterdam,3,0,Gewonnen
 19-04-2022,Vitesse,Sparta Rotterdam,0,1,Verloren
 22-04-2022,FC Twente,Sparta Rotterdam,2,0,Gewonnen
-23-04-2022,NEC,Ajax,0,1,Verloren
+23-04-2022,N.E.C.,Ajax,0,1,Verloren
 23-04-2022,AZ,sc Heerenveen,2,1,Gewonnen
 23-04-2022,RKC Waalwijk,PEC Zwolle,0,2,Verloren
 23-04-2022,SC Cambuur,PSV,1,2,Verloren
@@ -269,7 +269,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 24-04-2022,FC Groningen,Heracles Almelo,0,1,Verloren
 24-04-2022,Feyenoord,FC Utrecht,2,1,Gewonnen
 24-04-2022,Fortuna Sittard,Go Ahead Eagles,1,0,Gewonnen
-29-04-2022,FC Utrecht,NEC,1,0,Gewonnen
+29-04-2022,FC Utrecht,N.E.C.,1,0,Gewonnen
 30-04-2022,Ajax,PEC Zwolle,3,0,Gewonnen
 30-04-2022,Heracles Almelo,FC Twente,1,1,Gelijk
 30-04-2022,Sparta Rotterdam,AZ,1,1,Gelijk
@@ -283,13 +283,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 07-05-2022,PEC Zwolle,FC Utrecht,1,1,Gelijk
 07-05-2022,Willem II,Heracles Almelo,2,0,Gewonnen
 07-05-2022,FC Groningen,Sparta Rotterdam,1,2,Verloren
-08-05-2022,NEC,Go Ahead Eagles,1,0,Gewonnen
+08-05-2022,N.E.C.,Go Ahead Eagles,1,0,Gewonnen
 08-05-2022,AZ,Ajax,2,2,Gelijk
 08-05-2022,Vitesse,sc Heerenveen,1,2,Verloren
 08-05-2022,Feyenoord,PSV,2,2,Gelijk
 11-05-2022,Sparta Rotterdam,PEC Zwolle,2,0,Gewonnen
 11-05-2022,Go Ahead Eagles,Feyenoord,0,1,Verloren
-11-05-2022,PSV,NEC,3,2,Gewonnen
+11-05-2022,PSV,N.E.C.,3,2,Gewonnen
 11-05-2022,Ajax,sc Heerenveen,5,0,Gewonnen
 11-05-2022,Fortuna Sittard,Vitesse,1,2,Verloren
 11-05-2022,FC Twente,FC Groningen,3,0,Gewonnen
@@ -299,7 +299,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 15-05-2022,Vitesse,Ajax,2,2,Gelijk
 15-05-2022,Willem II,FC Utrecht,3,0,Gewonnen
 15-05-2022,Feyenoord,FC Twente,1,2,Verloren
-15-05-2022,NEC,Fortuna Sittard,0,1,Verloren
+15-05-2022,N.E.C.,Fortuna Sittard,0,1,Verloren
 15-05-2022,AZ,RKC Waalwijk,1,3,Verloren
 15-05-2022,sc Heerenveen,Go Ahead Eagles,3,1,Gewonnen
 15-05-2022,FC Groningen,SC Cambuur,2,3,Verloren

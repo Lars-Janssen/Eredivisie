@@ -4,7 +4,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 11-08-2012,Roda JC Kerkrade,PEC Zwolle,1,1,Gelijk
 11-08-2012,Heracles Almelo,VVV-Venlo,1,1,Gelijk
 12-08-2012,FC Utrecht,Feyenoord,0,1,Verloren
-12-08-2012,sc Heerenveen,NEC,0,2,Verloren
+12-08-2012,sc Heerenveen,N.E.C.,0,2,Verloren
 12-08-2012,Vitesse,ADO Den Haag,2,2,Gelijk
 12-08-2012,FC Twente,FC Groningen,4,1,Gewonnen
 12-08-2012,Ajax,AZ,2,2,Gelijk
@@ -16,7 +16,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 19-08-2012,FC Groningen,Willem II,1,1,Gelijk
 19-08-2012,ADO Den Haag,RKC Waalwijk,2,2,Gelijk
 19-08-2012,AZ,Heracles Almelo,3,1,Gewonnen
-19-08-2012,NEC,Ajax,1,6,Verloren
+19-08-2012,N.E.C.,Ajax,1,6,Verloren
 24-08-2012,RKC Waalwijk,Roda JC Kerkrade,1,0,Gewonnen
 25-08-2012,FC Utrecht,PEC Zwolle,1,1,Gelijk
 25-08-2012,VVV-Venlo,ADO Den Haag,2,4,Verloren
@@ -24,11 +24,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 26-08-2012,AZ,sc Heerenveen,0,0,Gelijk
 26-08-2012,Heracles Almelo,Feyenoord,1,2,Verloren
 26-08-2012,Willem II,Vitesse,0,2,Verloren
-26-08-2012,NEC,FC Twente,1,3,Verloren
+26-08-2012,N.E.C.,FC Twente,1,3,Verloren
 26-08-2012,FC Groningen,PSV,1,3,Verloren
 31-08-2012,ADO Den Haag,FC Groningen,0,1,Verloren
 01-09-2012,Roda JC Kerkrade,Willem II,3,0,Gewonnen
-01-09-2012,PEC Zwolle,NEC,0,4,Verloren
+01-09-2012,PEC Zwolle,N.E.C.,0,4,Verloren
 01-09-2012,RKC Waalwijk,Heracles Almelo,1,1,Gelijk
 01-09-2012,NAC Breda,FC Utrecht,1,1,Gelijk
 02-09-2012,Vitesse,Feyenoord,1,0,Gewonnen
@@ -37,7 +37,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-09-2012,sc Heerenveen,Ajax,2,2,Gelijk
 15-09-2012,Ajax,RKC Waalwijk,2,0,Gewonnen
 15-09-2012,Willem II,FC Twente,2,6,Verloren
-15-09-2012,VVV-Venlo,NEC,2,2,Gelijk
+15-09-2012,VVV-Venlo,N.E.C.,2,2,Gelijk
 15-09-2012,sc Heerenveen,ADO Den Haag,1,3,Verloren
 15-09-2012,Feyenoord,PEC Zwolle,2,0,Gewonnen
 16-09-2012,Heracles Almelo,NAC Breda,2,1,Gewonnen
@@ -48,7 +48,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 22-09-2012,PEC Zwolle,FC Groningen,1,2,Verloren
 22-09-2012,Vitesse,Heracles Almelo,1,1,Gelijk
 22-09-2012,RKC Waalwijk,VVV-Venlo,1,1,Gelijk
-22-09-2012,NEC,Willem II,0,0,Gelijk
+22-09-2012,N.E.C.,Willem II,0,0,Gelijk
 23-09-2012,ADO Den Haag,Ajax,1,1,Gelijk
 23-09-2012,FC Twente,sc Heerenveen,1,0,Gewonnen
 23-09-2012,NAC Breda,AZ,2,1,Gewonnen
@@ -56,13 +56,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 29-09-2012,sc Heerenveen,NAC Breda,2,0,Gewonnen
 29-09-2012,FC Utrecht,Vitesse,1,2,Verloren
 29-09-2012,Heracles Almelo,ADO Den Haag,3,3,Gelijk
-29-09-2012,Feyenoord,NEC,5,1,Gewonnen
+29-09-2012,Feyenoord,N.E.C.,5,1,Gewonnen
 29-09-2012,Ajax,FC Twente,1,0,Gewonnen
 30-09-2012,AZ,RKC Waalwijk,3,3,Gelijk
 30-09-2012,Willem II,PEC Zwolle,0,1,Verloren
 30-09-2012,FC Groningen,Roda JC Kerkrade,3,2,Gewonnen
 30-09-2012,VVV-Venlo,PSV,0,6,Verloren
-05-10-2012,NEC,ADO Den Haag,1,1,Gelijk
+05-10-2012,N.E.C.,ADO Den Haag,1,1,Gelijk
 06-10-2012,Willem II,RKC Waalwijk,1,0,Gewonnen
 06-10-2012,Vitesse,sc Heerenveen,3,3,Gelijk
 06-10-2012,PEC Zwolle,Heracles Almelo,0,3,Verloren
@@ -75,14 +75,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 20-10-2012,NAC Breda,Vitesse,0,3,Verloren
 20-10-2012,PSV,Willem II,3,2,Gewonnen
 20-10-2012,Roda JC Kerkrade,FC Twente,1,1,Gelijk
-20-10-2012,AZ,NEC,0,2,Verloren
+20-10-2012,AZ,N.E.C.,0,2,Verloren
 21-10-2012,ADO Den Haag,FC Utrecht,1,2,Verloren
 21-10-2012,sc Heerenveen,FC Groningen,3,0,Gewonnen
 21-10-2012,VVV-Venlo,Feyenoord,2,3,Verloren
 21-10-2012,RKC Waalwijk,PEC Zwolle,1,2,Verloren
 26-10-2012,FC Utrecht,FC Groningen,1,0,Gewonnen
 27-10-2012,ADO Den Haag,Willem II,2,0,Gewonnen
-27-10-2012,NEC,Roda JC Kerkrade,0,0,Gelijk
+27-10-2012,N.E.C.,Roda JC Kerkrade,0,0,Gelijk
 27-10-2012,VVV-Venlo,NAC Breda,1,4,Verloren
 28-10-2012,Feyenoord,Ajax,2,2,Gelijk
 28-10-2012,Heracles Almelo,sc Heerenveen,6,3,Gewonnen
@@ -93,7 +93,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 03-11-2012,Ajax,Vitesse,0,2,Verloren
 03-11-2012,Willem II,FC Utrecht,1,5,Verloren
 03-11-2012,PSV,Heracles Almelo,4,0,Gewonnen
-04-11-2012,FC Groningen,NEC,1,2,Verloren
+04-11-2012,FC Groningen,N.E.C.,1,2,Verloren
 04-11-2012,FC Twente,Feyenoord,3,0,Gewonnen
 04-11-2012,AZ,VVV-Venlo,1,2,Verloren
 04-11-2012,sc Heerenveen,PEC Zwolle,2,1,Gewonnen
@@ -102,7 +102,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 10-11-2012,RKC Waalwijk,FC Utrecht,4,0,Gewonnen
 10-11-2012,VVV-Venlo,Willem II,4,1,Gewonnen
 10-11-2012,ADO Den Haag,AZ,2,2,Gelijk
-10-11-2012,NEC,Heracles Almelo,3,2,Gewonnen
+10-11-2012,N.E.C.,Heracles Almelo,3,2,Gewonnen
 11-11-2012,Vitesse,FC Twente,0,0,Gelijk
 11-11-2012,PEC Zwolle,Ajax,2,4,Verloren
 11-11-2012,Feyenoord,Roda JC Kerkrade,5,2,Gewonnen
@@ -112,12 +112,12 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 17-11-2012,Ajax,VVV-Venlo,2,0,Gewonnen
 17-11-2012,PEC Zwolle,NAC Breda,2,0,Gewonnen
 17-11-2012,FC Groningen,AZ,1,1,Gelijk
-18-11-2012,Vitesse,NEC,4,1,Gewonnen
+18-11-2012,Vitesse,N.E.C.,4,1,Gewonnen
 18-11-2012,Feyenoord,Willem II,3,0,Gewonnen
 18-11-2012,FC Utrecht,FC Twente,1,1,Gelijk
 18-11-2012,Heracles Almelo,Roda JC Kerkrade,5,1,Gewonnen
 23-11-2012,NAC Breda,ADO Den Haag,0,3,Verloren
-24-11-2012,NEC,FC Utrecht,2,0,Gewonnen
+24-11-2012,N.E.C.,FC Utrecht,2,0,Gewonnen
 24-11-2012,VVV-Venlo,sc Heerenveen,1,1,Gelijk
 24-11-2012,RKC Waalwijk,FC Groningen,1,1,Gelijk
 24-11-2012,Willem II,Heracles Almelo,2,2,Gelijk
@@ -130,12 +130,12 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 01-12-2012,Willem II,sc Heerenveen,3,1,Gewonnen
 01-12-2012,Feyenoord,RKC Waalwijk,2,0,Gewonnen
 01-12-2012,Ajax,PSV,3,1,Gewonnen
-02-12-2012,NEC,NAC Breda,1,1,Gelijk
+02-12-2012,N.E.C.,NAC Breda,1,1,Gelijk
 02-12-2012,FC Utrecht,AZ,2,1,Gewonnen
 02-12-2012,FC Groningen,Heracles Almelo,2,0,Gewonnen
 02-12-2012,Vitesse,Roda JC Kerkrade,3,0,Gewonnen
 07-12-2012,Heracles Almelo,FC Utrecht,1,1,Gelijk
-08-12-2012,RKC Waalwijk,NEC,2,0,Gewonnen
+08-12-2012,RKC Waalwijk,N.E.C.,2,0,Gewonnen
 08-12-2012,AZ,Willem II,0,0,Gelijk
 08-12-2012,ADO Den Haag,PEC Zwolle,1,1,Gelijk
 08-12-2012,Ajax,FC Groningen,2,0,Gewonnen
@@ -147,14 +147,14 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 15-12-2012,PEC Zwolle,AZ,1,2,Verloren
 15-12-2012,Roda JC Kerkrade,NAC Breda,0,0,Gelijk
 15-12-2012,FC Groningen,VVV-Venlo,0,0,Gelijk
-15-12-2012,NEC,PSV,1,1,Gelijk
+15-12-2012,N.E.C.,PSV,1,1,Gelijk
 16-12-2012,FC Utrecht,sc Heerenveen,3,1,Gewonnen
 16-12-2012,Feyenoord,ADO Den Haag,3,2,Gewonnen
 16-12-2012,Vitesse,RKC Waalwijk,2,2,Gelijk
 16-12-2012,Willem II,Ajax,2,4,Verloren
 21-12-2012,AZ,FC Twente,0,3,Verloren
 22-12-2012,sc Heerenveen,Vitesse,2,1,Gewonnen
-22-12-2012,ADO Den Haag,NEC,2,0,Gewonnen
+22-12-2012,ADO Den Haag,N.E.C.,2,0,Gewonnen
 22-12-2012,Heracles Almelo,PEC Zwolle,1,1,Gelijk
 22-12-2012,NAC Breda,PSV,1,6,Verloren
 23-12-2012,RKC Waalwijk,Willem II,0,0,Gelijk
@@ -169,7 +169,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 20-01-2013,FC Groningen,FC Utrecht,0,2,Verloren
 20-01-2013,Ajax,Feyenoord,3,0,Gewonnen
 20-01-2013,Willem II,ADO Den Haag,1,1,Gelijk
-20-01-2013,Roda JC Kerkrade,NEC,2,0,Gewonnen
+20-01-2013,Roda JC Kerkrade,N.E.C.,2,0,Gewonnen
 25-01-2013,VVV-Venlo,AZ,1,4,Verloren
 26-01-2013,PEC Zwolle,sc Heerenveen,1,1,Gelijk
 26-01-2013,ADO Den Haag,Roda JC Kerkrade,2,2,Gelijk
@@ -178,13 +178,13 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 27-01-2013,Vitesse,Ajax,3,2,Gewonnen
 27-01-2013,Feyenoord,FC Twente,0,0,Gelijk
 27-01-2013,FC Utrecht,Willem II,3,1,Gewonnen
-27-01-2013,NEC,FC Groningen,2,1,Gewonnen
+27-01-2013,N.E.C.,FC Groningen,2,1,Gewonnen
 01-02-2013,RKC Waalwijk,sc Heerenveen,0,1,Verloren
 02-02-2013,AZ,FC Groningen,0,1,Verloren
 02-02-2013,NAC Breda,PEC Zwolle,3,0,Gewonnen
 02-02-2013,Roda JC Kerkrade,Heracles Almelo,3,3,Gelijk
 02-02-2013,PSV,ADO Den Haag,7,0,Gewonnen
-03-02-2013,NEC,Vitesse,2,1,Gewonnen
+03-02-2013,N.E.C.,Vitesse,2,1,Gewonnen
 03-02-2013,VVV-Venlo,Ajax,0,3,Verloren
 03-02-2013,FC Twente,FC Utrecht,2,4,Verloren
 03-02-2013,Willem II,Feyenoord,1,3,Verloren
@@ -193,11 +193,11 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 09-02-2013,sc Heerenveen,VVV-Venlo,2,2,Gelijk
 09-02-2013,FC Groningen,RKC Waalwijk,2,1,Gewonnen
 09-02-2013,Vitesse,PSV,2,2,Gelijk
-10-02-2013,FC Utrecht,NEC,0,3,Verloren
+10-02-2013,FC Utrecht,N.E.C.,0,3,Verloren
 10-02-2013,Feyenoord,AZ,3,1,Gewonnen
 10-02-2013,Ajax,Roda JC Kerkrade,1,1,Gelijk
 10-02-2013,PEC Zwolle,FC Twente,1,1,Gelijk
-15-02-2013,NEC,VVV-Venlo,1,2,Verloren
+15-02-2013,N.E.C.,VVV-Venlo,1,2,Verloren
 16-02-2013,FC Twente,Willem II,1,1,Gelijk
 16-02-2013,Roda JC Kerkrade,AZ,2,2,Gelijk
 16-02-2013,NAC Breda,Heracles Almelo,1,1,Gelijk
@@ -206,7 +206,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 17-02-2013,ADO Den Haag,sc Heerenveen,2,1,Gewonnen
 17-02-2013,PEC Zwolle,Feyenoord,3,2,Gewonnen
 17-02-2013,RKC Waalwijk,Ajax,0,2,Verloren
-22-02-2013,Willem II,NEC,2,3,Verloren
+22-02-2013,Willem II,N.E.C.,2,3,Verloren
 23-02-2013,Heracles Almelo,Vitesse,3,5,Verloren
 23-02-2013,VVV-Venlo,RKC Waalwijk,1,0,Gewonnen
 23-02-2013,FC Groningen,PEC Zwolle,1,0,Gewonnen
@@ -220,21 +220,21 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 02-03-2013,PEC Zwolle,Willem II,2,0,Gewonnen
 02-03-2013,PSV,VVV-Venlo,2,0,Gewonnen
 02-03-2013,FC Twente,Ajax,0,2,Verloren
-03-03-2013,NEC,Feyenoord,0,3,Verloren
+03-03-2013,N.E.C.,Feyenoord,0,3,Verloren
 03-03-2013,RKC Waalwijk,AZ,2,1,Gewonnen
 03-03-2013,Roda JC Kerkrade,FC Groningen,4,1,Gewonnen
 03-03-2013,ADO Den Haag,Heracles Almelo,3,1,Gewonnen
 08-03-2013,FC Groningen,NAC Breda,1,1,Gelijk
 09-03-2013,sc Heerenveen,PSV,2,1,Gewonnen
 09-03-2013,Willem II,VVV-Venlo,1,0,Gewonnen
-09-03-2013,Heracles Almelo,NEC,1,0,Gewonnen
+09-03-2013,Heracles Almelo,N.E.C.,1,0,Gewonnen
 09-03-2013,AZ,ADO Den Haag,1,1,Gelijk
 10-03-2013,Roda JC Kerkrade,Feyenoord,0,1,Verloren
 10-03-2013,FC Utrecht,RKC Waalwijk,1,0,Gewonnen
 10-03-2013,Ajax,PEC Zwolle,3,0,Gewonnen
 10-03-2013,FC Twente,Vitesse,0,1,Verloren
 15-03-2013,PEC Zwolle,Roda JC Kerkrade,3,2,Gewonnen
-16-03-2013,NEC,sc Heerenveen,1,3,Verloren
+16-03-2013,N.E.C.,sc Heerenveen,1,3,Verloren
 16-03-2013,PSV,RKC Waalwijk,2,0,Gewonnen
 16-03-2013,VVV-Venlo,Heracles Almelo,0,2,Verloren
 16-03-2013,ADO Den Haag,Vitesse,0,4,Verloren
@@ -250,19 +250,19 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 31-03-2013,Vitesse,PEC Zwolle,2,1,Gewonnen
 31-03-2013,Heracles Almelo,AZ,1,2,Verloren
 31-03-2013,RKC Waalwijk,ADO Den Haag,4,0,Gewonnen
-31-03-2013,Ajax,NEC,4,1,Gewonnen
+31-03-2013,Ajax,N.E.C.,4,1,Gewonnen
 05-04-2013,Feyenoord,VVV-Venlo,1,0,Gewonnen
 06-04-2013,Vitesse,NAC Breda,3,0,Gewonnen
 06-04-2013,FC Twente,Roda JC Kerkrade,2,0,Gewonnen
 06-04-2013,PEC Zwolle,RKC Waalwijk,1,1,Gelijk
 06-04-2013,Willem II,PSV,1,3,Verloren
 07-04-2013,FC Utrecht,ADO Den Haag,1,0,Gewonnen
-07-04-2013,NEC,AZ,1,1,Gelijk
+07-04-2013,N.E.C.,AZ,1,1,Gelijk
 07-04-2013,FC Groningen,sc Heerenveen,3,1,Gewonnen
 07-04-2013,Ajax,Heracles Almelo,4,0,Gewonnen
 12-04-2013,VVV-Venlo,PEC Zwolle,0,2,Verloren
 13-04-2013,Roda JC Kerkrade,Vitesse,3,3,Gelijk
-13-04-2013,NAC Breda,NEC,2,0,Gewonnen
+13-04-2013,NAC Breda,N.E.C.,2,0,Gewonnen
 13-04-2013,Heracles Almelo,FC Groningen,0,2,Verloren
 13-04-2013,ADO Den Haag,FC Twente,1,3,Verloren
 14-04-2013,sc Heerenveen,Willem II,3,2,Gewonnen
@@ -276,21 +276,21 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 20-04-2013,AZ,PSV,1,3,Verloren
 21-04-2013,VVV-Venlo,FC Twente,2,2,Gelijk
 21-04-2013,FC Utrecht,NAC Breda,3,0,Gewonnen
-21-04-2013,NEC,PEC Zwolle,1,3,Verloren
+21-04-2013,N.E.C.,PEC Zwolle,1,3,Verloren
 21-04-2013,Feyenoord,Vitesse,2,0,Gewonnen
 26-04-2013,sc Heerenveen,AZ,0,4,Verloren
 27-04-2013,PSV,FC Groningen,5,2,Gewonnen
 27-04-2013,ADO Den Haag,VVV-Venlo,1,1,Gelijk
 27-04-2013,Roda JC Kerkrade,RKC Waalwijk,3,1,Gewonnen
 27-04-2013,NAC Breda,Ajax,0,2,Verloren
-28-04-2013,FC Twente,NEC,5,2,Gewonnen
+28-04-2013,FC Twente,N.E.C.,5,2,Gewonnen
 28-04-2013,PEC Zwolle,FC Utrecht,1,2,Verloren
 28-04-2013,Feyenoord,Heracles Almelo,6,0,Gewonnen
 28-04-2013,Vitesse,Willem II,3,1,Gewonnen
 05-05-2013,Ajax,Willem II,5,0,Gewonnen
 05-05-2013,RKC Waalwijk,Vitesse,3,2,Gewonnen
 05-05-2013,VVV-Venlo,FC Groningen,0,0,Gelijk
-05-05-2013,PSV,NEC,4,2,Gewonnen
+05-05-2013,PSV,N.E.C.,4,2,Gewonnen
 05-05-2013,ADO Den Haag,Feyenoord,2,0,Gewonnen
 05-05-2013,AZ,PEC Zwolle,4,0,Gewonnen
 05-05-2013,sc Heerenveen,FC Utrecht,2,4,Verloren
@@ -301,7 +301,7 @@ Datum,Thuis,Uit,Thuis Doelpunten,Uit Doelpunten,Uitslag
 12-05-2013,Feyenoord,NAC Breda,1,0,Gewonnen
 12-05-2013,PEC Zwolle,ADO Den Haag,4,2,Gewonnen
 12-05-2013,FC Utrecht,Heracles Almelo,3,0,Gewonnen
-12-05-2013,NEC,RKC Waalwijk,1,2,Verloren
+12-05-2013,N.E.C.,RKC Waalwijk,1,2,Verloren
 12-05-2013,Willem II,AZ,2,0,Gewonnen
 12-05-2013,Vitesse,VVV-Venlo,0,1,Verloren
 12-05-2013,Roda JC Kerkrade,sc Heerenveen,1,0,Gewonnen
