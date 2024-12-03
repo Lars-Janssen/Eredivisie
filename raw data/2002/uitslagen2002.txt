@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=13847">
-								<center><img src=./tickets/ere/13847t.jpg  border=0></a><br>
-								26-04-2003: sc Heerenveen - Vitesse 2 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14059">
+								<center><img src=./tickets/ere/14059t.jpg  border=0></a><br>
+								29-11-2002: Roda JC - FC Zwolle 2 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5098,9 +5098,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13944">
-		<center><img src=./prog/ere/13944p.jpg  width=360 height=523.2  border=0></a> 
-		<br>12-04-2003: FC Twente - De Graafschap 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14048">
+		<center><img src=./prog/ere/14048p.jpg  width=360 height=533.6  border=0></a> 
+		<br>30-08-2002: RKC Waalwijk - FC Twente 3 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

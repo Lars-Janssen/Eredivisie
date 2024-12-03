@@ -1767,9 +1767,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12282">
-								<center><img src=./tickets/ere/12282t.jpg  border=0></a><br>
-								22-10-1996: FC Utrecht - Willem II 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12220">
+								<center><img src=./tickets/ere/12220t.jpg  border=0></a><br>
+								25-08-1996: Feyenoord - FC Volendam 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5177,9 +5177,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12174">
-		<center><img src=./prog/ere/12174p.jpg  width=360 height=512.8  border=0></a> 
-		<br>22-12-1996: Ajax - PSV 0 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12276">
+		<center><img src=./prog/ere/12276p.jpg  width=360 height=520.8  border=0></a> 
+		<br>29-09-1996: FC Utrecht - PSV 2 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10491">
-								<center><img src=./tickets/ere/10491t.jpg  border=0></a><br>
-								22-11-1991: Fortuna Sittard - Feyenoord 0 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10750">
+								<center><img src=./tickets/ere/10750t.jpg  border=0></a><br>
+								29-09-1991: Vitesse - PSV 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2436,10 +2436,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10569">
-								<img src=./koppen/ere/10569k.jpg width=360 height=82.08   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
-			<tr><td class=nl3-wizw align=center>19-01-1992: FC Den Haag - MVV 1 - 2
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10703">
+								<img src=./koppen/ere/10703k.jpg width=360 height=43.2   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: De Telegraaf)</i>
+			<tr><td class=nl3-wizw align=center>09-10-1991: Willem II - MVV 0 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5198,9 +5198,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=10623">
-		<center><img src=./prog/ere/10623p.jpg  width=360 height=512  border=0></a> 
-		<br>20-10-1991: FC Utrecht - SVV/Dordrecht '90 1 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=10586">
+		<center><img src=./prog/ere/10586p.jpg  width=360 height=504  border=0></a> 
+		<br>02-02-1992: Ajax - FC Groningen 0 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

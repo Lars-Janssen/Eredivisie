@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10002">
-								<center><img src=./tickets/ere/10002t.jpg  border=0></a><br>
-								05-11-1989: FC Den Haag - Haarlem 6 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10097">
+								<center><img src=./tickets/ere/10097t.jpg  border=0></a><br>
+								01-05-1990: Haarlem - FC Den Haag 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2367,10 +2367,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10127">
-								<img src=./koppen/ere/10127k.jpg width=360 height=37.44   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>11-02-1990: Feyenoord - Haarlem 5 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10029">
+								<img src=./koppen/ere/10029k.jpg width=360 height=115.92   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Leeuwarder Courant)</i>
+			<tr><td class=nl3-wizw align=center>16-08-1989: Ajax - Vitesse 5 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5129,9 +5129,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=10059">
-		<center><img src=./prog/ere/10059p.jpg  width=360 height=730.8  border=0></a> 
-		<br>17-02-1990: BVV Den Bosch - Fortuna Sittard 1 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=10069">
+		<center><img src=./prog/ere/10069p.jpg  width=360 height=509.6  border=0></a> 
+		<br>17-03-1990: Fortuna Sittard - NEC 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

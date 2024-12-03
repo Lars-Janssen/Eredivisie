@@ -1806,9 +1806,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=18994">
-								<center><img src=./tickets/ere/18994t.jpg  border=0></a><br>
-								10-03-2019: Vitesse - Feyenoord 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=18930">
+								<center><img src=./tickets/ere/18930t.jpg  border=0></a><br>
+								12-05-2019: PEC Zwolle - VVV-Venlo 2 - 4
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5201,9 +5201,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=18790">
-		<center><img src=./prog/ere/18790p.jpg  width=360 height=508  border=0></a> 
-		<br>01-03-2019: De Graafschap - ADO Den Haag 1 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=18927">
+		<center><img src=./prog/ere/18927p.jpg  width=360 height=507.2  border=0></a> 
+		<br>08-12-2018: PEC Zwolle - Ajax 1 - 4 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

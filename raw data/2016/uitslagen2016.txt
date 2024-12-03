@@ -1767,9 +1767,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=18218">
-								<center><img src=./tickets/ere/18218t.jpg  border=0></a><br>
-								21-08-2016: Heracles Almelo - Feyenoord 0 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=18166">
+								<center><img src=./tickets/ere/18166t.jpg  border=0></a><br>
+								11-12-2016: Sparta Rotterdam - Vitesse 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5120,9 +5120,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=18382">
-		<center><img src=./prog/ere/18382p.jpg  width=360 height=455.2  border=0></a> 
-		<br>23-04-2017: Vitesse - Feyenoord 0 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=18318">
+		<center><img src=./prog/ere/18318p.jpg  width=360 height=511.2  border=0></a> 
+		<br>10-02-2017: PEC Zwolle - NEC 2 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

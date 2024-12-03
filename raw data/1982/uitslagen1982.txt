@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7822">
-								<center><img src=./tickets/ere/7822t.jpg  border=0></a><br>
-								07-05-1983: PEC Zwolle '82 - NEC 1 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7788">
+								<center><img src=./tickets/ere/7788t.jpg  border=0></a><br>
+								23-01-1983: Sparta - Feyenoord 2 - 3
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2383,10 +2383,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7751">
-								<img src=./koppen/ere/7751k.jpg width=360 height=56.88   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7875">
+								<img src=./koppen/ere/7875k.jpg width=360 height=108   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>20-11-1982: NAC - AZ '67 2 - 1
+			<tr><td class=nl3-wizw align=center>17-10-1982: FC Groningen - Sparta 1 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5145,9 +5145,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=7933">
-		<center><img src=./prog/ere/7933p.jpg  width=360 height=1053.9  border=0></a> 
-		<br>04-09-1982: Fortuna Sittard - Sparta 3 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=7910">
+		<center><img src=./prog/ere/7910p.jpg  width=360 height=519.2  border=0></a> 
+		<br>29-01-1983: AZ '67 - PEC Zwolle '82 0 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

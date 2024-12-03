@@ -1587,9 +1587,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2452">
-								<center><img src=./tickets/ere/2452t.jpg  border=0></a><br>
-								18-10-1964: DOS - Telstar 3 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2471">
+								<center><img src=./tickets/ere/2471t.jpg  border=0></a><br>
+								28-03-1965: ADO - DWS 1 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2201,10 +2201,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2368">
-								<img src=./koppen/ere/2368k.jpg width=360 height=90.72   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
-			<tr><td class=nl3-wizw align=center>03-01-1965: MVV - AVC Heracles 1 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2354">
+								<img src=./koppen/ere/2354k.jpg width=360 height=90   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Twentsch dagblad Tubantia)</i>
+			<tr><td class=nl3-wizw align=center>06-09-1964: AVC Heracles - NAC 4 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -4435,9 +4435,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2443">
-		<center><img src=./prog/ere/2443p.jpg  width=360 height=520.8  border=0></a> 
-		<br>21-02-1965: DOS - Go Ahead 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2444">
+		<center><img src=./prog/ere/2444p.jpg  width=360 height=529.6  border=0></a> 
+		<br>22-11-1964: DOS - GVAV 2 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

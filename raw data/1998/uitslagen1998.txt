@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12646">
-								<center><img src=./tickets/ere/12646t.jpg  border=0></a><br>
-								16-05-1999: NEC - Feyenoord 0 - 3
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12693">
+								<center><img src=./tickets/ere/12693t.jpg  border=0></a><br>
+								15-11-1998: Willem II - NAC 2 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5232,9 +5232,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12892">
-		<center><img src=./prog/ere/12892p.jpg  width=360 height=513.6  border=0></a> 
-		<br>01-11-1998: FC Utrecht - Roda JC 0 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12811">
+		<center><img src=./prog/ere/12811p.jpg  width=360 height=519.2  border=0></a> 
+		<br>13-04-1999: AZ - NAC 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

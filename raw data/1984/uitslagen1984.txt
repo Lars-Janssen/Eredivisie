@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8583">
-								<center><img src=./tickets/ere/8583t.jpg  border=0></a><br>
-								03-03-1985: FC Twente - FC Den Bosch '67 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8404">
+								<center><img src=./tickets/ere/8404t.jpg  border=0></a><br>
+								24-03-1985: FC Volendam - PSV 0 - 5
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2433,10 +2433,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8366">
-								<img src=./koppen/ere/8366k.jpg width=360 height=118.08   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8542">
+								<img src=./koppen/ere/8542k.jpg width=360 height=41.76   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>30-03-1985: Haarlem - FC Volendam 1 - 0
+			<tr><td class=nl3-wizw align=center>08-04-1985: Feyenoord - FC Utrecht 2 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5195,9 +5195,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8571">
-		<center><img src=./prog/ere/8571p.jpg  width=360 height=551.2  border=0></a> 
-		<br>24-03-1985: Feyenoord - PEC Zwolle '82 6 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8444">
+		<center><img src=./prog/ere/8444p.jpg  width=360 height=518.4  border=0></a> 
+		<br>02-09-1984: Roda JC - Feyenoord 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

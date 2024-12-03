@@ -1600,9 +1600,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2050">
-								<center><img src=./tickets/ere/2050t.jpg  border=0></a><br>
-								09-06-1963: DOS - ADO 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2076">
+								<center><img src=./tickets/ere/2076t.jpg  border=0></a><br>
+								12-05-1963: DOS - Willem II 0 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2200,10 +2200,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1963">
-								<img src=./koppen/ere/1963k.jpg width=360 height=133.92   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>09-09-1962: Blauw-Wit - Feijenoord 1 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2023">
+								<img src=./koppen/ere/2023k.jpg width=360 height=82.08   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
+			<tr><td class=nl3-wizw align=center>04-11-1962: Fortuna '54 - DOS 1 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -4434,9 +4434,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1848">
-		<center><img src=./prog/ere/1848p.jpg  width=360 height=557.6  border=0></a> 
-		<br>16-06-1963: NAC - DOS 2 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1840">
+		<center><img src=./prog/ere/1840p.jpg  width=360 height=553.6  border=0></a> 
+		<br>15-04-1963: NAC - AVC Heracles 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

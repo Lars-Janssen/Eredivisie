@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14775">
-								<center><img src=./tickets/ere/14775t.jpg  border=0></a><br>
-								30-11-2005: NAC Breda - FC Groningen 2 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14828">
+								<center><img src=./tickets/ere/14828t.jpg  border=0></a><br>
+								11-01-2006: NAC Breda - RKC Waalwijk 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5181,9 +5181,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14870">
-		<center><img src=./prog/ere/14870p.jpg  width=360 height=516  border=0></a> 
-		<br>19-03-2006: AZ - Feyenoord 1 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14880">
+		<center><img src=./prog/ere/14880p.jpg  width=360 height=515.2  border=0></a> 
+		<br>12-04-2006: AZ - FC Twente 0 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

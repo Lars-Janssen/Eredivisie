@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=13803">
-								<center><img src=./tickets/ere/13803t.jpg  border=0></a><br>
-								08-02-2002: FC Twente - FC Den Bosch 4 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=13735">
+								<center><img src=./tickets/ere/13735t.jpg  border=0></a><br>
+								24-04-2002: PSV - Willem II 6 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5091,9 +5091,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13706">
-		<center><img src=./prog/ere/13706p.jpg  width=360 height=480.8  border=0></a> 
-		<br>21-04-2002: NEC - FC Den Bosch 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13624">
+		<center><img src=./prog/ere/13624p.jpg  width=360 height=528.8  border=0></a> 
+		<br>25-11-2001: Feyenoord - Willem II 3 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

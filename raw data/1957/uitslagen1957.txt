@@ -2291,10 +2291,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=508">
-								<img src=./koppen/ere/508k.jpg width=360 height=73.44   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
-			<tr><td class=nl3-wizw align=center>09-02-1958: ADO - Fortuna '54 1 - 2
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=355">
+								<img src=./koppen/ere/355k.jpg width=360 height=111.6   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
+			<tr><td class=nl3-wizw align=center>16-03-1958: MVV - BVC Amsterdam 1 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5053,9 +5053,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=530">
-		<center><img src=./prog/ere/530p.jpg  width=360 height=558.4  border=0></a> 
-		<br>13-10-1957: Ajax - Feijenoord 1 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=329">
+		<center><img src=./prog/ere/329p.jpg  width=360 height=457.6  border=0></a> 
+		<br>27-10-1957: PSV - BVV 5 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

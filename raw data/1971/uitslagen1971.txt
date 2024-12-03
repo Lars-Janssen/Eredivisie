@@ -1676,9 +1676,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4393">
-								<center><img src=./tickets/ere/4393t.jpg  border=0></a><br>
-								31-10-1971: MVV - Ajax 0 - 3
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4461">
+								<center><img src=./tickets/ere/4461t.jpg  border=0></a><br>
+								29-08-1971: PSV - FC Utrecht 1 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5091,9 +5091,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4556">
-		<center><img src=./prog/ere/4556p.jpg  width=360 height=564.8  border=0></a> 
-		<br>12-12-1971: FC Utrecht - RV & AV Excelsior 6 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4331">
+		<center><img src=./prog/ere/4331p.jpg  width=360 height=505.6  border=0></a> 
+		<br>16-04-1972: NEC - RV & AV Excelsior 1 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

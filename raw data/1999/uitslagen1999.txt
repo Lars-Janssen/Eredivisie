@@ -1793,9 +1793,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12927">
-								<center><img src=./tickets/ere/12927t.jpg  border=0></a><br>
-								04-12-1999: PSV - Roda JC 2 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12925">
+								<center><img src=./tickets/ere/12925t.jpg  border=0></a><br>
+								23-10-1999: PSV - FC Twente 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5258,9 +5258,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12934">
-		<center><img src=./prog/ere/12934p.jpg  width=360 height=463.2  border=0></a> 
-		<br>13-10-1999: FC Den Bosch - AZ 2 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13116">
+		<center><img src=./prog/ere/13116p.jpg  width=360 height=514.4  border=0></a> 
+		<br>18-12-1999: AZ - NEC 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

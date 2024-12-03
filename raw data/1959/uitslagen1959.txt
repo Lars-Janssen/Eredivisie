@@ -1767,9 +1767,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1105">
-								<center><img src=./tickets/ere/1105t.jpg  border=0></a><br>
-								06-03-1960: DOS - PSV 2 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1156">
+								<center><img src=./tickets/ere/1156t.jpg  border=0></a><br>
+								23-08-1959: Feijenoord - Sparta 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2380,10 +2380,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1137">
-								<img src=./koppen/ere/1137k.jpg width=360 height=180.72   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>01-11-1959: ADO - RKSV Volendam 4 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1135">
+								<img src=./koppen/ere/1135k.jpg width=360 height=107.28   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
+			<tr><td class=nl3-wizw align=center>21-02-1960: Ajax - Sittardia 4 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5142,9 +5142,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=965">
-		<center><img src=./prog/ere/965p.jpg  width=360 height=577.6  border=0></a> 
-		<br>31-01-1960: NAC - Willem II 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=960">
+		<center><img src=./prog/ere/960p.jpg  width=360 height=562.4  border=0></a> 
+		<br>13-03-1960: NAC - SC Enschede 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

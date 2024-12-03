@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5970">
-								<center><img src=./tickets/ere/5970t.jpg  border=0></a><br>
-								23-01-1977: Sparta - PSV 0 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6091">
+								<center><img src=./tickets/ere/6091t.jpg  border=0></a><br>
+								27-02-1977: FC Utrecht - Haarlem 1 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2300,10 +2300,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5971">
-								<img src=./koppen/ere/5971k.jpg width=360 height=215.28   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>06-02-1977: FC VVV - Haarlem 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6084">
+								<img src=./koppen/ere/6084k.jpg width=360 height=257.76   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
+			<tr><td class=nl3-wizw align=center>20-03-1977: AZ '67 - FC Amsterdam 2 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5062,9 +5062,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6081">
-		<center><img src=./prog/ere/6081p.jpg  width=360 height=542.4  border=0></a> 
-		<br>13-02-1977: AZ '67 - FC Utrecht 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6148">
+		<center><img src=./prog/ere/6148p.jpg  width=360 height=517.6  border=0></a> 
+		<br>12-01-1977: FC Twente - Feyenoord 0 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

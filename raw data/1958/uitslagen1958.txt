@@ -1663,9 +1663,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=820">
-								<center><img src=./tickets/ere/820t.jpg  border=0></a><br>
-								26-12-1958: ADO - Ajax 3 - 4
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=816">
+								<center><img src=./tickets/ere/816t.jpg  border=0></a><br>
+								14-09-1958: ADO - Feijenoord 2 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2277,10 +2277,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=795">
-								<img src=./koppen/ere/795k.jpg width=360 height=126   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: De Tijd-Maasbode)</i>
-			<tr><td class=nl3-wizw align=center>04-01-1959: DOS - SC Enschede 2 - 3
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=814">
+								<img src=./koppen/ere/814k.jpg width=360 height=76.32   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
+			<tr><td class=nl3-wizw align=center>01-02-1959: ADO - MVV 0 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5039,9 +5039,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=709">
-		<center><img src=./prog/ere/709p.jpg  width=360 height=559.2  border=0></a> 
-		<br>05-04-1959: NAC - ADO 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=665">
+		<center><img src=./prog/ere/665p.jpg  width=360 height=568.8  border=0></a> 
+		<br>18-05-1959: NAC - Elinkwijk 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

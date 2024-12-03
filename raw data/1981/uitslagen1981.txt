@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7670">
-								<center><img src=./tickets/ere/7670t.jpg  border=0></a><br>
-								02-05-1982: FC Groningen - PSV 4 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7412">
+								<center><img src=./tickets/ere/7412t.jpg  border=0></a><br>
+								13-02-1982: PEC Zwolle - Ajax 1 - 3
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2342,10 +2342,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7510">
-								<img src=./koppen/ere/7510k.jpg width=360 height=64.8   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>24-01-1982: Roda JC - Sparta 2 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7427">
+								<img src=./koppen/ere/7427k.jpg width=360 height=206.64   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
+			<tr><td class=nl3-wizw align=center>16-08-1981: Haarlem - Sparta 0 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5104,9 +5104,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=7406">
-		<center><img src=./prog/ere/7406p.jpg  width=360 height=495.2  border=0></a> 
-		<br>30-01-1982: PEC Zwolle - FC Twente 5 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=7652">
+		<center><img src=./prog/ere/7652p.jpg  width=360 height=1028.7  border=0></a> 
+		<br>27-02-1982: Go Ahead Eagles - AZ '67 4 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1663,9 +1663,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1472">
-								<center><img src=./tickets/ere/1472t.jpg  border=0></a><br>
-								09-10-1960: Feijenoord - SC Enschede 4 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1517">
+								<center><img src=./tickets/ere/1517t.jpg  border=0></a><br>
+								18-12-1960: Feijenoord - MVV 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2275,10 +2275,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1320">
-								<img src=./koppen/ere/1320k.jpg width=360 height=92.16   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: De nieuwe Limburger)</i>
-			<tr><td class=nl3-wizw align=center>11-09-1960: VVV - Fortuna '54 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1389">
+								<img src=./koppen/ere/1389k.jpg width=360 height=74.88   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
+			<tr><td class=nl3-wizw align=center>05-03-1961: DOS - GVAV 7 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5037,9 +5037,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1385">
-		<center><img src=./prog/ere/1385p.jpg  width=360 height=476  border=0></a> 
-		<br>19-02-1961: DOS - ADO 0 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1413">
+		<center><img src=./prog/ere/1413p.jpg  width=360 height=486.4  border=0></a> 
+		<br>26-03-1961: DOS - NOAD 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

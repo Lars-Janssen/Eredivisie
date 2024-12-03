@@ -1715,9 +1715,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14645">
-								<center><img src=./tickets/ere/14645t.jpg  border=0></a><br>
-								20-02-2005: Vitesse - ADO Den Haag 3 - 4
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14696">
+								<center><img src=./tickets/ere/14696t.jpg  border=0></a><br>
+								27-11-2004: ADO Den Haag - Willem II 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5195,9 +5195,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14589">
-		<center><img src=./prog/ere/14589p.jpg  width=360 height=510.4  border=0></a> 
-		<br>12-02-2005: RBC Roosendaal - FC Utrecht 0 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14506">
+		<center><img src=./prog/ere/14506p.jpg  width=360 height=509.6  border=0></a> 
+		<br>20-03-2005: FC Twente - ADO Den Haag 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

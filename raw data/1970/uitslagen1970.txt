@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4171">
-								<center><img src=./tickets/ere/4171t.jpg  border=0></a><br>
-								13-12-1970: PSV - NEC 2 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4225">
+								<center><img src=./tickets/ere/4225t.jpg  border=0></a><br>
+								20-12-1970: ADO - FC Twente 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2409,10 +2409,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4028">
-								<img src=./koppen/ere/4028k.jpg width=360 height=160.56   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
-			<tr><td class=nl3-wizw align=center>22-11-1970: MVV - Telstar 1 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4081">
+								<img src=./koppen/ere/4081k.jpg width=360 height=162   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
+			<tr><td class=nl3-wizw align=center>28-03-1971: MVV - ADO 0 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5171,9 +5171,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4037">
-		<center><img src=./prog/ere/4037p.jpg  width=360 height=502.4  border=0></a> 
-		<br>31-01-1971: MVV - FC Utrecht 6 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4326">
+		<center><img src=./prog/ere/4326p.jpg  width=360 height=465.6  border=0></a> 
+		<br>04-10-1970: FC Twente - NAC 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

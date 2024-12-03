@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11335">
-								<center><img src=./tickets/ere/11335t.jpg  border=0></a><br>
-								27-04-1994: Feyenoord - FC Groningen 2 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11176">
+								<center><img src=./tickets/ere/11176t.jpg  border=0></a><br>
+								17-04-1994: Vitesse - Feyenoord 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2436,10 +2436,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11364">
-								<img src=./koppen/ere/11364k.jpg width=360 height=26.64   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Nieuwsblad van het Zuiden)</i>
-			<tr><td class=nl3-wizw align=center>21-11-1993: Feyenoord - Vitesse 1 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11109">
+								<img src=./koppen/ere/11109k.jpg width=360 height=87.12   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: De Telegraaf)</i>
+			<tr><td class=nl3-wizw align=center>19-12-1993: Sparta - sc Heerenveen 3 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5198,9 +5198,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11266">
-		<center><img src=./prog/ere/11266p.jpg  width=360 height=496.8  border=0></a> 
-		<br>06-04-1994: Ajax - NAC 5 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11241">
+		<center><img src=./prog/ere/11241p.jpg  width=360 height=511.2  border=0></a> 
+		<br>31-10-1993: FC Twente - Sparta 0 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

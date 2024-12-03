@@ -1754,9 +1754,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=16404">
-								<center><img src=./tickets/ere/16404t.jpg  border=0></a><br>
-								29-01-2011: AZ - VVV-Venlo 6 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=16312">
+								<center><img src=./tickets/ere/16312t.jpg  border=0></a><br>
+								11-12-2010: NAC Breda - FC Utrecht 3 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5206,9 +5206,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=16264">
-		<center><img src=./prog/ere/16264p.jpg  width=360 height=503.2  border=0></a> 
-		<br>16-10-2010: Ajax - NAC Breda 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=16556">
+		<center><img src=./prog/ere/16556p.jpg  width=360 height=516.8  border=0></a> 
+		<br>23-04-2011: Willem II - AZ 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1832,9 +1832,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11953">
-								<center><img src=./tickets/ere/11953t.jpg  border=0></a><br>
-								03-12-1995: FC Volendam - sc Heerenveen 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11898">
+								<center><img src=./tickets/ere/11898t.jpg  border=0></a><br>
+								25-11-1995: Go Ahead Eagles - Roda JC 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2527,10 +2527,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11831">
-								<img src=./koppen/ere/11831k.jpg width=360 height=96.48   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
-			<tr><td class=nl3-wizw align=center>17-12-1995: FC Twente - FC Volendam 2 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11851">
+								<img src=./koppen/ere/11851k.jpg width=360 height=81.36   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
+			<tr><td class=nl3-wizw align=center>24-12-1995: Ajax - NEC 3 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5289,9 +5289,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11782">
-		<center><img src=./prog/ere/11782p.jpg  width=360 height=516  border=0></a> 
-		<br>30-03-1996: Roda JC - Ajax 2 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11800">
+		<center><img src=./prog/ere/11800p.jpg  width=360 height=523.2  border=0></a> 
+		<br>01-12-1995: Roda JC - Fortuna Sittard 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

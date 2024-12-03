@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8039">
-								<center><img src=./tickets/ere/8039t.jpg  border=0></a><br>
-								03-09-1983: Go Ahead Eagles - FC Volendam 4 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8137">
+								<center><img src=./tickets/ere/8137t.jpg  border=0></a><br>
+								06-11-1983: Sparta - Feyenoord 1 - 4
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2437,10 +2437,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8285">
-								<img src=./koppen/ere/8285k.jpg width=360 height=84.24   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8111">
+								<img src=./koppen/ere/8111k.jpg width=360 height=53.28   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>22-02-1984: FC Den Bosch '67 - Fortuna Sittard 2 - 1
+			<tr><td class=nl3-wizw align=center>21-04-1984: FC Volendam - Willem II 3 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5199,9 +5199,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8190">
-		<center><img src=./prog/ere/8190p.jpg  width=360 height=548.8  border=0></a> 
-		<br>05-02-1984: RV & AV Excelsior - Sparta 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8251">
+		<center><img src=./prog/ere/8251p.jpg  width=360 height=1048.5  border=0></a> 
+		<br>24-03-1984: Fortuna Sittard - PSV 1 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

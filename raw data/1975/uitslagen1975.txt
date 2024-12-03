@@ -1715,9 +1715,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5598">
-								<center><img src=./tickets/ere/5598t.jpg  border=0></a><br>
-								07-03-1976: Feyenoord - FC Twente 3 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5816">
+								<center><img src=./tickets/ere/5816t.jpg  border=0></a><br>
+								07-03-1976: FC Utrecht - Ajax 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2340,10 +2340,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5598">
-								<img src=./koppen/ere/5598k.jpg width=360 height=65.52   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: De Waarheid)</i>
-			<tr><td class=nl3-wizw align=center>07-03-1976: Feyenoord - FC Twente 3 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5784">
+								<img src=./koppen/ere/5784k.jpg width=360 height=64.8   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
+			<tr><td class=nl3-wizw align=center>11-04-1976: FC Twente - MVV 5 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5102,9 +5102,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5607">
-		<center><img src=./prog/ere/5607p.jpg  width=360 height=564.8  border=0></a> 
-		<br>11-01-1976: Feyenoord - FC Utrecht 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5774">
+		<center><img src=./prog/ere/5774p.jpg  width=360 height=546.4  border=0></a> 
+		<br>21-09-1975: AZ '67 - FC Twente 1 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

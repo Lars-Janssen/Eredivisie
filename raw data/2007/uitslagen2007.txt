@@ -1806,9 +1806,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15465">
-								<center><img src=./tickets/ere/15465t.jpg  border=0></a><br>
-								27-12-2007: FC Utrecht - SBV Excelsior 4 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15525">
+								<center><img src=./tickets/ere/15525t.jpg  border=0></a><br>
+								22-03-2008: PSV - FC Groningen 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5230,9 +5230,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15457">
-		<center><img src=./prog/ere/15457p.jpg  width=360 height=505.6  border=0></a> 
-		<br>07-03-2008: Heracles Almelo - FC Utrecht 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15346">
+		<center><img src=./prog/ere/15346p.jpg  width=360 height=488  border=0></a> 
+		<br>02-12-2007: Ajax - NAC Breda 1 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

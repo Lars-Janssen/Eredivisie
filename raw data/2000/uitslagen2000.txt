@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=13323">
-								<center><img src=./tickets/ere/13323t.jpg  border=0></a><br>
-								01-04-2001: Sparta - FC Utrecht 0 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=13215">
+								<center><img src=./tickets/ere/13215t.jpg  border=0></a><br>
+								05-05-2001: PSV - sc Heerenveen 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5221,9 +5221,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13284">
-		<center><img src=./prog/ere/13284p.jpg  width=360 height=512  border=0></a> 
-		<br>04-03-2001: Sparta - FC Twente 5 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=13477">
+		<center><img src=./prog/ere/13477p.jpg  width=360 height=516.8  border=0></a> 
+		<br>26-11-2000: FC Utrecht - Ajax 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

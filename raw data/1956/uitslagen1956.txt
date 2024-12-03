@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=210">
-								<center><img src=./tickets/ere/210t.jpg  border=0></a><br>
-								07-10-1956: Ajax - MVV 2 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=245">
+								<center><img src=./tickets/ere/245t.jpg  border=0></a><br>
+								03-02-1957: Feijenoord - SC Enschede 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2371,10 +2371,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=42">
-								<img src=./koppen/ere/42k.jpg width=360 height=158.4   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Nieuwsblad van het Zuiden)</i>
-			<tr><td class=nl3-wizw align=center>13-01-1957: MVV - SC Enschede 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=158">
+								<img src=./koppen/ere/158k.jpg width=360 height=51.84   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
+			<tr><td class=nl3-wizw align=center>12-05-1957: DOS - Ajax 0 - 2
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5133,9 +5133,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=210">
-		<center><img src=./prog/ere/210p.jpg  width=360 height=552  border=0></a> 
-		<br>07-10-1956: Ajax - MVV 2 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=201">
+		<center><img src=./prog/ere/201p.jpg  width=360 height=557.6  border=0></a> 
+		<br>23-09-1956: Ajax - GVAV 4 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1676,9 +1676,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8992">
-								<center><img src=./tickets/ere/8992t.jpg  border=0></a><br>
-								14-03-1987: Go Ahead Eagles - PSV 0 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9197">
+								<center><img src=./tickets/ere/9197t.jpg  border=0></a><br>
+								23-11-1986: FC Den Haag - PSV 2 - 6
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2385,10 +2385,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8938">
-								<img src=./koppen/ere/8938k.jpg width=360 height=157.68   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Leeuwarder Courant)</i>
-			<tr><td class=nl3-wizw align=center>29-10-1986: PSV - FC Groningen 6 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9129">
+								<img src=./koppen/ere/9129k.jpg width=360 height=131.04   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
+			<tr><td class=nl3-wizw align=center>29-10-1986: AZ - VVV 2 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5147,9 +5147,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9186">
-		<center><img src=./prog/ere/9186p.jpg  width=360 height=508.8  border=0></a> 
-		<br>24-08-1986: FC Groningen - FC Utrecht 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9073">
+		<center><img src=./prog/ere/9073p.jpg  width=360 height=729.6  border=0></a> 
+		<br>23-11-1986: FC Den Bosch '67 - AZ 2 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

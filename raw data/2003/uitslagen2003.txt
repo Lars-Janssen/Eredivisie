@@ -1715,9 +1715,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14381">
-								<center><img src=./tickets/ere/14381t.jpg  border=0></a><br>
-								20-09-2003: ADO Den Haag - RBC Roosendaal 1 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=14411">
+								<center><img src=./tickets/ere/14411t.jpg  border=0></a><br>
+								29-02-2004: Willem II - Feyenoord 0 - 3
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5181,9 +5181,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14337">
-		<center><img src=./prog/ere/14337p.jpg  width=360 height=537.6  border=0></a> 
-		<br>06-03-2004: RKC Waalwijk - Ajax 0 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=14271">
+		<center><img src=./prog/ere/14271p.jpg  width=360 height=516  border=0></a> 
+		<br>07-02-2004: AZ - FC Volendam 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

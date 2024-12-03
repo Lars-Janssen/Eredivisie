@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17059">
-								<center><img src=./tickets/ere/17059t.jpg  border=0></a><br>
-								02-12-2012: NEC - NAC Breda 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17090">
+								<center><img src=./tickets/ere/17090t.jpg  border=0></a><br>
+								02-03-2013: PSV - VVV-Venlo 2 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5208,9 +5208,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=16890">
-		<center><img src=./prog/ere/16890p.jpg  width=360 height=513.6  border=0></a> 
-		<br>01-12-2012: Ajax - PSV 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=17145">
+		<center><img src=./prog/ere/17145p.jpg  width=360 height=509.6  border=0></a> 
+		<br>27-01-2013: Vitesse - Ajax 3 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

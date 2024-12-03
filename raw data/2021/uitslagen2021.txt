@@ -1806,9 +1806,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=19686">
-								<center><img src=./tickets/ere/19686t.jpg  border=0></a><br>
-								13-02-2022: Go Ahead Eagles - AZ 1 - 4
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=19747">
+								<center><img src=./tickets/ere/19747t.jpg  border=0></a><br>
+								29-08-2021: Heracles Almelo - NEC 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2460,10 +2460,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=19812">
-								<img src=./koppen/ere/19812k.jpg width=360 height=94.32   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Tubantia)</i>
-			<tr><td class=nl3-wizw align=center>15-01-2022: FC Twente - sc Heerenveen 2 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=19648">
+								<img src=./koppen/ere/19648k.jpg width=360 height=78.48   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
+			<tr><td class=nl3-wizw align=center>22-12-2021: sc Heerenveen - Feyenoord 0 - 3
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5222,9 +5222,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=19740">
-		<center><img src=./prog/ere/19740p.jpg  width=360 height=510.4  border=0></a> 
-		<br>19-12-2021: Feyenoord - Ajax 0 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=19791">
+		<center><img src=./prog/ere/19791p.jpg  width=360 height=513.6  border=0></a> 
+		<br>23-01-2022: Sparta Rotterdam - FC Utrecht 0 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

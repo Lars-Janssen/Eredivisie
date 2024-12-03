@@ -1793,9 +1793,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20153">
-								<center><img src=./tickets/ere/20153t.jpg  border=0></a><br>
-								14-05-2023: Vitesse - SC Cambuur 2 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20201">
+								<center><img src=./tickets/ere/20201t.jpg  border=0></a><br>
+								03-03-2023: Vitesse - AZ 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2447,10 +2447,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20075">
-								<img src=./koppen/ere/20075k.jpg width=360 height=78.48   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20107">
+								<img src=./koppen/ere/20107k.jpg width=360 height=84.96   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
-			<tr><td class=nl3-wizw align=center>22-10-2022: Feyenoord - Fortuna Sittard 1 - 1
+			<tr><td class=nl3-wizw align=center>28-05-2023: FC Groningen - Sparta Rotterdam 0 - 5
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5209,9 +5209,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=20123">
-		<center><img src=./prog/ere/20123p.jpg  width=360 height=511.2  border=0></a> 
-		<br>07-10-2022: FC Groningen - RKC Waalwijk 2 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=20198">
+		<center><img src=./prog/ere/20198p.jpg  width=360 height=504  border=0></a> 
+		<br>01-10-2022: SC Cambuur - PSV 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

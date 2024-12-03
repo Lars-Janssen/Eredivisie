@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3215">
-								<center><img src=./tickets/ere/3215t.jpg  border=0></a><br>
-								31-03-1968: Xerxes/DHC - Ajax 0 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3328">
+								<center><img src=./tickets/ere/3328t.jpg  border=0></a><br>
+								26-11-1967: Ajax - Fortuna '54 7 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2465,10 +2465,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3323">
-								<img src=./koppen/ere/3323k.jpg width=360 height=75.6   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Het vrije volk)</i>
-			<tr><td class=nl3-wizw align=center>05-11-1967: Ajax - NEC 9 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3271">
+								<img src=./koppen/ere/3271k.jpg width=360 height=144   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
+			<tr><td class=nl3-wizw align=center>11-02-1968: DOS - Go Ahead 0 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5227,9 +5227,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3177">
-		<center><img src=./prog/ere/3177p.jpg  width=360 height=505.6  border=0></a> 
-		<br>27-08-1967: NEC - Feijenoord 0 - 5 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3274">
+		<center><img src=./prog/ere/3274p.jpg  width=360 height=500  border=0></a> 
+		<br>17-12-1967: DOS - Sparta 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

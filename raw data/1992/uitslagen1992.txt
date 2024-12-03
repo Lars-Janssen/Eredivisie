@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11038">
-								<center><img src=./tickets/ere/11038t.jpg  border=0></a><br>
-								28-03-1993: FC Groningen - PSV 0 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10823">
+								<center><img src=./tickets/ere/10823t.jpg  border=0></a><br>
+								25-05-1993: MVV - Feyenoord 0 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2379,10 +2379,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=10997">
-								<img src=./koppen/ere/10997k.jpg width=360 height=81.36   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11029">
+								<img src=./koppen/ere/11029k.jpg width=360 height=152.64   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: Nieuwsblad van het Noorden)</i>
-			<tr><td class=nl3-wizw align=center>15-11-1992: Feyenoord - Ajax 0 - 3
+			<tr><td class=nl3-wizw align=center>15-11-1992: FC Twente - Roda JC 4 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5141,9 +5141,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11017">
-		<center><img src=./prog/ere/11017p.jpg  width=360 height=516.8  border=0></a> 
-		<br>17-10-1992: Fortuna Sittard - Dordrecht '90 0 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11008">
+		<center><img src=./prog/ere/11008p.jpg  width=360 height=524  border=0></a> 
+		<br>28-11-1992: Fortuna Sittard - RKC 4 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

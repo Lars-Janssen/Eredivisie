@@ -1754,9 +1754,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9488">
-								<center><img src=./tickets/ere/9488t.jpg  border=0></a><br>
-								24-04-1988: Feyenoord - Ajax 1 - 3
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9414">
+								<center><img src=./tickets/ere/9414t.jpg  border=0></a><br>
+								27-02-1988: Ajax - FC Utrecht 1 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2464,10 +2464,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9285">
-								<img src=./koppen/ere/9285k.jpg width=360 height=174.96   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: De Telegraaf)</i>
-			<tr><td class=nl3-wizw align=center>16-01-1988: Haarlem - VVV 1 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9317">
+								<img src=./koppen/ere/9317k.jpg width=360 height=118.8   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
+			<tr><td class=nl3-wizw align=center>04-10-1987: VVV - FC Utrecht 3 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5226,9 +5226,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9418">
-		<center><img src=./prog/ere/9418p.jpg  width=360 height=509.6  border=0></a> 
-		<br>12-08-1987: Ajax - Roda JC 1 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9340">
+		<center><img src=./prog/ere/9340p.jpg  width=360 height=517.6  border=0></a> 
+		<br>16-08-1987: Sparta - FC Utrecht 6 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1728,9 +1728,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15087">
-								<center><img src=./tickets/ere/15087t.jpg  border=0></a><br>
-								02-12-2006: NAC Breda - FC Twente 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15172">
+								<center><img src=./tickets/ere/15172t.jpg  border=0></a><br>
+								03-02-2007: Heracles Almelo - Willem II 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5221,9 +5221,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15039">
-		<center><img src=./prog/ere/15039p.jpg  width=360 height=641.6  border=0></a> 
-		<br>04-02-2007: Ajax - Feyenoord 4 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15038">
+		<center><img src=./prog/ere/15038p.jpg  width=360 height=639.2  border=0></a> 
+		<br>01-04-2007: Ajax - Heracles Almelo 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

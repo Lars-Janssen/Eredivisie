@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=16071">
-								<center><img src=./tickets/ere/16071t.jpg  border=0></a><br>
-								31-03-2010: Feyenoord - Vitesse 2 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=16144">
+								<center><img src=./tickets/ere/16144t.jpg  border=0></a><br>
+								03-02-2010: FC Groningen - ADO Den Haag 2 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5286,9 +5286,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=16103">
-		<center><img src=./prog/ere/16103p.jpg  width=360 height=513.6  border=0></a> 
-		<br>19-12-2009: AZ - ADO Den Haag 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15999">
+		<center><img src=./prog/ere/15999p.jpg  width=360 height=510.4  border=0></a> 
+		<br>13-03-2010: NAC Breda - FC Groningen 0 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9626">
-								<center><img src=./tickets/ere/9626t.jpg  border=0></a><br>
-								09-10-1988: Ajax - PSV 2 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9697">
+								<center><img src=./tickets/ere/9697t.jpg  border=0></a><br>
+								30-10-1988: FC Groningen - PEC Zwolle '82 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2517,10 +2517,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9697">
-								<img src=./koppen/ere/9697k.jpg width=360 height=46.8   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>30-10-1988: FC Groningen - PEC Zwolle '82 3 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=9640">
+								<img src=./koppen/ere/9640k.jpg width=360 height=201.6   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Nieuwsblad van het Noorden)</i>
+			<tr><td class=nl3-wizw align=center>08-10-1988: Willem II - FC Groningen 2 - 3
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5279,9 +5279,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9725">
-		<center><img src=./prog/ere/9725p.jpg  width=360 height=507.2  border=0></a> 
-		<br>27-11-1988: Ajax - FC Volendam 2 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=9702">
+		<center><img src=./prog/ere/9702p.jpg  width=360 height=503.2  border=0></a> 
+		<br>21-05-1989: FC Twente - FC Volendam 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

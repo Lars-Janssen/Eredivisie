@@ -1600,9 +1600,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2247">
-								<center><img src=./tickets/ere/2247t.jpg  border=0></a><br>
-								16-02-1964: Ajax - Feijenoord 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2314">
+								<center><img src=./tickets/ere/2314t.jpg  border=0></a><br>
+								08-09-1963: Feijenoord - DOS 4 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2173,10 +2173,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2255">
-								<img src=./koppen/ere/2255k.jpg width=360 height=77.76   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>03-05-1964: Ajax - Sparta 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2170">
+								<img src=./koppen/ere/2170k.jpg width=360 height=104.4   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: De Waarheid)</i>
+			<tr><td class=nl3-wizw align=center>24-11-1963: PSV - DOS 1 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -4407,9 +4407,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2213">
-		<center><img src=./prog/ere/2213p.jpg  width=360 height=525.6  border=0></a> 
-		<br>15-03-1964: DOS - Ajax 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2214">
+		<center><img src=./prog/ere/2214p.jpg  width=360 height=524.8  border=0></a> 
+		<br>18-05-1964: DOS - Blauw-Wit 4 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

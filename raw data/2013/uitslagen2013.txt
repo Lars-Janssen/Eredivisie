@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17401">
-								<center><img src=./tickets/ere/17401t.jpg  border=0></a><br>
-								04-08-2013: PEC Zwolle - Feyenoord 2 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17470">
+								<center><img src=./tickets/ere/17470t.jpg  border=0></a><br>
+								01-11-2013: RKC Waalwijk - NAC Breda 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5134,9 +5134,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=17209">
-		<center><img src=./prog/ere/17209p.jpg  width=360 height=509.6  border=0></a> 
-		<br>18-01-2014: sc Heerenveen - Roda JC Kerkrade 2 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=17428">
+		<center><img src=./prog/ere/17428p.jpg  width=360 height=515.2  border=0></a> 
+		<br>04-04-2014: PEC Zwolle - FC Groningen 0 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

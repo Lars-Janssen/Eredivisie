@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1781">
-								<center><img src=./tickets/ere/1781t.jpg  border=0></a><br>
-								03-09-1961: ADO - VVV 5 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1704">
+								<center><img src=./tickets/ere/1704t.jpg  border=0></a><br>
+								03-12-1961: De Volewijckers - RKSV Volendam 2 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2302,10 +2302,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1573">
-								<img src=./koppen/ere/1573k.jpg width=360 height=101.52   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: De Telegraaf)</i>
-			<tr><td class=nl3-wizw align=center>11-02-1962: MVV - SC Enschede 1 - 2
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=1776">
+								<img src=./koppen/ere/1776k.jpg width=360 height=96.48   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
+			<tr><td class=nl3-wizw align=center>10-12-1961: Feijenoord - VVV 3 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5064,9 +5064,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1688">
-		<center><img src=./prog/ere/1688p.jpg  width=360 height=560  border=0></a> 
-		<br>25-02-1962: De Volewijckers - Blauw-Wit 3 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=1604">
+		<center><img src=./prog/ere/1604p.jpg  width=360 height=560  border=0></a> 
+		<br>10-09-1961: NAC - DOS 2 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1845,9 +1845,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20324">
-								<center><img src=./tickets/ere/20324t.jpg  border=0></a><br>
-								27-08-2023: Feyenoord - Almere City FC 6 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20459">
+								<center><img src=./tickets/ere/20459t.jpg  border=0></a><br>
+								27-10-2023: Vitesse - PEC Zwolle 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2513,10 +2513,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20509">
-								<img src=./koppen/ere/20509k.jpg width=360 height=85.68   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: de Stentor)</i>
-			<tr><td class=nl3-wizw align=center>26-01-2024: PEC Zwolle - Vitesse 1 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=20361">
+								<img src=./koppen/ere/20361k.jpg width=360 height=108.72   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
+			<tr><td class=nl3-wizw align=center>12-05-2024: FC Utrecht - Sparta Rotterdam 0 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5275,9 +5275,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=20334">
-		<center><img src=./prog/ere/20334p.jpg  width=360 height=516.8  border=0></a> 
-		<br>07-10-2023: Vitesse - Excelsior Rotterdam 0 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=20480">
+		<center><img src=./prog/ere/20480p.jpg  width=360 height=512  border=0></a> 
+		<br>02-04-2024: Fortuna Sittard - NEC 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

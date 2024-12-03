@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6855">
-								<center><img src=./tickets/ere/6855t.jpg  border=0></a><br>
-								20-04-1980: Vitesse - PEC Zwolle 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=7077">
+								<center><img src=./tickets/ere/7077t.jpg  border=0></a><br>
+								11-11-1979: FC Utrecht - Willem II 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2408,10 +2408,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6936">
-								<img src=./koppen/ere/6936k.jpg width=360 height=118.08   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6856">
+								<img src=./koppen/ere/6856k.jpg width=360 height=97.2   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
-			<tr><td class=nl3-wizw align=center>07-10-1979: RV & AV Excelsior - FC Twente 2 - 2
+			<tr><td class=nl3-wizw align=center>02-12-1979: Vitesse - NEC 0 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5170,9 +5170,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6845">
-		<center><img src=./prog/ere/6845p.jpg  width=360 height=1018.8  border=0></a> 
-		<br>02-02-1980: NAC - Go Ahead Eagles 1 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6826">
+		<center><img src=./prog/ere/6826p.jpg  width=360 height=497.6  border=0></a> 
+		<br>23-02-1980: MVV - FC Twente 1 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

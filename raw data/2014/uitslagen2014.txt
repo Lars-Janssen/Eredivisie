@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17494">
-								<center><img src=./tickets/ere/17494t.jpg  border=0></a><br>
-								15-03-2015: sc Heerenveen - Ajax 1 - 4
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=17614">
+								<center><img src=./tickets/ere/17614t.jpg  border=0></a><br>
+								12-12-2014: Heracles Almelo - FC Dordrecht 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5162,9 +5162,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=17722">
-		<center><img src=./prog/ere/17722p.jpg  width=360 height=505.6  border=0></a> 
-		<br>14-02-2015: ADO Den Haag - NAC Breda 3 - 2 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=17488">
+		<center><img src=./prog/ere/17488p.jpg  width=360 height=515.2  border=0></a> 
+		<br>19-04-2015: Ajax - NAC Breda 0 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

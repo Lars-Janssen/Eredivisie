@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11646">
-								<center><img src=./tickets/ere/11646t.jpg  border=0></a><br>
-								06-11-1994: FC Utrecht - PSV 1 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11663">
+								<center><img src=./tickets/ere/11663t.jpg  border=0></a><br>
+								17-12-1994: Go Ahead Eagles - FC Groningen 2 - 4
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2489,10 +2489,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11369">
-								<img src=./koppen/ere/11369k.jpg width=360 height=158.4   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=11637">
+								<img src=./koppen/ere/11637k.jpg width=360 height=72.72   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>07-04-1995: Roda JC - sc Heerenveen 1 - 0
+			<tr><td class=nl3-wizw align=center>16-10-1994: Feyenoord - FC Utrecht 3 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5251,9 +5251,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11405">
-		<center><img src=./prog/ere/11405p.jpg  width=360 height=522.4  border=0></a> 
-		<br>18-03-1995: NAC - FC Volendam 0 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=11400">
+		<center><img src=./prog/ere/11400p.jpg  width=360 height=521.6  border=0></a> 
+		<br>07-03-1995: NAC - PSV 1 - 2 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

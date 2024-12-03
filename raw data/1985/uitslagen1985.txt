@@ -1715,9 +1715,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8906">
-								<center><img src=./tickets/ere/8906t.jpg  border=0></a><br>
-								15-12-1985: FC Utrecht - FC Groningen 1 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8914">
+								<center><img src=./tickets/ere/8914t.jpg  border=0></a><br>
+								20-10-1985: FC Utrecht - Ajax 1 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2424,10 +2424,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8803">
-								<img src=./koppen/ere/8803k.jpg width=360 height=68.4   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
-			<tr><td class=nl3-wizw align=center>08-09-1985: Ajax - VVV 7 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=8698">
+								<img src=./koppen/ere/8698k.jpg width=360 height=192.24   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
+			<tr><td class=nl3-wizw align=center>09-03-1986: Sparta - FC Groningen 3 - 3
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5186,9 +5186,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8750">
-		<center><img src=./prog/ere/8750p.jpg  width=360 height=504  border=0></a> 
-		<br>16-03-1986: Roda JC - FC Utrecht 3 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=8910">
+		<center><img src=./prog/ere/8910p.jpg  width=360 height=743.2  border=0></a> 
+		<br>23-03-1986: FC Twente - PSV 1 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

@@ -1754,9 +1754,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3591">
-								<center><img src=./tickets/ere/3591t.jpg  border=0></a><br>
-								07-04-1969: AZ '67 - ADO 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3712">
+								<center><img src=./tickets/ere/3712t.jpg  border=0></a><br>
+								08-09-1968: Feijenoord - AZ '67 2 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2407,10 +2407,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3576">
-								<img src=./koppen/ere/3576k.jpg width=360 height=94.32   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Algemeen Handelsblad)</i>
-			<tr><td class=nl3-wizw align=center>20-04-1969: AZ '67 - Go Ahead 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3466">
+								<img src=./koppen/ere/3466k.jpg width=360 height=203.76   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: De Tijd)</i>
+			<tr><td class=nl3-wizw align=center>11-05-1969: MVV - DOS 4 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5169,9 +5169,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3523">
-		<center><img src=./prog/ere/3523p.jpg  width=360 height=515.2  border=0></a> 
-		<br>07-04-1969: NEC - RKSV Volendam 0 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3534">
+		<center><img src=./prog/ere/3534p.jpg  width=360 height=508.8  border=0></a> 
+		<br>11-05-1969: NEC - Telstar 3 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

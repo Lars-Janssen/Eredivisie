@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4653">
-								<center><img src=./tickets/ere/4653t.jpg  border=0></a><br>
-								08-04-1973: NAC - FC Den Haag/ADO 1 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4811">
+								<center><img src=./tickets/ere/4811t.jpg  border=0></a><br>
+								15-04-1973: FC Den Bosch '67 - Ajax 1 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2300,10 +2300,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4773">
-								<img src=./koppen/ere/4773k.jpg width=360 height=118.8   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4640">
+								<img src=./koppen/ere/4640k.jpg width=360 height=90   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: Het vrije volk)</i>
-			<tr><td class=nl3-wizw align=center>14-01-1973: PSV - FC Groningen 0 - 0
+			<tr><td class=nl3-wizw align=center>04-02-1973: MVV - RV & AV Excelsior 3 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5062,9 +5062,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4891">
-		<center><img src=./prog/ere/4891p.jpg  width=360 height=552  border=0></a> 
-		<br>20-05-1973: FC Twente - MVV 0 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=4894">
+		<center><img src=./prog/ere/4894p.jpg  width=360 height=569.6  border=0></a> 
+		<br>08-04-1973: FC Utrecht - FC Amsterdam 2 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

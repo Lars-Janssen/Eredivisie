@@ -1741,9 +1741,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12383">
-								<center><img src=./tickets/ere/12383t.jpg  border=0></a><br>
-								10-05-1998: Feyenoord - NEC 0 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=12402">
+								<center><img src=./tickets/ere/12402t.jpg  border=0></a><br>
+								08-03-1998: FC Utrecht - PSV 0 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5163,9 +5163,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12321">
-		<center><img src=./prog/ere/12321p.jpg  width=360 height=509.6  border=0></a> 
-		<br>11-04-1998: NAC - FC Utrecht 2 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=12401">
+		<center><img src=./prog/ere/12401p.jpg  width=360 height=518.4  border=0></a> 
+		<br>07-12-1997: FC Utrecht - Vitesse 5 - 3 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

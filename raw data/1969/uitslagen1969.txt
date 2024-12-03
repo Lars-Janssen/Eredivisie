@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3991">
-								<center><img src=./tickets/ere/3991t.jpg  border=0></a><br>
-								02-11-1969: FC Twente - Haarlem 1 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3960">
+								<center><img src=./tickets/ere/3960t.jpg  border=0></a><br>
+								12-10-1969: Feijenoord - Sparta 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2385,10 +2385,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3970">
-								<img src=./koppen/ere/3970k.jpg width=360 height=146.88   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Het Parool)</i>
-			<tr><td class=nl3-wizw align=center>05-10-1969: GVAV - Haarlem 0 - 2
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=3750">
+								<img src=./koppen/ere/3750k.jpg width=360 height=159.84   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: De Tijd-Maasbode)</i>
+			<tr><td class=nl3-wizw align=center>12-10-1969: NAC - Go Ahead 2 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5147,9 +5147,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3838">
-		<center><img src=./prog/ere/3838p.jpg  width=360 height=512.8  border=0></a> 
-		<br>07-05-1970: NEC - Telstar 1 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=3878">
+		<center><img src=./prog/ere/3878p.jpg  width=360 height=506.4  border=0></a> 
+		<br>30-04-1970: DOS - Feijenoord 1 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

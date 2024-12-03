@@ -1702,9 +1702,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6381">
-								<center><img src=./tickets/ere/6381t.jpg  border=0></a><br>
-								24-08-1977: Ajax - Vitesse 3 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6388">
+								<center><img src=./tickets/ere/6388t.jpg  border=0></a><br>
+								05-03-1978: AZ '67 - FC Den Haag 2 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2328,10 +2328,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6176">
-								<img src=./koppen/ere/6176k.jpg width=360 height=130.32   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
-			<tr><td class=nl3-wizw align=center>07-01-1978: PSV - NAC 2 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6188">
+								<img src=./koppen/ere/6188k.jpg width=360 height=102.24   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Nieuwsblad van het Noorden)</i>
+			<tr><td class=nl3-wizw align=center>15-10-1977: Sparta - AZ '67 2 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5090,9 +5090,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6396">
-		<center><img src=./prog/ere/6396p.jpg  width=360 height=498.4  border=0></a> 
-		<br>17-08-1977: Go Ahead Eagles - NEC 2 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6391">
+		<center><img src=./prog/ere/6391p.jpg  width=360 height=527.2  border=0></a> 
+		<br>24-03-1978: AZ '67 - NEC 3 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

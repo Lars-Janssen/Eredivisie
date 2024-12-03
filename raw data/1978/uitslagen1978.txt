@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6744">
-								<center><img src=./tickets/ere/6744t.jpg  border=0></a><br>
-								18-03-1979: Feyenoord - AZ '67 1 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6470">
+								<center><img src=./tickets/ere/6470t.jpg  border=0></a><br>
+								02-06-1979: PEC Zwolle - Vitesse 2 - 2
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2315,10 +2315,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6546">
-								<img src=./koppen/ere/6546k.jpg width=360 height=77.76   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Limburgsch dagblad)</i>
-			<tr><td class=nl3-wizw align=center>29-10-1978: FC VVV - FC Volendam 1 - 1
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=6731">
+								<img src=./koppen/ere/6731k.jpg width=360 height=154.08   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Trouw)</i>
+			<tr><td class=nl3-wizw align=center>04-11-1978: MVV - AZ '67 1 - 3
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5077,9 +5077,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6695">
-		<center><img src=./prog/ere/6695p.jpg  width=360 height=250.4  border=0></a> 
-		<br>14-04-1979: AZ '67 - Go Ahead Eagles 1 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=6676">
+		<center><img src=./prog/ere/6676p.jpg  width=360 height=539.2  border=0></a> 
+		<br>09-06-1979: Ajax - FC Twente 8 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

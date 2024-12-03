@@ -1780,9 +1780,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15695">
-								<center><img src=./tickets/ere/15695t.jpg  border=0></a><br>
-								18-10-2008: NAC Breda - PSV 2 - 1
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=15652">
+								<center><img src=./tickets/ere/15652t.jpg  border=0></a><br>
+								12-12-2008: Ajax - NAC Breda 3 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -5218,9 +5218,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15662">
-		<center><img src=./prog/ere/15662p.jpg  width=360 height=484.8  border=0></a> 
-		<br>28-12-2008: Ajax - ADO Den Haag 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=15769">
+		<center><img src=./prog/ere/15769p.jpg  width=360 height=507.2  border=0></a> 
+		<br>17-04-2009: Heracles Almelo - NAC Breda 4 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

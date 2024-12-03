@@ -1715,9 +1715,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5193">
-								<center><img src=./tickets/ere/5193t.jpg  border=0></a><br>
-								12-08-1973: Feyenoord - Go Ahead Eagles 1 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=4963">
+								<center><img src=./tickets/ere/4963t.jpg  border=0></a><br>
+								02-09-1973: NEC - Ajax 1 - 1
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2327,10 +2327,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5046">
-								<img src=./koppen/ere/5046k.jpg width=360 height=110.16   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
-			<tr><td class=nl3-wizw align=center>23-09-1973: Telstar - FC Amsterdam 0 - 0
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5181">
+								<img src=./koppen/ere/5181k.jpg width=360 height=50.4   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: Tubantia)</i>
+			<tr><td class=nl3-wizw align=center>10-03-1974: FC Twente - Telstar 3 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5089,9 +5089,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5181">
-		<center><img src=./prog/ere/5181p.jpg  width=360 height=541.6  border=0></a> 
-		<br>10-03-1974: FC Twente - Telstar 3 - 1 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5012">
+		<center><img src=./prog/ere/5012p.jpg  width=360 height=545.6  border=0></a> 
+		<br>23-12-1973: Haarlem - NEC 2 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

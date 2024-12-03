@@ -1689,9 +1689,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5382">
-								<center><img src=./tickets/ere/5382t.jpg  border=0></a><br>
-								17-11-1974: Sparta - Feyenoord 0 - 0
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5348">
+								<center><img src=./tickets/ere/5348t.jpg  border=0></a><br>
+								27-04-1975: Wageningen - Feyenoord 1 - 4
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2315,10 +2315,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5294">
-								<img src=./koppen/ere/5294k.jpg width=360 height=66.96   border=0></a></center>
-			<tr><td class=nl3-wizw><i>(Bron: Algemeen Dagblad)</i>
-			<tr><td class=nl3-wizw align=center>05-01-1975: Ajax - MVV 4 - 2
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=5525">
+								<img src=./koppen/ere/5525k.jpg width=360 height=61.92   border=0></a></center>
+			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
+			<tr><td class=nl3-wizw align=center>19-01-1975: FC Den Haag/ADO - RV & AV Excelsior 1 - 0
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -5077,9 +5077,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5516">
-		<center><img src=./prog/ere/5516p.jpg  width=360 height=553.6  border=0></a> 
-		<br>06-04-1975: FC Amsterdam - NAC 3 - 0 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=5270">
+		<center><img src=./prog/ere/5270p.jpg  width=360 height=1046.7  border=0></a> 
+		<br>09-03-1975: NAC - Wageningen 0 - 0 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->

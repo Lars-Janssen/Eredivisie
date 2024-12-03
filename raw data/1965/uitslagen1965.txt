@@ -1600,9 +1600,9 @@
 
 		
 		<hr>	<table>
-			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2734">
-								<center><img src=./tickets/ere/2734t.jpg  border=0></a><br>
-								13-03-1966: Ajax - Telstar 6 - 2
+			<td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2729">
+								<center><img src=./tickets/ere/2729t.jpg  border=0></a><br>
+								26-09-1965: Ajax - Go Ahead 4 - 0
 			</table>
 <!- ********************** ticket ere *************** -->
 
@@ -2298,10 +2298,10 @@
 
 		
 			<table>
-			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2594">
-								<img src=./koppen/ere/2594k.jpg width=360 height=113.04   border=0></a></center>
+			<tr><td class=nl3-wizw align=center>	<a href="opstelere.php?wid=2689">
+								<img src=./koppen/ere/2689k.jpg width=360 height=64.08   border=0></a></center>
 			<tr><td class=nl3-wizw><i>(Bron: de Volkskrant)</i>
-			<tr><td class=nl3-wizw align=center>26-12-1965: Go Ahead - Fortuna '54 0 - 0
+			<tr><td class=nl3-wizw align=center>15-05-1966: DOS - Sparta 5 - 1
 			</table><hr>
 
 <!- ********************** kop Ere *************** -->
@@ -4532,9 +4532,9 @@
 
 <!- ********************** programma boekje Ere *************** -->
 
-<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2682">
-		<center><img src=./prog/ere/2682p.jpg  width=360 height=513.6  border=0></a> 
-		<br>12-12-1965: DOS - Feijenoord 0 - 3 
+<hr><table><td class=nl3-wizw align=center><a href="opstelere.php?wid=2753">
+		<center><img src=./prog/ere/2753p.jpg  width=360 height=530.4  border=0></a> 
+		<br>27-02-1966: Fortuna '54 - DOS 0 - 1 
 	
 		</table>
 <!- ********************** programma boekje Ere *************** -->
